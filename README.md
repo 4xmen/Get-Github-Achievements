@@ -44,12 +44,116 @@
 
 <div align="center"  >
 
-<img  src="assets/Quickdraw.png" alt="QuickDraw-Pin">
+<img width="296" src="assets/Quickdraw.png" alt="QuickDraw-Pin">
 </div>
 <hr>
 
 # Quickdraw
-### لورم ایپسوم یا طرح‌نما (به انگلیسی: Lorem ipsum) به متنی آزمایشی و بی‌معنی در صنعت چاپ، صفحه‌آرایی و طراحی گرافیک گفته می‌شود. طراح گرافیک از این متن به عنوان عنصری از ترکیب بندی برای پر کردن صفحه و ارایه اولیه شکل ظاهری و کلی طرح سفارش گرفته شده استفاده می نماید، تا از نظر گرافیکی نشانگر چگونگی نوع و اندازه فونت و ظاهر متن باشد. معمولا طراحان گرافیک برای صفحه‌آرایی، نخست از متن‌های آزمایشی و بی‌معنی استفاده می‌کنند تا صرفا به مشتری یا صاحب کار خود نشان دهند که صفحه طراحی یا صفحه بندی شده بعد از اینکه متن در آن قرار گیرد چگونه به نظر می‌رسد و قلم‌ها و اندازه‌بندی‌ها چگونه در نظر گرفته شده‌است. از آنجایی که طراحان عموما نویسنده متن نیستند و وظیفه رعایت حق تکثیر متون را ندارند و در همان حال کار آنها به نوعی وابسته به متن می‌باشد آنها با استفاده از محتویات ساختگی، صفحه گرافیکی خود را صفحه‌آرایی می‌کنند تا مرحله طراحی و صفحه‌بندی را به پایان برند.
+### In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available
+
+<hr>
+
+<br>
+
+<div align="center"  >
+
+<img width="296" src="assets/Yolo.png" alt="Yolo-Pin">
+</div>
+<hr>
+
+# Yolo
+### In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available
+
+<hr>
+
+<br>
+
+<div align="center"  >
+
+<img width="296" src="assets/GalaxyBrain.png" alt="GalaxyBrain-Pin">
+</div>
+<hr>
+
+# Galaxy Brain
+### In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available
+
+<hr>
+
+<br>
+
+<div align="center"  >
+
+<img width="296" src="assets/PullShark.png" alt="PullShark-Pin">
+</div>
+<hr>
+
+# Pull Shark
+### In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available
+
+<hr>
+
+<br>
+
+<div align="center"  >
+
+<img width="296" src="assets/Starstruck.png" alt="Starstruck-Pin">
+</div>
+<hr>
+
+# Starstruck
+### In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available
+
+<hr>
+
+<br>
+
+<div align="center"  >
+
+<img width="296" src="assets/PairExtraordinaire.png" alt="PairExtraordinaire-Pin">
+</div>
+<hr>
+
+# Pair Extraordinaire
+### In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available
+
+<hr>
+
+<br>
+
+<div align="center"  >
+
+<img width="296" src="assets/PublicSponsor.png" alt="PublicSponsor-Pin">
+</div>
+<hr>
+
+# Public Sponsor
+### In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available
+
+<hr>
+
+<br>
+
+<br>
+
+<div align="center"  >
+
+<img width="296" src="assets/HeartOnYourSleeve.png" alt="HeartOnYourSleeve-Pin">
+</div>
+<hr>
+
+# Heart On Your Sleeve
+### In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available
+
+<br>
+
+<div align="center"  >
+
+<img width="296" src="assets/OpenSourcerer.png" alt="OpenSourcerer-Pin">
+</div>
+<hr>
+
+# Open Sourcerer
+### In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available
 
 <hr>
 
