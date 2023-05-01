@@ -1,6 +1,6 @@
 <!-- <div align="center"> -->
 
-## Language
+## Sprache
 <div align="center">
 
 [![en](https://img.shields.io/badge/Lang-English-blue.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -10,36 +10,150 @@
 </div>
 
 
-
-# GitHub Achievements 🏆
+# GitHub Erfolge 🏆
 
 <br>
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/65187002/172940015-d9d072e7-c47d-4ddd-83f6-8e7717a721b8.png">
-    <img src="assets/172940773-7ef23b63-3356-4634-9e52-34f2676e2854.png">
+    <img src="assets/Github-Logo.png" alt="Github-Logo">
   </picture><br>
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/65187002/172941127-4061fac1-736b-4c24-b7ea-c210b3578cc5.png">
-    <img width="50%" src="assets/172941149-31258408-bfc3-496a-8a58-e34794b21813.png">
+    <img width="50%" src="assets/Github-Text.png" alt="Github-Text">
   </picture>
 </div>
 
 <br>
 
-# Achievements & Display 🏅
+# Erfolge & Anzeige 🏅
 
-#### Achievements are pins that Github gives to your Github account as a reward for certain activities and can be seen in your profile. These achievements give a good effect to your GitHub account and can indicate the amount of your activity and how you are active.
+#### Achievements sind Pins, die GitHub als Belohnung für bestimmte Aktivitäten an Ihren GitHub-Account vergibt und die in Ihrem Profil zu sehen sind. Diese Errungenschaften verleihen Ihrem GitHub-Konto einen guten Effekt und können den Umfang Ihrer Aktivität und Ihre Aktivität anzeigen.
 
-#### You can opt out from having achievements displayed on your profile by going to your [profile settings](https://github.com/settings).
-
-<br>
-
-# Achievement List 📃
+#### Sie können die Anzeige von Erfolgen in Ihrem Profil deaktivieren, indem Sie zu Ihren [Profileinstellungen](https://github.com/settings) gehen.
+#### Hier zeigen wir Ihnen Schritt für Schritt, wie Sie GitHub Achievement Pins erhalten :)
 
 <br>
 
+# Liste der Erfolge 📃
+
+<br>
+
+<div align="center"  >
+
+<img width="296" src="assets/Quickdraw.png" alt="QuickDraw-Pin">
+</div>
+<hr>
+
+# Quickdraw
+### In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available
+
+<hr>
+
+<br>
+
+<div align="center"  >
+
+<img width="296" src="assets/Yolo.png" alt="Yolo-Pin">
+</div>
+<hr>
+
+# Yolo
+### In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available
+
+<hr>
+
+<br>
+
+<div align="center"  >
+
+<img width="296" src="assets/GalaxyBrain.png" alt="GalaxyBrain-Pin">
+</div>
+<hr>
+
+# Galaxy Brain
+### In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available
+
+<hr>
+
+<br>
+
+<div align="center"  >
+
+<img width="296" src="assets/PullShark.png" alt="PullShark-Pin">
+</div>
+<hr>
+
+# Pull Shark
+### In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available
+
+<hr>
+
+<br>
+
+<div align="center"  >
+
+<img width="296" src="assets/Starstruck.png" alt="Starstruck-Pin">
+</div>
+<hr>
+
+# Starstruck
+### In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available
+
+<hr>
+
+<br>
+
+<div align="center"  >
+
+<img width="296" src="assets/PairExtraordinaire.png" alt="PairExtraordinaire-Pin">
+</div>
+<hr>
+
+# Pair Extraordinaire
+### In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available
+
+<hr>
+
+<br>
+
+<div align="center"  >
+
+<img width="296" src="assets/PublicSponsor.png" alt="PublicSponsor-Pin">
+</div>
+<hr>
+
+# Public Sponsor
+### In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available
+
+<hr>
+
+<br>
+
+<br>
+
+<div align="center"  >
+
+<img width="296" src="assets/HeartOnYourSleeve.png" alt="HeartOnYourSleeve-Pin">
+</div>
+<hr>
+
+# Heart On Your Sleeve
+### In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available
+
+<br>
+
+<div align="center"  >
+
+<img width="296" src="assets/OpenSourcerer.png" alt="OpenSourcerer-Pin">
+</div>
+<hr>
+
+# Open Sourcerer
+### In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available
+
+<hr>
 
 <br>
 
@@ -53,7 +167,6 @@
 
 <br>
 
-
 # More information ℹ
 
 #### You can find more information about GitHub Badges under this [link](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile).
@@ -61,6 +174,5 @@
 <!-- </div> -->
 <br>
 
-####   
-
+####    
 
