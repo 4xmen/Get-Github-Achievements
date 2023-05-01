@@ -1,0 +1,25 @@
+{
+  "name": "get-github-achievements",
+  "version": "1.0.0",
+  "description": "How to Get Github Achievements ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4xmen/Get-Github-Achievements.git"
+  },
+  "keywords": [
+    "Github",
+    "Achievement",
+    "GithubPins",
+    "Profile"
+  ],
+  "author": "Yasin (Nisay)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/4xmen/Get-Github-Achievements/issues"
+  },
+  "homepage": "https://github.com/4xmen/Get-Github-Achievements#readme"
+}
