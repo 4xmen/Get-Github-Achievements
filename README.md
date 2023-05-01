@@ -31,28 +31,27 @@
 
 # Achievements & Display 🏅
 
-#### Achievements are pins that Github gives to your Github account as a reward for certain activities and can be seen in your profile. These achievements give a good effect to your GitHub account and can indicate the amount of your activity and how you are active.
+#### Achievements are pins that GitHub gives to your GitHub account as a reward for certain activities and can be seen in your profile. These achievements give a good effect to your GitHub account and can indicate the amount of your activity and how you are active.
 
 #### You can opt out from having achievements displayed on your profile by going to your [profile settings](https://github.com/settings).
+#### Here we show you how to get GitHub Achievement pin's step by step :)
 
 <br>
 
 # Achievement List 📃
 
 <br>
-<table border="1">
-<tr width="100%" border>
-<div align="center" >
-<img src="assets/Quickdraw.png" alt="">
+
+<div align="center"  >
+
+<img  src="assets/Quickdraw.png" alt="QuickDraw-Pin">
 </div>
-<td>
+<hr>
 
-### Quickdraw
-#### ddasdadalksd
-</td>
-</tr>
-</table>
+# Quickdraw
+### لورم ایپسوم یا طرح‌نما (به انگلیسی: Lorem ipsum) به متنی آزمایشی و بی‌معنی در صنعت چاپ، صفحه‌آرایی و طراحی گرافیک گفته می‌شود. طراح گرافیک از این متن به عنوان عنصری از ترکیب بندی برای پر کردن صفحه و ارایه اولیه شکل ظاهری و کلی طرح سفارش گرفته شده استفاده می نماید، تا از نظر گرافیکی نشانگر چگونگی نوع و اندازه فونت و ظاهر متن باشد. معمولا طراحان گرافیک برای صفحه‌آرایی، نخست از متن‌های آزمایشی و بی‌معنی استفاده می‌کنند تا صرفا به مشتری یا صاحب کار خود نشان دهند که صفحه طراحی یا صفحه بندی شده بعد از اینکه متن در آن قرار گیرد چگونه به نظر می‌رسد و قلم‌ها و اندازه‌بندی‌ها چگونه در نظر گرفته شده‌است. از آنجایی که طراحان عموما نویسنده متن نیستند و وظیفه رعایت حق تکثیر متون را ندارند و در همان حال کار آنها به نوعی وابسته به متن می‌باشد آنها با استفاده از محتویات ساختگی، صفحه گرافیکی خود را صفحه‌آرایی می‌کنند تا مرحله طراحی و صفحه‌بندی را به پایان برند.
 
+<hr>
 
 <br>
 
