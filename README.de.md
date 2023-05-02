@@ -42,7 +42,7 @@
 
 <div align="center"  >
 
-<img width="296" src="assets/Quickdraw.png" alt="QuickDraw-Pin">
+<img width="296" src="assets/badges/Quickdraw.png" alt="QuickDraw-Pin">
 </div>
 <hr>
 
@@ -55,7 +55,7 @@
 
 <div align="center"  >
 
-<img width="296" src="assets/Yolo.png" alt="Yolo-Pin">
+<img width="296" src="assets/badges/Yolo.png" alt="Yolo-Pin">
 </div>
 <hr>
 
@@ -68,7 +68,7 @@
 
 <div align="center"  >
 
-<img width="296" src="assets/GalaxyBrain.png" alt="GalaxyBrain-Pin">
+<img width="296" src="assets/badges/GalaxyBrain.png" alt="GalaxyBrain-Pin">
 </div>
 <hr>
 
@@ -81,7 +81,7 @@
 
 <div align="center"  >
 
-<img width="296" src="assets/PullShark.png" alt="PullShark-Pin">
+<img width="296" src="assets/badges/PullShark.png" alt="PullShark-Pin">
 </div>
 <hr>
 
@@ -94,7 +94,7 @@
 
 <div align="center"  >
 
-<img width="296" src="assets/Starstruck.png" alt="Starstruck-Pin">
+<img width="296" src="assets/badges/Starstruck.png" alt="Starstruck-Pin">
 </div>
 <hr>
 
@@ -107,7 +107,7 @@
 
 <div align="center"  >
 
-<img width="296" src="assets/PairExtraordinaire.png" alt="PairExtraordinaire-Pin">
+<img width="296" src="assets/badges/PairExtraordinaire.png" alt="PairExtraordinaire-Pin">
 </div>
 <hr>
 
@@ -120,7 +120,7 @@
 
 <div align="center"  >
 
-<img width="296" src="assets/PublicSponsor.png" alt="PublicSponsor-Pin">
+<img width="296" src="assets/badges/PublicSponsor.png" alt="PublicSponsor-Pin">
 </div>
 <hr>
 
@@ -135,7 +135,7 @@
 
 <div align="center"  >
 
-<img width="296" src="assets/HeartOnYourSleeve.png" alt="HeartOnYourSleeve-Pin">
+<img width="296" src="assets/badges/HeartOnYourSleeve.png" alt="HeartOnYourSleeve-Pin">
 </div>
 <hr>
 
@@ -146,7 +146,7 @@
 
 <div align="center"  >
 
-<img width="296" src="assets/OpenSourcerer.png" alt="OpenSourcerer-Pin">
+<img width="296" src="assets/badges/OpenSourcerer.png" alt="OpenSourcerer-Pin">
 </div>
 <hr>
 
@@ -175,4 +175,3 @@
 <br>
 
 ####    
-

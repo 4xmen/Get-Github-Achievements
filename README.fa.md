@@ -49,12 +49,11 @@
 
 <div align="center"  >
 
-<img width="296" src="assets/Quickdraw.png" alt="QuickDraw-Pin">
+<img width="296" src="assets/badges/Quickdraw.png" alt="QuickDraw-Pin">
 </div>
 <hr>
 
 # Quickdraw
-
 ### In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available
 
 <hr>
@@ -63,12 +62,11 @@
 
 <div align="center"  >
 
-<img width="296" src="assets/Yolo.png" alt="Yolo-Pin">
+<img width="296" src="assets/badges/Yolo.png" alt="Yolo-Pin">
 </div>
 <hr>
 
 # Yolo
-
 ### In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available
 
 <hr>
@@ -77,12 +75,11 @@
 
 <div align="center"  >
 
-<img width="296" src="assets/GalaxyBrain.png" alt="GalaxyBrain-Pin">
+<img width="296" src="assets/badges/GalaxyBrain.png" alt="GalaxyBrain-Pin">
 </div>
 <hr>
 
 # Galaxy Brain
-
 ### In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available
 
 <hr>
@@ -91,12 +88,11 @@
 
 <div align="center"  >
 
-<img width="296" src="assets/PullShark.png" alt="PullShark-Pin">
+<img width="296" src="assets/badges/PullShark.png" alt="PullShark-Pin">
 </div>
 <hr>
 
 # Pull Shark
-
 ### In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available
 
 <hr>
@@ -105,12 +101,11 @@
 
 <div align="center"  >
 
-<img width="296" src="assets/Starstruck.png" alt="Starstruck-Pin">
+<img width="296" src="assets/badges/Starstruck.png" alt="Starstruck-Pin">
 </div>
 <hr>
 
 # Starstruck
-
 ### In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available
 
 <hr>
@@ -119,12 +114,11 @@
 
 <div align="center"  >
 
-<img width="296" src="assets/PairExtraordinaire.png" alt="PairExtraordinaire-Pin">
+<img width="296" src="assets/badges/PairExtraordinaire.png" alt="PairExtraordinaire-Pin">
 </div>
 <hr>
 
 # Pair Extraordinaire
-
 ### In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available
 
 <hr>
@@ -133,12 +127,11 @@
 
 <div align="center"  >
 
-<img width="296" src="assets/PublicSponsor.png" alt="PublicSponsor-Pin">
+<img width="296" src="assets/badges/PublicSponsor.png" alt="PublicSponsor-Pin">
 </div>
 <hr>
 
 # Public Sponsor
-
 ### In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available
 
 <hr>
@@ -149,24 +142,22 @@
 
 <div align="center"  >
 
-<img width="296" src="assets/HeartOnYourSleeve.png" alt="HeartOnYourSleeve-Pin">
+<img width="296" src="assets/badges/HeartOnYourSleeve.png" alt="HeartOnYourSleeve-Pin">
 </div>
 <hr>
 
 # Heart On Your Sleeve
-
 ### In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available
 
 <br>
 
 <div align="center"  >
 
-<img width="296" src="assets/OpenSourcerer.png" alt="OpenSourcerer-Pin">
+<img width="296" src="assets/badges/OpenSourcerer.png" alt="OpenSourcerer-Pin">
 </div>
 <hr>
 
 # Open Sourcerer
-
 ### In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available
 
 <hr>
@@ -190,8 +181,6 @@
 <!-- </div> -->
 <br>
 
-####     
+####    
 
 </div>
-
-
