@@ -51,7 +51,7 @@
 # Quickdraw
 ### In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available
 
-<div align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps/README.quickdraw.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/assets/steps/blob/master/README.quickdraw.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
 
 <br>
