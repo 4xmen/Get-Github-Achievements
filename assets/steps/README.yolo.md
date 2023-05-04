@@ -53,7 +53,7 @@
 </div>
 
 
-### 8. Done . Now you can see that Yolo Achievement is now added to your received achievements list.
+### 8. Done , Now you can see that Yolo Achievement in your achievements list.
 
 <div align="center">
 <img width="300" src="../img/yolo/yolo-step8.png" alt="yolo-finish.png">

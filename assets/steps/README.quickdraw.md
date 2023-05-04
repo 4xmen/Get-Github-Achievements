@@ -27,7 +27,7 @@
 <img width="700" src="../img/quickdraw/quickdraw-step3.png" alt="quickdraw-step3.png">
 </div>
 
-### 4. Done . Now you can see that Quickdraw Achievement is now added to your received achievements list.
+### 4. Done , Now you can see that Quickdraw Achievement in your achievements list.
 
 <div align="center">
 <img width="300" src="../img/quickdraw/quickdraw-step4.png" alt="quickdraw-step4.png">
