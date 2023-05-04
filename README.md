@@ -79,11 +79,10 @@
 <hr>
 
 # Galaxy Brain
-### Getting this achievement is more difficult than the previous two achievements. And to receive it, you need to go through the steps that you need other GitHub users. You need to : Answered a discussion(got an accepted answer)
+### Getting Galaxy Brain is more difficult than the previous two achievements. And to receive it, you need to go through the steps that you need other GitHub users. You need to : Answered a discussion(got an accepted answer)
 #### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
 
 <div align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps/README.galaxy-brain.md"><img src="assets/img/btn.png" alt=""></a></div>
-
 <hr>
 
 <br>
@@ -95,8 +94,10 @@
 <hr>
 
 # Pull Shark
-### In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available
+### To get pull shark you need to make 2 merged pull request, you will get the one pull shark badge.
+#### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
 
+<div align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps/README.pull-shark.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
 
 <br>
@@ -108,8 +109,10 @@
 <hr>
 
 # Starstruck
-### In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available
+### It's too simple to get Starstruck Achievement & you have few steps to get Starstruck . You can get this Achievement When a Repository on your account hits 16 stars, even if it was transferred, you will receive the badge.
+#### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
 
+<div align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps/README.starstruck.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
 
 <br>
@@ -122,6 +125,7 @@
 
 # Pair Extraordinaire
 ### In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available
+#### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
 
 <hr>
 
@@ -134,7 +138,10 @@
 <hr>
 
 # Public Sponsor
-### In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available
+### You just need to make a donation to some open source contributor.
+#### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
+
+<div align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps/README.publicsponsor.md"><img src="assets/img/btn.png" alt=""></a></div>
 
 <hr>
 
@@ -150,6 +157,7 @@
 
 # Heart On Your Sleeve
 ### In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available
+#### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
 
 <br>
 
