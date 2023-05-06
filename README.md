@@ -124,9 +124,10 @@
 <hr>
 
 # Pair Extraordinaire
-### In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available
+### You can earn the pair extraordinaire badge by co-authoring a pull request that then gets merged.
 #### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
 
+<div align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps/README.pair-extraordinaire.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
 
 <br>
