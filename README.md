@@ -165,6 +165,8 @@
 
 # Unreleased Achievements ⏳
 
+<br>
+
 <div align="center"  >
 
 <img width="296" src="assets/badges/HeartOnYourSleeve.png" alt="HeartOnYourSleeve-Pin">
@@ -225,6 +227,8 @@
 
 # Achievement Skin Tone 👋
 
+<br>
+
 #### Some achievements' appearance depends on your Emoji Skin Tone Preference.
 
 #### You can change your preferred Skin Tone by going to [appearance settings](https://github.com/settings/appearance).
@@ -245,13 +249,17 @@
 
 <hr>
 
+<br>
+
 # More information ℹ
+
+<br>
 
 #### You can find more information about GitHub Badges under this [link](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile).
 
 <!-- </div> -->
 <br>
 
-####       
+####         
 
 
