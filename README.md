@@ -175,6 +175,7 @@
 
 ### the 'Heart On Your Sleeve' achievement badges is not yet released to public GitHub users at the moment.
 
+<hr>
 <br>
 
 <div align="center"  >
@@ -187,6 +188,7 @@
 
 ### the 'Open Sourcerer' achievement badges is not yet released to public GitHub users at the moment.
 
+<hr>
 <br>
 
 # Badges no longer earnable ❌
@@ -204,6 +206,8 @@
 
 ### Contributed code to a repository used in the Mars 2020 Helicopter Mission
 
+<hr>
+
 <div align="center"  >
 <a href="https://archiveprogram.github.com/">
 <img width="296" src="assets/badges/Arctic-Code-Vault-Contributor.png" alt="Mars 2020 Contributor">
@@ -215,6 +219,8 @@
 
 ### Contributed code to a repository in the 2020 GitHub Archive Program
 
+<hr>
+
 <br>
 
 # Achievement Skin Tone 👋
@@ -225,11 +231,13 @@
 
 <br>
 
-| Badge | Name | Skin Tone Versions | | :-: | :-: | :-: | | ![Starstruck](assets/badges/Starstruck.png)
+| Badge | Name | Skin Tone Versions | | :-: | :-: | :-: |
+| ![Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png)
 | Starstruck | <table>  <thead>  <tr>  <th>👋</th> <th>👋🏻</th>  <th>👋🏼</th>  <th>👋🏽</th>  <th>👋🏾</th>  <th>
 👋🏿</th>  </tr>  </thead>  <tbody>  <tr>  <td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="60px"></td>   <td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--light.png" width="60px"></td>  <td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--light-medium.png" width="60px"></td>  <td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--medium.png" width="60px"></td>  <td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--medium-dark.png" width="60px"></td>   <td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--dark.png" width="60px"></td>   </tr>   <tr>  <td align="center">
 👋</td> <td align="center">👋🏻</td>  <td align="center">👋🏼</td>  <td align="center">👋🏽</td>  <td align="center">
-👋🏾</td>  <td align="center">👋🏿</td>  </tr>  </tbody>  </table>      | | ![Quickdraw](assets/badges/Quickdraw.png)
+👋🏾</td>  <td align="center">👋🏿</td>  </tr>  </tbody>  </table>      |
+| ![Quickdraw](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png)
 | Quickdraw | <table>  <thead>  <tr>  <th>👋</th> <th>👋🏻</th>  <th>👋🏼</th>  <th>👋🏽</th>  <th>👋🏾</th>  <th>
 👋🏿</th>  </tr>  </thead>  <tbody>  <tr>  <td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="60px"></td>   <td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default--light.png" width="60px"></td>  <td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default--light-medium.png" width="60px"></td>  <td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default--medium.png" width="60px"></td>  <td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default--medium-dark.png" width="60px"></td>   <td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default--dark.png" width="60px"></td>   </tr>   <tr>  <td align="center">
 👋</td> <td align="center">👋🏻</td>  <td align="center">👋🏼</td>  <td align="center">👋🏽</td>  <td align="center">
@@ -245,6 +253,6 @@
 <!-- </div> -->
 <br>
 
-####      
+####       
 
 
