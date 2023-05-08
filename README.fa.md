@@ -54,7 +54,7 @@
 <hr>
 
 # Quickdraw
-### In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available
+### Quickdraw یکی از ساده ترین راه ها را برای دریافت دارد. و فقط با چند قدم می توانید آن را دریافت کنید. برای به دست آوردن این دستاورد باید . (یک مشکل / pull request را ظرف 5 دقیقه پس از باز کردن بسته شد) اگر به کمک بیشتری نیاز دارید، روی دکمه `چگونه این را دریافت کنم` کلیک کنید تا آموزش گام به گام نحوه دریافت این اچیومنت را دریافت کنید.
 
 <hr>
 
