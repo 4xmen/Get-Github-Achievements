@@ -62,7 +62,7 @@
 <br>
 
 <div align="center"  >
-<a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps/README.quickdraw.md">
+<a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps/README.yolo.md">
 <img width="296" src="assets/badges/Yolo.png" alt="Yolo-Pin">
 </a>
 </div>
@@ -80,7 +80,7 @@
 <br>
 
 <div align="center"  >
-<a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps/README.yolo.md">
+<a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps/README.galaxy-brain.md">
 <img width="296" src="assets/badges/GalaxyBrain.png" alt="GalaxyBrain-Pin">
 </a>
 </div>
