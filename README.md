@@ -29,6 +29,13 @@
 
 <br>
 
+# How to Get GitHub Achievements 
+## You will be taught step by step how to get GitHub achievements in this course. 
+### Notes:
+#### Note 1: If you have a problem to receive achievements, you can use the step-by-step training in the section on how to receive them.
+#### Note 2: All tutorials are with photos and each step is fully explained.
+#### Note 3: If you find any problem or bugs, please [report](https://github.com/4xmen/Get-Github-Achievements/issues/new) it to us. And help us to improve the course.
+
 # Achievements & Display 🏅
 
 #### Achievements are pins that GitHub gives to your GitHub account as a reward for certain activities and can be seen in your profile. These achievements give a good effect to your GitHub account and can indicate the amount of your activity and how you are active.
@@ -50,7 +57,7 @@
 </div>
 <hr>
 
-## Quickdraw
+## How to Get Quickdraw Achievement
 
 ### Quickdraw has one of the easiest ways to receive . and you can receive it by just taking a few steps. To get this achievement you must . (closed an issue / pull request within 5 minutes of opening)
 
@@ -68,7 +75,7 @@
 </div>
 <hr>
 
-## Yolo
+## How to Get Yolo Achievement
 
 ### Yolo is one of the most beautiful achievements of Github, which can give a very beautiful effect to your Github profile. To get this achievement, you need to Merged a pull request without a review.
 
@@ -86,7 +93,7 @@
 </div>
 <hr>
 
-## Galaxy Brain
+## How to Get Galaxy Brain Achievement
 
 ### Getting Galaxy Brain is more difficult than the previous two achievements. And to receive it, you need to go through the steps that you need other GitHub users. You need to : Answered a discussion(got an accepted answer two times)
 
@@ -104,7 +111,7 @@
 </div>
 <hr>
 
-## Pull Shark
+## How to Get Pull Shark Achievement
 
 ### To get pull shark you need to make 2 merged pull request, you will get the one pull shark badge.
 
@@ -122,7 +129,7 @@
 </div>
 <hr>
 
-## Starstruck
+## How to Get Starstruck Achievement
 
 ### It's too simple to get Starstruck Achievement & you have few steps to get Starstruck . You can get this Achievement When a Repository on your account hits 16 stars, even if it was transferred, you will receive the badge.
 
@@ -140,7 +147,7 @@
 </div>
 <hr>
 
-## Pair Extraordinaire
+## How to Get Pair Extraordinaire Achievement
 
 ### You can earn the pair extraordinaire badge by co-authoring a pull request that then gets merged.
 
@@ -158,7 +165,7 @@
 </div>
 <hr>
 
-## Public Sponsor
+## How to Get Public Sponsor Achievement
 
 ### You just need to make a donation to some open source contributor.
 
