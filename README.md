@@ -29,11 +29,16 @@
 
 <br>
 
-# How to Get GitHub Achievements 
-## You will be taught step by step how to get GitHub achievements in this course. 
+# How to Get GitHub Achievements
+
+## You will be taught step by step how to get GitHub achievements in this course.
+
 ### Notes:
+
 #### Note 1: If you have a problem to receive achievements, you can use the step-by-step training in the section on how to receive them.
+
 #### Note 2: All tutorials are with photos and each step is fully explained.
+
 #### Note 3: If you find any problem or bugs, please [report](https://github.com/4xmen/Get-Github-Achievements/issues/new) it to us. And help us to improve the course.
 
 <br>
@@ -276,6 +281,6 @@
 <!-- </div> -->
 <br>
 
-####         
+####          
 
 
