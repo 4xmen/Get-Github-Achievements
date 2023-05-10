@@ -31,6 +31,16 @@
 
 <br>
 
+# چگونه پین های گیت هاب را دریافت کنیم
+
+## در این آموزش به شما مرحله به مرحله, آموزش گرفتن پین های گیت هاب آموزش داده میشود 
+### نکته ها:
+#### نکته 1: آموزش ها به در صفحه فعلی به صورت کلیات به شما داده میشود, در صورتی که آموزش بیشتر و تصویری نیاز بود. حتما بر روی دکمه نحوه دریافت در انتهای هر بخش کلیک کرده به صفحه آموزش قدم به قدم بروید.
+#### نکته 2: آموزش دریافت پین های گیت هاب, به صورت تصویری و قدم به قدم میباشد.
+#### نکته 3: در صورتی که درقسمت مشکل و ایرادی پیدا کردید و نیاز به تغییر در هر بخشی شاهد بودید لطفا آنرا به ما [گزارش](https://github.com/4xmen/Get-Github-Achievements/issues/new) کنید و مارا در بهبود هر چه بیشتر این کورس یاری کنید. 
+
+<br>
+
 # پین ها و تنظیمات نمایش آن 🏅
 
 #### دستاورد ها پین هایی هستند که گیت هاب به نسبت فعالیت هایی خاص به عنوان جایزه به اکانت گیت هاب شما اهدا میکند و در پروفایلتان قابل رویت است این دستاورد ها جلوه مناسبی به اکانت گیت هاب شما میدهد و میتواند نشانگر میزان فعالیت شما و چگونگی فعالیت شما باشد .
@@ -47,19 +57,19 @@
 <br>
 
 <div align="center"  >
-<a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps/README.quickdraw-fa.md">
+<a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps-fa/README.quickdraw-fa.md">
 <img width="296" src="assets/badges/Quickdraw.png" alt="QuickDraw-Pin">
 </a>
 </div>
 <hr>
 
-## پین Quickdraw
+## چگونه پین Quickdraw را دریافت کنیم
 
 ### این پین یکی از ساده ترین راه ها را برای دریافت دارد. و فقط با چند قدم می توانید آن را دریافت کنید. برای به دست آوردن این دستاورد باید . (بستن یک issue یا pull request را ظرف 5 دقیقه پس از باز کردن بست)
 
 #### - اگر نیازمند کمک بیشتری هستید میتوانید بر روی دکمه نحوه دریافت کلیک کرده , و از آموزش قدم به قدم نحوه دریافت این پین استفاده کنید
 
-<div align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps/README.quickdraw-fa.md"><img src="assets/img/btn-fa.png" alt=""></a></div>
+<div align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps-fa/README.quickdraw-fa.md"><img src="assets/img/btn-fa.png" alt=""></a></div>
 <hr>
 
 <br>
@@ -70,103 +80,103 @@
 </div>
 <hr>
 
-## پین Yolo
+## چگونه پین Yolo را دریافت کنیم
 
 ### این پین یکی از زیباترین پین های Github است که می تواند جلوه بسیار زیبایی به پروفایل Github شما بدهد. برای دریافت این پین، باید یک Pull Request را بدون بازبینی(ًReview) ادغام کنید.
 
 #### - اگر نیازمند کمک بیشتری هستید میتوانید بر روی دکمه نحوه دریافت کلیک کرده , و از آموزش قدم به قدم نحوه دریافت این پین استفاده کنید
 
-<div align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps/README.yolo-fa.md"><img src="assets/img/btn-fa.png" alt=""></a></div>
+<div align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps-fa/README.yolo-fa.md"><img src="assets/img/btn-fa.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps/README.yolo-fa.md">
+<a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps-fa/README.galaxy-brain-fa.md">
 <img width="296" src="assets/badges/GalaxyBrain.png" alt="GalaxyBrain-Pin">
 </a>
 </div>
 <hr>
 
-## پین Galaxy Brain
+##  چگونه پین Galaxy Brain را دریافت کنیم
 
 ### دریافت Galaxy Brain نسبت به دو دستاورد قبلی دشوارتر است. و برای دریافت آن باید مراحلی را طی کنید که به سایر کاربران گیت هاب نیاز دارید. شما باید: به یک بحث پاسخ دهید (باید پاسخ شما به عنوان پاسخ به سوال توسط پرسشگر سوال دو مرتبه انتخاب شود.)
 
 #### - اگر نیازمند کمک بیشتری هستید میتوانید بر روی دکمه نحوه دریافت کلیک کرده , و از آموزش قدم به قدم نحوه دریافت این پین استفاده کنید
 
-<div align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps/README.galaxy-brain-fa.md"><img src="assets/img/btn-fa.png" alt=""></a></div>
+<div align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps-fa/README.galaxy-brain-fa.md"><img src="assets/img/btn-fa.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps/README.pull-shark-fa.md">
+<a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps-fa/README.pull-shark-fa.md">
 <img width="296" src="assets/badges/PullShark.png" alt="PullShark-Pin">
 </a>
 </div>
 <hr>
 
-## پین Pull Shark
+##  چگونه پین Pull Shark را دریافت کنیم
 
 ### برای گرفتن  پین pull shark باید 2 درخواست کشش ( Pull Request ) ادغام شده داشته باشید. 
 
 #### - اگر نیازمند کمک بیشتری هستید میتوانید بر روی دکمه نحوه دریافت کلیک کرده , و از آموزش قدم به قدم نحوه دریافت این پین استفاده کنید
 
-<div align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps/README.pull-shark-fa.md"><img src="assets/img/btn-fa.png" alt=""></a></div>
+<div align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps-fa/README.pull-shark-fa.md"><img src="assets/img/btn-fa.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps/README.starstruck-fa.md">
+<a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps-fa/README.starstruck-fa.md">
 <img width="296" src="assets/badges/Starstruck.png" alt="Starstruck-Pin">
 </a>
 </div>
 <hr>
 
-## پین Starstruck
+##  چگونه پین Starstruck را دریافت کنیم
 
 ### دریافت Starstruck بسیار ساده است و مراحل کمی برای دریافت Starstruck دارید. شما می توانید این دستاورد را زمانی دریافت کنید که یک مخزن در حساب شما به 16 ستاره برسد.
 
 #### - اگر نیازمند کمک بیشتری هستید میتوانید بر روی دکمه نحوه دریافت کلیک کرده , و از آموزش قدم به قدم نحوه دریافت این پین استفاده کنید
 
-<div align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps/README.starstruck-fa.md"><img src="assets/img/btn-fa.png" alt=""></a></div>
+<div align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps-fa/README.starstruck-fa.md"><img src="assets/img/btn-fa.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps/README.pair-extraordinaire-fa.md">
+<a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps-fa/README.pair-extraordinaire-fa.md">
 <img width="296" src="assets/badges/PairExtraordinaire.png" alt="PairExtraordinaire-Pin">
 </a>
 </div>
 <hr>
 
-## پین Pair Extraordinaire
+## چگونه پین Pair Extraordinaire را دریافت کنیم
 
 ### با ایجاد یک branch جدید میبایست یک pull request به همراه یک هم تیم (co-author) یک commit مشترک بزنید و آنرا به ریپازیتوری خود merge کنید 
 
 #### - اگر نیازمند کمک بیشتری هستید میتوانید بر روی دکمه نحوه دریافت کلیک کرده , و از آموزش قدم به قدم نحوه دریافت این پین استفاده کنید
 
-<div align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps/README.pair-extraordinaire-fa.md"><img src="assets/img/btn-fa.png" alt=""></a></div>
+<div align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps-fa/README.pair-extraordinaire-fa.md"><img src="assets/img/btn-fa.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps/README.publicsponsor-fa.md">
+<a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps-fa/README.publicsponsor-fa.md">
 <img width="296" src="assets/badges/PublicSponsor.png" alt="PublicSponsor-Pin">
 </a>
 </div>
 <hr>
 
-## پین Public Sponsor
+## چگونه پین Public Sponsor را دریافت کنیم 
 
 ### شما فقط باید به برخی از مشارکت کنندگان open course کمک مالی کنید.
 
 #### - اگر نیازمند کمک بیشتری هستید میتوانید بر روی دکمه نحوه دریافت کلیک کرده , و از آموزش قدم به قدم نحوه دریافت این پین استفاده کنید
 
-<div align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps/README.publicsponsor-fa.md"><img src="assets/img/btn-fa.png" alt=""></a></div>
+<div align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps-fa/README.publicsponsor-fa.md"><img src="assets/img/btn-fa.png" alt=""></a></div>
 
 <hr>
 

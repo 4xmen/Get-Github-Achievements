@@ -36,6 +36,8 @@
 #### Note 2: All tutorials are with photos and each step is fully explained.
 #### Note 3: If you find any problem or bugs, please [report](https://github.com/4xmen/Get-Github-Achievements/issues/new) it to us. And help us to improve the course.
 
+<br>
+
 # Achievements & Display 🏅
 
 #### Achievements are pins that GitHub gives to your GitHub account as a reward for certain activities and can be seen in your profile. These achievements give a good effect to your GitHub account and can indicate the amount of your activity and how you are active.
