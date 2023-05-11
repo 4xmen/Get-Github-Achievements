@@ -130,6 +130,4 @@ dist
 .pnp.*
 
 # .idea
-.idea/*
-.idea/
-idea/
+/.idea
