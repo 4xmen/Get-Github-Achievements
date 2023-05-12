@@ -1,6 +1,6 @@
 <!-- <div align="center"> -->
 
-## Language
+## Langue
 
 <div align="center">
 
@@ -14,7 +14,7 @@
 
 </div>
 
-# GitHub Achievements 🏆
+# Réalisations GitHub 🏆
 
 <br>
 
@@ -31,31 +31,31 @@
 
 <br>
 
-# How to Get GitHub Achievements
+# Comment obtenir les réalisations GitHub
 
-## You will be taught step by step how to get GitHub achievements in this course.
+## Dans ce cours, vous apprendrez étape par étape comment obtenir des réalisations GitHub.
 
-### Notes:
+### Remarques :
 
-#### Note 1: If you have a problem to receive achievements, you can use the step-by-step training in the section on how to receive them.
+#### Remarque 1 : Si vous rencontrez des problèmes pour recevoir des réalisations, vous pouvez utiliser la formation étape par étape dans la section sur la façon de les recevoir.
 
-#### Note 2: All tutorials are with photos and each step is fully explained.
+#### Remarque 2 : Tous les tutoriels sont accompagnés de photos et chaque étape est entièrement expliquée.
 
-#### Note 3: If you find any problem or bugs, please [report](https://github.com/4xmen/Get-Github-Achievements/issues/new) it to us. And help us to improve the course.
-
-<br>
-
-# Achievements & Display 🏅
-
-#### Achievements are pins that GitHub gives to your GitHub account as a reward for certain activities and can be seen in your profile. These achievements give a good effect to your GitHub account and can indicate the amount of your activity and how you are active.
-
-#### You can opt out from having achievements displayed on your profile by going to your [profile settings](https://github.com/settings).
-
-#### Here we show you how to get GitHub Achievement pin's step by step :)
+#### Remarque 3 : Si vous trouvez un problème ou un bug, veuillez nous le [signaler](https://github.com/4xmen/Get-Github-Achievements/issues/new) .Et aidez-nous à améliorer le cours.
 
 <br>
 
-# Achievement List 📃
+# Réalisations et affichage 🏅
+
+#### Les réalisations sont des épinglettes que GitHub donne à votre compte GitHub en récompense de certaines activités et peuvent être consultées dans votre profil. Ces réalisations donnent un bon effet à votre compte GitHub et peuvent indiquer le niveau de votre activité et votre niveau d'engagement.
+
+#### Vous pouvez choisir de ne pas afficher les réalisations sur votre profil en accédant aux paramètres de votre [profil](https://github.com/settings).
+
+#### Nous vous montrons ici comment obtenir l'épingle de réalisation GitHub étape par étape :)
+
+<br>
+
+# Liste des réalisations 📃
 
 <br>
 
@@ -66,11 +66,11 @@
 </div>
 <hr>
 
-## How to Get Quickdraw Achievement
+## Comment obtenir la réalisation QuickDraw
 
-### Quickdraw has one of the easiest ways to receive . and you can receive it by just taking a few steps. To get this achievement you must . (closed an issue / pull request within 5 minutes of opening)
+### QuickDraw est l'une des réalisations les plus faciles à obtenir. Vous pouvez la recevoir en ne faisant que quelques étapes. Pour obtenir cette réalisation, vous devez (fermer une issue/ une demande de fusion dans les 5 minutes suivant l'ouverture)
 
-#### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
+#### - Si vous avez besoin de plus d'aide, cliquez sur le bouton Comment obtenir pour obtenir un tutoriel étape par étape sur la façon d'obtenir cette réalisation.
 
 <div align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps/README.quickdraw.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
@@ -84,11 +84,11 @@
 </div>
 <hr>
 
-## How to Get Yolo Achievement
+## Comment obtenir la réalisation Yolo
 
-### Yolo is one of the most beautiful achievements of Github, which can give a very beautiful effect to your Github profile. To get this achievement, you need to Merge a pull request without a review.
+### Yolo est l'une des réalisations les plus belles de Github, qui peut donner un effet très beau à votre profil Github. Pour obtenir cette réalisation, vous devez fusionner une demande de fusion sans examen préalable.
 
-#### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
+#### - Si vous avez besoin de plus d'aide, cliquez sur le bouton Comment obtenir pour obtenir un tutoriel étape par étape sur la façon d'obtenir cette réalisation.
 
 <div align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps/README.yolo.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
@@ -102,11 +102,11 @@
 </div>
 <hr>
 
-## How to Get Galaxy Brain Achievement
+## Comment obtenir la réalisation Cerveau galactique
 
-### Getting Galaxy Brain is more difficult than the previous two achievements. And to receive it, you need to go through the steps that you need other GitHub users. You need to : Answered a discussion(got an accepted answer two times)
+### Obtenir la réalisation Cerveau galactique est plus difficile que les deux réalisations précédentes. Et pour la recevoir, vous devez passer par les étapes que vous avez besoin d'autres utilisateurs GitHub. Vous devez : répondre à une discussion (obtenir une réponse acceptée deux fois).
 
-#### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
+#### - Si vous avez besoin de plus d'aide, cliquez sur le bouton Comment obtenir pour obtenir un tutoriel étape par étape sur la façon d'obtenir cette réalisation.
 
 <div align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps/README.galaxy-brain.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
@@ -120,11 +120,11 @@
 </div>
 <hr>
 
-## How to Get Pull Shark Achievement
+## Comment obtenir la réalisation Pull Shark
 
-### To get pull shark you need to make 2 merged pull request, you will get the one pull shark badge.
+### Pour obtenir Pull Shark, vous devez effectuer 2 demandes de fusion fusionnées, vous obtiendrez un badge Pull Shark.
 
-#### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
+#### - Si vous avez besoin de plus d'aide, cliquez sur le bouton Comment obtenir pour obtenir un tutoriel étape par étape sur la façon d'obtenir cette réalisation.
 
 <div align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps/README.pull-shark.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
@@ -138,11 +138,11 @@
 </div>
 <hr>
 
-## How to Get Starstruck Achievement
+## Comment obtenir la réalisation Starstruck
 
-### It's too simple to get Starstruck Achievement & you have few steps to get Starstruck . You can get this Achievement When a Repository on your account hits 16 stars, even if it was transferred, you will receive the badge.
+### C'est trop simple pour obtenir la réalisation Starstruck et vous avez quelques étapes à suivre pour l'obtenir. Vous pouvez obtenir cette réalisation lorsqu'un référentiel de votre compte atteint 16 étoiles, même s'il a été transféré, vous recevrez le badge.
 
-#### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
+#### - Si vous avez besoin de plus d'aide, cliquez sur le bouton Comment obtenir pour obtenir un tutoriel étape par étape sur la façon d'obtenir cette réalisation.
 
 <div align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps/README.starstruck.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
@@ -156,11 +156,11 @@
 </div>
 <hr>
 
-## How to Get Pair Extraordinaire Achievement
+## Comment obtenir la réalisation Pair Extraordinaire
 
-### You can earn the pair extraordinaire badge by co-authoring a pull request that then gets merged.
+### Vous pouvez gagner le badge de la paire extraordinaire en co-écrivant une demande de fusion qui est ensuite fusionnée.
 
-#### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
+#### - Si vous avez besoin de plus d'aide, cliquez sur le bouton Comment obtenir pour obtenir un tutoriel étape par étape sur la façon d'obtenir cette réalisation.
 
 <div align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps/README.pair-extraordinaire.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
@@ -174,11 +174,11 @@
 </div>
 <hr>
 
-## How to Get Public Sponsor Achievement
+## Comment obtenir la réalisation Public Sponsor
 
-### You just need to make a donation to some open source contributor.
+### Vous devez simplement faire un don à un contributeur open source.
 
-#### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
+#### - Si vous avez besoin de plus d'aide, cliquez sur le bouton Comment obtenir pour obtenir un tutoriel étape par étape sur la façon d'obtenir cette réalisation.
 
 <div align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps/README.publicsponsor.md"><img src="assets/img/btn.png" alt=""></a></div>
 
@@ -186,7 +186,7 @@
 
 <br>
 
-# Unreleased Achievements ⏳
+# Réalisations non publiées ⏳
 
 <br>
 
@@ -199,7 +199,7 @@
 
 ## Heart On Your Sleeve
 
-### the 'Heart On Your Sleeve' achievement badges is not yet released to public GitHub users at the moment.
+### Le badge de réalisation "Heart On Your Sleeve" n'est pas encore publié pour les utilisateurs de GitHub publics pour le moment.
 
 <hr>
 <br>
@@ -211,12 +211,12 @@
 
 ## Open Sourcerer
 
-### the 'Open Sourcerer' achievement badges is not yet released to public GitHub users at the moment.
+### Le badge de réalisation "Open Sourcerer" n'est pas encore publié pour les utilisateurs de GitHub publics pour le moment.
 
 <hr>
 <br>
 
-# Badges no longer earnable ❌
+# Badges non gagnables ❌
 
 <br>
 
@@ -227,9 +227,9 @@
 </div>
 <hr>
 
-## Mars 2020 Contributor
+## Contributeur Mars 2020
 
-### Contributed code to a repository used in the Mars 2020 Helicopter Mission
+### A contribué du code à un référentiel utilisé dans la mission de l'hélicoptère Mars 2020.
 
 <hr>
 
@@ -240,33 +240,33 @@
 </div>
 <hr>
 
-## Arctic Code Vault Contributor
+## Contributeur de l'Arctic Code Vault
 
-### Contributed code to a repository in the 2020 GitHub Archive Program
+### A contribué du code à un référentiel dans le cadre du programme d'archivage de GitHub en 2020.
 
 <hr>
 
 <br>
 
-# Achievement Skin Tone 👋
+# Couleur de peau de réalisation 👋
 
 <br>
 
-#### Some achievements' appearance depends on your Emoji Skin Tone Preference.
+#### L'apparence de certaines réalisations dépend de votre préférence de couleur de peau Emoji.
 
-#### You can change your preferred Skin Tone by going to [appearance settings](https://github.com/settings/appearance).
+#### Vous pouvez modifier votre couleur de peau préférée en accédant aux [paramètres d'apparence](https://github.com/settings/appearance).
 
 <hr>
 
 <div align="center">
 <img src="assets/badges/Starstruck.png" width="150" alt="">
-<h4>Starstuck Skin Tone Versions</h4>
+<h4>Versions de tons de peau Starstuck</h4>
 <img src="assets/badges/starstuck-skins.png" alt="">
 </div>
 
 <div align="center">
 <img src="assets/badges/Quickdraw.png" width="150" alt="">
-<h4>Quikdraw Skin Tone Versions</h4>
+<h4>Versions Quikdraw Skin Tone</h4>
 <img src="assets/badges/quickdraw-skin.png" alt="">
 </div>
 
@@ -274,11 +274,11 @@
 
 <br>
 
-# More information ℹ
+# Plus d'informations ℹ
 
 <br>
 
-#### You can find more information about GitHub Badges under this [link](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile).
+#### Vous pouvez trouver plus d'informations sur les badges GitHub sous ce [lien](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile).
 
 <!-- </div> -->
 <br>
