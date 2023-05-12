@@ -4,13 +4,13 @@
 
 <div align="center">
 
-[![en](https://img.shields.io/badge/Lang-English-blue.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.md)
+[![en](https://img.shields.io/badge/Lang-English-blue.svg)](README.md)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![fa](https://img.shields.io/badge/Lang-Persian-green.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.fa.md)
+[![fa](https://img.shields.io/badge/Lang-Persian-green.svg)](README.fa.md)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![de](https://img.shields.io/badge/Lang-Deutsch-yellow.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.de.md)
+[![de](https://img.shields.io/badge/Lang-Deutsch-yellow.svg)](README.de.md)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![fr](https://img.shields.io/badge/Lang-french-orange.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.fr.md)
+[![fr](https://img.shields.io/badge/Lang-french-orange.svg)](README.fr.md)
 
 </div>
 
