@@ -1,6 +1,6 @@
 <div dir="rtl">
 
-# Public Sponsor
+# پین Public Sponsor
 
 <div align="center"  >
 
@@ -9,32 +9,32 @@
 
 <hr>
 
-## How to get Public Sponsor GitHub achievement step by step :
-### 1. (First you need to know , for get this badge you need credit card and donate some money). Then you need to open GitHub Sponsors page first , And then click on See your top dependencies button
+## نحوه دریافت پین Public Sponsor , قدم به قدم
+### 1. (در قدم اول بدانید که برای دریافت این پین به کمک مالی و کارت اعتباری نیاز دارید) . در گام بعدی باید صفحه حامیان مالی گیت هاب را باز کنید و سپس بر روی دکمه مشخص شده کلیک نمایید.
 
 <div align="center">
 <a href="https://github.com/sponsors"><img width="700" src="../img/public-sponsor/sponsor-step1.png" alt="public-sponsor-step1.png"></a>
 </div>
 
-### 2. You can see a list of developers that you can donate them here .(You can being sponsored of any GitHub users who have sponsored button on them pages.)
+### 2. میتوانید در این قسمت فهرستی از توسعه دهندگان را مشاهده کنید.(شما میتوانید به هر یک از کاربرانی که دکمه حمایت مالی دارند ، کمک کنید)
 
 <div align="center">
 <img width="700" src="../img/public-sponsor/sponsor-step2.png" alt="public-sponsor-step2.png">
 </div>
 
-### 3. After you found a person to being sponsored . you can see a page to select how much you want to donate per month.
+### 3. بعد از انتخاب کاربر مورد نظر میتوانید صفحه ایی را مشاهده کنید تا انتخاب کنید در ماه چقدر میخواهید کمک مالی انجام دهید.
 
 <div align="center">
 <img width="700" src="../img/public-sponsor/sponsor-step3.png" alt="public-sponsor-step3.png">
 </div>
 
-### 4. There is a form to payment here , after your payment finish . You can see your badge in your profile (in Beta version 30 countries have payment methods for now).
+### 4. پس از پاین پرداخت ، میتوانید نشان خود را در نمایه مشاهده کنید (در نسخه بتا 30 کشور برای روش های پرداخت موجود میباشد)
 
 <div align="center">
 <img width="700" src="../img/public-sponsor/sponsor-step4.png" alt="public-sponsor-step4.png">
 </div>
 
-### 5. Done , Now you can see that Public Sponsor Achievement in your achievements list.
+### 5. کار تمام شد ؛ اکنون میتوانید پین Public Sponsor را در پروفایل خود مشاهده کنید.
 
 <div align="center">
 <img width="300" src="../img/public-sponsor/sponsor-step5.png" alt="public-sponsor-step5.png">
