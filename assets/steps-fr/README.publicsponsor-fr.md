@@ -1,4 +1,4 @@
-# Public Sponsor
+# Public Sponsor (Commanditaire du public)
 
 <div align="center"  >
 
@@ -7,32 +7,32 @@
 
 <hr>
 
-## How to get Public Sponsor GitHub achievement step by step :
-### 1. (First you need to know , for get this badge you need credit card and donate some money). Then you need to open GitHub Sponsors page first , And then click on See your top dependencies button
+## Comment obtenir la réussite du sponsor public GitHub étape par étape :
+### 1. (Vous devez d'abord savoir, pour obtenir ce badge, vous avez besoin d'une carte de crédit et donner de l'argent). Ensuite, vous devez d'abord ouvrir la page des sponsors GitHub, puis cliquer sur le bouton Voir vos principales dépendances.
 
 <div align="center">
 <a href="https://github.com/sponsors"><img width="700" src="../img/public-sponsor/sponsor-step1.png" alt="public-sponsor-step1.png"></a>
 </div>
 
-### 2. You can see a list of developers that you can donate them here .(You can being sponsored of any GitHub users who have sponsored button on them pages.)
+### 2. Vous pouvez voir une liste de développeurs que vous pouvez leur donner ici. (Vous pouvez être parrainé par tous les utilisateurs de GitHub qui ont un bouton sponsorisé sur leurs pages.)
 
 <div align="center">
 <img width="700" src="../img/public-sponsor/sponsor-step2.png" alt="public-sponsor-step2.png">
 </div>
 
-### 3. After you found a person to being sponsored . you can see a page to select how much you want to donate per month.
+### 3. Après avoir trouvé une personne à parrainer. vous pouvez voir une page pour sélectionner le montant que vous souhaitez donner par mois.
 
 <div align="center">
 <img width="700" src="../img/public-sponsor/sponsor-step3.png" alt="public-sponsor-step3.png">
 </div>
 
-### 4. There is a form to payment here , after your payment finish . You can see your badge in your profile (in Beta version 30 countries have payment methods for now).
+### 4. Il y a un formulaire de paiement ici, une fois votre paiement terminé. Vous pouvez voir votre badge dans votre profil (dans la version bêta, 30 pays ont des méthodes de paiement pour l'instant).
 
 <div align="center">
 <img width="700" src="../img/public-sponsor/sponsor-step4.png" alt="public-sponsor-step4.png">
 </div>
 
-### 5. Done , Now you can see that Public Sponsor Achievement in your achievements list.
+### 5. Terminé, vous pouvez maintenant voir cette réalisation de sponsor public dans votre liste de réalisations.
 
 <div align="center">
 <img width="300" src="../img/public-sponsor/sponsor-step5.png" alt="public-sponsor-step5.png">

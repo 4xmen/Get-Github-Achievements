@@ -1,4 +1,4 @@
-# Pull Shark
+# Pull Shark (Tirez le requin)
 
 <div align="center"  >
 
@@ -7,34 +7,34 @@
 
 <hr>
 
-## How to get Pull Shark GitHub achievement step by step :
+## Comment obtenir le succès Pull Shark GitHub étape par étape :
 
-### 1. You need to get fork from a repository ( you can fork any repository you want ).  
+### 1. Vous devez obtenir un fork à partir d'un référentiel (vous pouvez forker n'importe quel référentiel de votre choix).
 
 <div align="center">
 <img width="700" src="../img/pull-shark/pull-step1.png" alt="pull-shark-step1.png">
 </div>
 
-### 2. When your forked repository create , you need to do some changes on forked repository ( any changes like add new file or do some changes on codes ! ), After that , you need to go to pull request tab;
+### 2. Lors de la création de votre référentiel forké, vous devez apporter des modifications au référentiel forké (toutes les modifications telles que l'ajout d'un nouveau fichier ou la modification des codes !), Après cela, vous devez accéder à l'onglet de demande d'extraction .
 
 <div align="center">
 <img width="700" src="../img/pull-shark/pull-step2.png" alt="pull-shark-step2.png">
 </div>
 
-### 3. Click on create pull request button ;
+### 3. Cliquez sur le bouton créer une pull request .
 
 <div align="center">
 <img width="700" src="../img/pull-shark/pull-step3.png" alt="pull-shark-step3.png">
 </div>
 
-### 4. Now you can see able to merge green text that means you can merge your pulled request , So click on Create Pull request button to create your pull request successfully . Then you have to wait for your request to be Merged by the creator of repository.
-#### - You need 2 merged pull request , to get the Pull Shark Achievement
+### 4. Vous pouvez maintenant voir le texte vert capable de fusionner, ce qui signifie que vous pouvez fusionner votre demande extraite. Cliquez donc sur le bouton Créer une demande d'extraction pour créer votre demande d'extraction avec succès. Ensuite, vous devez attendre que votre demande soit fusionnée par le créateur du référentiel.
+#### - Vous avez besoin de 2 demandes de tirage fusionnées pour obtenir le succès Pull Shark
 
 <div align="center">
 <img width="700" src="../img/pull-shark/pull-step4.png" alt="pull-shark-step4.png">
 </div>
 
-### 5. Done , Now you can see that Pull Shark Achievement in your achievements list.
+### 5. Terminé, vous pouvez maintenant voir cette réalisation Pull Shark dans votre liste de réalisations.
 
 <div align="center">
 <img width="300" src="../img/pull-shark/pull-step5.png" alt="pull-shark-step5.png">

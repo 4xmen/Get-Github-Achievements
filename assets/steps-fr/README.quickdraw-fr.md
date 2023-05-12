@@ -1,4 +1,4 @@
-# Quickdraw
+# Quickdraw (Dégainer rapidement)
 
 <div align="center"  >
 
@@ -7,27 +7,27 @@
 
 <hr>
 
-## How to get Quickdraw GitHub achievement step by step :
+## Comment obtenir la réalisation Quickdraw GitHub étape par étape :
 
-### 1. You need to create New Issue or Pull Request in any repository you want.
+### 1. Vous devez créer un nouveau problème ou une demande d'extraction dans le référentiel de votre choix.
 
 <div align="center">
 <img width="700" src="../img/quickdraw/quickdraw-step1.png" alt="quickdraw-step1.png">
 </div>
 
-### 2. Now you should write a title and leave a comment (if you want) . and then . Click on Submit new issue button.
+### 2. Maintenant, vous devez écrire un titre et laisser un commentaire (si vous le souhaitez). et puis . Cliquez sur le bouton Soumettre un nouveau problème.
 
 <div align="center">
 <img width="700" src="../img/quickdraw/quickdraw-step2.png" alt="quickdraw-step2.png">
 </div>
 
-### 3. Write Any comment you want (you can close issue or pull request without commenting too.) , And then click on Close issue / close pull request . 
+### 3. Écrivez le commentaire de votre choix (vous pouvez également fermer le problème ou la demande d'extraction sans commenter.), puis cliquez sur Fermer le problème / fermer la demande d'extraction.
 
 <div align="center">
 <img width="700" src="../img/quickdraw/quickdraw-step3.png" alt="quickdraw-step3.png">
 </div>
 
-### 4. Done , Now you can see that Quickdraw Achievement in your achievements list.
+### 4. Terminé, vous pouvez maintenant voir cette réalisation Quickdraw dans votre liste de réalisations.
 
 <div align="center">
 <img width="300" src="../img/quickdraw/quickdraw-step4.png" alt="quickdraw-step4.png">
