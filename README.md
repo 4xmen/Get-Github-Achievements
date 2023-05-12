@@ -60,7 +60,7 @@
 <br>
 
 <div align="center"  >
-<a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps/README.quickdraw.md">
+<a href="assets/steps/README.quickdraw.md">
 <img width="296" src="assets/badges/Quickdraw.png" alt="QuickDraw-Pin">
 </a>
 </div>
@@ -72,13 +72,13 @@
 
 #### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
 
-<div align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps/README.quickdraw.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps/README.quickdraw.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps/README.yolo.md">
+<a href="assets/steps/README.yolo.md">
 <img width="296" src="assets/badges/Yolo.png" alt="Yolo-Pin">
 </a>
 </div>
@@ -90,13 +90,13 @@
 
 #### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
 
-<div align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps/README.yolo.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps/README.yolo.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps/README.galaxy-brain.md">
+<a href="assets/steps/README.galaxy-brain.md">
 <img width="296" src="assets/badges/GalaxyBrain.png" alt="GalaxyBrain-Pin">
 </a>
 </div>
@@ -108,13 +108,13 @@
 
 #### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
 
-<div align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps/README.galaxy-brain.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps/README.galaxy-brain.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps/README.pull-shark.md">
+<a href="assets/steps/README.pull-shark.md">
 <img width="296" src="assets/badges/PullShark.png" alt="PullShark-Pin">
 </a>
 </div>
@@ -126,13 +126,13 @@
 
 #### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
 
-<div align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps/README.pull-shark.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps/README.pull-shark.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps/README.starstruck.md">
+<a href="assets/steps/README.starstruck.md">
 <img width="296" src="assets/badges/Starstruck.png" alt="Starstruck-Pin">
 </a>
 </div>
@@ -144,13 +144,13 @@
 
 #### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
 
-<div align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps/README.starstruck.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps/README.starstruck.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps/README.pair-extraordinaire.md">
+<a href="assets/steps/README.pair-extraordinaire.md">
 <img width="296" src="assets/badges/PairExtraordinaire.png" alt="PairExtraordinaire-Pin">
 </a>
 </div>
@@ -162,13 +162,13 @@
 
 #### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
 
-<div align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps/README.pair-extraordinaire.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps/README.pair-extraordinaire.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps/README.publicsponsor.md">
+<a href="assets/steps/README.publicsponsor.md">
 <img width="296" src="assets/badges/PublicSponsor.png" alt="PublicSponsor-Pin">
 </a>
 </div>
@@ -180,7 +180,7 @@
 
 #### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
 
-<div align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps/README.publicsponsor.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps/README.publicsponsor.md"><img src="assets/img/btn.png" alt=""></a></div>
 
 <hr>
 
