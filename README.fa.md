@@ -62,7 +62,7 @@
 <br>
 
 <div align="center"  >
-<a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps-fa/README.quickdraw-fa.md">
+<a href="assets/steps-fa/README.quickdraw-fa.md">
 <img width="296" src="assets/badges/Quickdraw.png" alt="QuickDraw-Pin">
 </a>
 </div>
@@ -74,13 +74,13 @@
 
 #### - اگر نیازمند کمک بیشتری هستید میتوانید بر روی دکمه نحوه دریافت کلیک کرده , و از آموزش قدم به قدم نحوه دریافت این پین استفاده کنید
 
-<div align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps-fa/README.quickdraw-fa.md"><img src="assets/img/btn-fa.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-fa/README.quickdraw-fa.md"><img src="assets/img/btn-fa.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps-fa/README.yolo-fa.md">
+<a href="assets/steps-fa/README.yolo-fa.md">
 <img width="296" src="assets/badges/Yolo.png" alt="Yolo-Pin">
 </a>
 </div>
@@ -92,13 +92,13 @@
 
 #### - اگر نیازمند کمک بیشتری هستید میتوانید بر روی دکمه نحوه دریافت کلیک کرده , و از آموزش قدم به قدم نحوه دریافت این پین استفاده کنید
 
-<div align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps-fa/README.yolo-fa.md"><img src="assets/img/btn-fa.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-fa/README.yolo-fa.md"><img src="assets/img/btn-fa.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps-fa/README.galaxy-brain-fa.md">
+<a href="assets/steps-fa/README.galaxy-brain-fa.md">
 <img width="296" src="assets/badges/GalaxyBrain.png" alt="GalaxyBrain-Pin">
 </a>
 </div>
@@ -110,13 +110,13 @@
 
 #### - اگر نیازمند کمک بیشتری هستید میتوانید بر روی دکمه نحوه دریافت کلیک کرده , و از آموزش قدم به قدم نحوه دریافت این پین استفاده کنید
 
-<div align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps-fa/README.galaxy-brain-fa.md"><img src="assets/img/btn-fa.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-fa/README.galaxy-brain-fa.md"><img src="assets/img/btn-fa.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps-fa/README.pull-shark-fa.md">
+<a href="assets/steps-fa/README.pull-shark-fa.md">
 <img width="296" src="assets/badges/PullShark.png" alt="PullShark-Pin">
 </a>
 </div>
@@ -128,13 +128,13 @@
 
 #### - اگر نیازمند کمک بیشتری هستید میتوانید بر روی دکمه نحوه دریافت کلیک کرده , و از آموزش قدم به قدم نحوه دریافت این پین استفاده کنید
 
-<div align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps-fa/README.pull-shark-fa.md"><img src="assets/img/btn-fa.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-fa/README.pull-shark-fa.md"><img src="assets/img/btn-fa.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps-fa/README.starstruck-fa.md">
+<a href="assets/steps-fa/README.starstruck-fa.md">
 <img width="296" src="assets/badges/Starstruck.png" alt="Starstruck-Pin">
 </a>
 </div>
@@ -146,13 +146,13 @@
 
 #### - اگر نیازمند کمک بیشتری هستید میتوانید بر روی دکمه نحوه دریافت کلیک کرده , و از آموزش قدم به قدم نحوه دریافت این پین استفاده کنید
 
-<div align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps-fa/README.starstruck-fa.md"><img src="assets/img/btn-fa.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-fa/README.starstruck-fa.md"><img src="assets/img/btn-fa.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps-fa/README.pair-extraordinaire-fa.md">
+<a href="assets/steps-fa/README.pair-extraordinaire-fa.md">
 <img width="296" src="assets/badges/PairExtraordinaire.png" alt="PairExtraordinaire-Pin">
 </a>
 </div>
@@ -164,13 +164,13 @@
 
 #### - اگر نیازمند کمک بیشتری هستید میتوانید بر روی دکمه نحوه دریافت کلیک کرده , و از آموزش قدم به قدم نحوه دریافت این پین استفاده کنید
 
-<div align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps-fa/README.pair-extraordinaire-fa.md"><img src="assets/img/btn-fa.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-fa/README.pair-extraordinaire-fa.md"><img src="assets/img/btn-fa.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps-fa/README.publicsponsor-fa.md">
+<a href="assets/steps-fa/README.publicsponsor-fa.md">
 <img width="296" src="assets/badges/PublicSponsor.png" alt="PublicSponsor-Pin">
 </a>
 </div>
@@ -182,7 +182,7 @@
 
 #### - اگر نیازمند کمک بیشتری هستید میتوانید بر روی دکمه نحوه دریافت کلیک کرده , و از آموزش قدم به قدم نحوه دریافت این پین استفاده کنید
 
-<div align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps-fa/README.publicsponsor-fa.md"><img src="assets/img/btn-fa.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-fa/README.publicsponsor-fa.md"><img src="assets/img/btn-fa.png" alt=""></a></div>
 
 <hr>
 
