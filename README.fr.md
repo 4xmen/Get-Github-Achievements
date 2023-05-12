@@ -5,11 +5,11 @@
 <div align="center">
 
 [![en](https://img.shields.io/badge/Lang-English-blue.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.md)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![fa](https://img.shields.io/badge/Lang-Persian-green.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.fa.md)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![de](https://img.shields.io/badge/Lang-Deutsch-yellow.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.de.md)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![fr](https://img.shields.io/badge/Lang-french-orange.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.fr.md)
 
 </div>
@@ -60,7 +60,7 @@
 <br>
 
 <div align="center"  >
-<a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps/README.quickdraw.md">
+<a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps-fr/README.quickdraw-fr.md">
 <img width="296" src="assets/badges/Quickdraw.png" alt="QuickDraw-Pin">
 </a>
 </div>
@@ -72,13 +72,13 @@
 
 #### - Si vous avez besoin de plus d'aide, cliquez sur le bouton Comment obtenir pour obtenir un tutoriel étape par étape sur la façon d'obtenir cette réalisation.
 
-<div align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps/README.quickdraw.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps-fr/README.quickdraw-fr.md"><img src="assets/img/btn-fr.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps/README.yolo.md">
+<a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps-fr/README.yolo-fr.md">
 <img width="296" src="assets/badges/Yolo.png" alt="Yolo-Pin">
 </a>
 </div>
@@ -90,13 +90,13 @@
 
 #### - Si vous avez besoin de plus d'aide, cliquez sur le bouton Comment obtenir pour obtenir un tutoriel étape par étape sur la façon d'obtenir cette réalisation.
 
-<div align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps/README.yolo.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps-fr/README.yolo-fr.md"><img src="assets/img/btn-fr.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps/README.galaxy-brain.md">
+<a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps-fr/README.galaxy-brain-fr.md">
 <img width="296" src="assets/badges/GalaxyBrain.png" alt="GalaxyBrain-Pin">
 </a>
 </div>
@@ -108,13 +108,13 @@
 
 #### - Si vous avez besoin de plus d'aide, cliquez sur le bouton Comment obtenir pour obtenir un tutoriel étape par étape sur la façon d'obtenir cette réalisation.
 
-<div align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps/README.galaxy-brain.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps-fr/README.galaxy-brain-fr.md"><img src="assets/img/btn-fr.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps/README.pull-shark.md">
+<a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps-fr/README.pull-shark-fr.md">
 <img width="296" src="assets/badges/PullShark.png" alt="PullShark-Pin">
 </a>
 </div>
@@ -126,13 +126,13 @@
 
 #### - Si vous avez besoin de plus d'aide, cliquez sur le bouton Comment obtenir pour obtenir un tutoriel étape par étape sur la façon d'obtenir cette réalisation.
 
-<div align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps/README.pull-shark.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps-fr/README.pull-shark-fr.md"><img src="assets/img/btn-fr.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps/README.starstruck.md">
+<a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps-fr/README.starstruck-fr.md">
 <img width="296" src="assets/badges/Starstruck.png" alt="Starstruck-Pin">
 </a>
 </div>
@@ -144,13 +144,13 @@
 
 #### - Si vous avez besoin de plus d'aide, cliquez sur le bouton Comment obtenir pour obtenir un tutoriel étape par étape sur la façon d'obtenir cette réalisation.
 
-<div align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps/README.starstruck.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps-fr/README.starstruck-fr.md"><img src="assets/img/btn-fr.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps/README.pair-extraordinaire.md">
+<a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps-fr/README.pair-extraordinaire-fr.md">
 <img width="296" src="assets/badges/PairExtraordinaire.png" alt="PairExtraordinaire-Pin">
 </a>
 </div>
@@ -162,13 +162,13 @@
 
 #### - Si vous avez besoin de plus d'aide, cliquez sur le bouton Comment obtenir pour obtenir un tutoriel étape par étape sur la façon d'obtenir cette réalisation.
 
-<div align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps/README.pair-extraordinaire.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps-fr/README.pair-extraordinaire-fr.md"><img src="assets/img/btn-fr.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps/README.publicsponsor.md">
+<a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps-fr/README.publicsponsor-fr.md">
 <img width="296" src="assets/badges/PublicSponsor.png" alt="PublicSponsor-Pin">
 </a>
 </div>
@@ -180,7 +180,7 @@
 
 #### - Si vous avez besoin de plus d'aide, cliquez sur le bouton Comment obtenir pour obtenir un tutoriel étape par étape sur la façon d'obtenir cette réalisation.
 
-<div align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps/README.publicsponsor.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/assets/steps-fr/README.publicsponsor-fr.md"><img src="assets/img/btn-fr.png" alt=""></a></div>
 
 <hr>
 
