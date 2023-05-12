@@ -1,6 +1,6 @@
 <div dir="rtl">
 
-# Pull Shark
+# پین Pull Shark
 
 <div align="center"  >
 
@@ -9,34 +9,34 @@
 
 <hr>
 
-## How to get Pull Shark GitHub achievement step by step :
+## نحوه دریافت پین Pull Shark , قدم به قدم : 
 
-### 1. You need to get fork from a repository ( you can fork any repository you want ).  
+### 1. شما باید یک مخزن (هر مخزنی) را انتخاب کنید و از آن یک فورک (Fork) بگیرید
 
 <div align="center">
 <img width="700" src="../img/pull-shark/pull-step1.png" alt="pull-shark-step1.png">
 </div>
 
-### 2. When your forked repository create , you need to do some changes on forked repository ( any changes like add new file or do some changes on codes ! ), After that , you need to go to pull request tab;
+### 2. هنگامی که از مخزن فورک گرفتید و فورک شما ایجاد شد ، باید تغییراتی در مخزن فورکی خود ایجاد کنید (هر تغییری مانند افزودن فایل جدید یا انجام برخی تغییرات در کد ها) پس از آن باید به صفحه Pull Request بروید.
 
 <div align="center">
 <img width="700" src="../img/pull-shark/pull-step2.png" alt="pull-shark-step2.png">
 </div>
 
-### 3. Click on create pull request button ;
+### 3. بر روی دکمه Pull Request کلیک کنید.
 
 <div align="center">
 <img width="700" src="../img/pull-shark/pull-step3.png" alt="pull-shark-step3.png">
 </div>
 
-### 4. Now you can see able to merge green text that means you can merge your pulled request , So click on Create Pull request button to create your pull request successfully . Then you have to wait for your request to be Merged by the creator of repository.
-#### - You need 2 merged pull request , to get the Pull Shark Achievement
+### 4. اکنون میتوانید متن سبز رنگی را مشاهده کنید ، که به معنای این است که Pull Request خود را ادغام کنید. بر روی دکمه Create Pull Request کلیک کنید تا درخواست خود را ایجاد کنید.سپس باید منتظر بمانید تا درخواست شما توسط سازنده مخزن ادغام شود. 
+#### - برای دریافت این پین ، نیاز است دو درخواست ادغام شده داشته باشید. 
 
 <div align="center">
 <img width="700" src="../img/pull-shark/pull-step4.png" alt="pull-shark-step4.png">
 </div>
 
-### 5. Done , Now you can see that Pull Shark Achievement in your achievements list.
+### 5. کار انجام شد . حالا میتوانید پین Pull Shark را در پروفایل خود مشاهده کنید. 
 
 <div align="center">
 <img width="300" src="../img/pull-shark/pull-step5.png" alt="pull-shark-step5.png">
