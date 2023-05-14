@@ -7,7 +7,7 @@
 
 <hr>
 
-## How to get Galaxy Brain GitHub achievement step by step :
+## So erhalten Sie Schritt für Schritt den Galaxy Brain GitHub-Erfolg:
 
 ### 1. Sie müssen zur GitHub-Community-Adresse (https://github.com/community/community) gehen. Und wählen Sie eine der Feedback-Kategorien aus.
 
