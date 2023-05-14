@@ -7,7 +7,7 @@
 
 <hr>
 
-## How to get Yolo GitHub achievement step by step :
+## How to get Yolo GitHub achievement step by step : 
 
 ### 1. First you need to fork from a repository , click fork then click on Create fork button get a fork of a repository
 
