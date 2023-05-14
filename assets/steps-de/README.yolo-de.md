@@ -9,7 +9,7 @@
 
 ## So erhalten Sie Schritt für Schritt den Yolo GitHub-Erfolg:
 
-### 1. First you need to fork from a repository , click fork then click on Create fork button get a fork of a repository
+### 1. Zuerst müssen Sie einen Fork von einem Repository erstellen, auf Fork klicken und dann auf die Schaltfläche „Fork erstellen“ klicken, um einen Fork eines Repositorys zu erhalten
 
 <div align="center">
 <img width="700" src="../img/yolo/yolo-step1.png" alt="yolo-step1.png">
