@@ -46,7 +46,7 @@
 <img width="700" src="../img/yolo/yolo-step6.png" alt="yolo-step6.png">
 </div>
 
-### 7. Fügen Sie einen beliebigen Kommentar in das Feld ein und klicken Sie dann auf „Pull-Anfrage erstellen“. Wenn Ihre Pull-Anfrage hinzugefügt wurde, führen Sie sie vor dem Prüfer zusammen und klicken Sie auf die Schaltfläche „Pull-Anfrage zusammenführen“.  
+### 7.Fügen Sie einen Kommentar Ihrer Wahl in das Feld ein und klicken Sie anschließend auf "Pull-Anfrage erstellen". Sobald Ihre Pull-Anfrage hinzugefügt wurde, führen Sie diese mit dem Prüfer zusammen, indem Sie auf die Schaltfläche "Pull-Anfrage zusammenführen" klicken.  
 
 <div align="center">
 <img width="700" src="../img/yolo/yolo-step7.png" alt="yolo-step7.png">
