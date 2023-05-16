@@ -8,41 +8,41 @@
 
 <hr>
 
-## How to get Pair Extraordinaire GitHub achievement step by step :
+## So erhalten Sie Schritt für Schritt den GitHub-Erfolg „Pair Extraordinaire“:
 
-### 1. You need to install GitHub Desktop , And clone your repository from the internet . (if you found any error , you need to add your repository from your internal repository file)
+### 1. Sie müssen GitHub Desktop installieren und Ihr Repository aus dem Internet klonen. (Wenn Sie einen Fehler gefunden haben, müssen Sie Ihr Repository aus Ihrer internen Repository-Datei hinzufügen.)
 
 <div align="center">
 <img width="700" src="../img/pair-extraordinaire/pair-step1.png" alt="pair-extraordinaire-step1.png">
 </div>
 
-### 2. Clone your repository HTTPS Link and insert it to URL text box.
+### 2. Klonen Sie den HTTPS-Link Ihres Repositorys und fügen Sie ihn in das URL-Textfeld ein.
 
 <div align="center">
 <img width="700" src="../img/pair-extraordinaire/pair-step2.png" alt="pair-extraordinaire-step2.png">
 </div>
 
-### 3. No need to use filter box just click on New branch and Create new branch For your repository
+### 3. Sie müssen kein Filterfeld verwenden. Klicken Sie einfach auf „Neuer Zweig“ und „Neuen Zweig für Ihr Repository erstellen“.
 
 <div align="center">
 <img width="700" src="../img/pair-extraordinaire/pair-step3.png" alt="pair-extraordinaire-step3.png">
 </div>
 
 
-### 4. Add a summary in your title box , Then add a description , At last add a Co-Author By Username GitHub (You need to just commit a file in your repository (Don't Push the Files)).
+### 4. Fügen Sie eine Zusammenfassung in Ihr Titelfeld ein, fügen Sie dann eine Beschreibung hinzu und fügen Sie zuletzt einen Co-Autor mit Benutzernamen GitHub hinzu (Sie müssen nur eine Datei in Ihrem Repository festschreiben (die Dateien nicht übertragen)).
 
 <div align="center">
 <img width="700" src="../img/pair-extraordinaire/pair-step4.png" alt="pair-extraordinaire-step4.png">
 </div>
 
 
-### 5. Now check your repository on GitHub and add Assignees , And then click on Merge pull request button (the Pair Extraordinaire will give to both accounts (You and Co-Author)).
+### 4. Fügen Sie eine Zusammenfassung in Ihr Titelfeld ein, fügen Sie dann eine Beschreibung hinzu und fügen Sie zuletzt einen Co-Autor mit Benutzernamen GitHub hinzu (Sie müssen nur eine Datei in Ihrem Repository festschreiben (die Dateien nicht übertragen)).
 
 <div align="center">
 <img width="700" src="../img/pair-extraordinaire/pair-step5.png" alt="pair-extraordinaire-step5.png">
 </div>
 
-### 6. Done , Now you can see that Pair Extraordinaire Achievement in your achievements list.
+### 6. Fertig. Jetzt können Sie den „Pair Extraordinaire“-Erfolg in Ihrer Erfolgsliste sehen.
 
 <div align="center">
 <img width="300" src="../img/pair-extraordinaire/pair-step6.png" alt="pair-extraordinaire-step6.png">

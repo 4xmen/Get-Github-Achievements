@@ -7,32 +7,32 @@
 
 <hr>
 
-## How to get Public Sponsor GitHub achievement step by step :
-### 1. (First you need to know , for get this badge you need credit card and donate some money). Then you need to open GitHub Sponsors page first , And then click on See your top dependencies button
+## So erhalten Sie Schritt für Schritt den GitHub-Erfolg als öffentlicher Sponsor:
+### 1. (Zuerst müssen Sie wissen, dass Sie für den Erhalt dieses Abzeichens eine Kreditkarte benötigen und etwas Geld spenden müssen). Dann müssen Sie zuerst die GitHub-Sponsorenseite öffnen und dann auf die Schaltfläche „Ihre wichtigsten Abhängigkeiten anzeigen“ klicken
 
 <div align="center">
 <a href="https://github.com/sponsors"><img width="700" src="../img/public-sponsor/sponsor-step1.png" alt="public-sponsor-step1.png"></a>
 </div>
 
-### 2. You can see a list of developers that you can donate them here .(You can being sponsored of any GitHub users who have sponsored button on them pages.)
+### 2. Hier können Sie eine Liste der Entwickler sehen, die Sie spenden können. (Sie können von jedem GitHub-Benutzer gesponsert werden, der auf seinen Seiten über die Schaltfläche „Sponsor“ verfügt.)
 
 <div align="center">
 <img width="700" src="../img/public-sponsor/sponsor-step2.png" alt="public-sponsor-step2.png">
 </div>
 
-### 3. After you found a person to being sponsored . you can see a page to select how much you want to donate per month.
+### 3. Nachdem Sie eine Person gefunden haben, die Sie unterstützen möchten. Sie können eine Seite sehen, auf der Sie auswählen können, wie viel Sie pro Monat spenden möchten.
 
 <div align="center">
 <img width="700" src="../img/public-sponsor/sponsor-step3.png" alt="public-sponsor-step3.png">
 </div>
 
-### 4. There is a form to payment here , after your payment finish . You can see your badge in your profile (in Beta version 30 countries have payment methods for now).
+### 4. Nach Abschluss Ihrer Zahlung finden Sie hier ein Zahlungsformular. Sie können Ihr Abzeichen in Ihrem Profil sehen (in der Beta-Version verfügen derzeit 30 Länder über Zahlungsmethoden).
 
 <div align="center">
 <img width="700" src="../img/public-sponsor/sponsor-step4.png" alt="public-sponsor-step4.png">
 </div>
 
-### 5. Done , Now you can see that Public Sponsor Achievement in your achievements list.
+### 5. Fertig. Jetzt können Sie die Leistung des öffentlichen Sponsors in Ihrer Erfolgsliste sehen.
 
 <div align="center">
 <img width="300" src="../img/public-sponsor/sponsor-step5.png" alt="public-sponsor-step5.png">
