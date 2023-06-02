@@ -12,7 +12,7 @@
 
 ##  نحوه دریافت پین Pair Extraordinaire  , قدم به قدم :
 
-### 1. باید GitHub Desktop را نصب کنید و مخزن خود را از اینترنت کلون کنید. (اگر Error پیدا کردید، باید مخزن خود را از فایل مخزن داخلی خود اضافه کنید)
+### 1. باید[ GitHub Desktop](https://desktop.github.com/) را نصب کنید و مخزن خود را از اینترنت کلون کنید. (اگر Error پیدا کردید، باید مخزن خود را از فایل مخزن داخلی خود اضافه کنید)
 
 <div align="center">
 <img width="700" src="../img/pair-extraordinaire/pair-step1.png" alt="pair-extraordinaire-step1.png">
