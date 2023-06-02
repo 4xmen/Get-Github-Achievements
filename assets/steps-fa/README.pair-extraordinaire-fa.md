@@ -31,20 +31,21 @@
 </div>
 
 
-### 4. Add a summary in your title box , Then add a description , At last add a Co-Author By Username GitHub (You need to just commit a file in your repository (Don't Push the Files)).
+### 4. خلاصه‌ای از تغییرات را در کادر عنوان خود اضافه کنید، سپس یک توضیح اضافه کنید، در نهایت یک Co-author با نام کاربری GitHub اضافه کنید (فقط باید یک فایل را در مخزن خود ارسال کنید (فایل‌ها را push نکنید))
 
 <div align="center">
 <img width="700" src="../img/pair-extraordinaire/pair-step4.png" alt="pair-extraordinaire-step4.png">
 </div>
 
 
-### 5. Now check your repository on GitHub and add Assignees , And then click on Merge pull request button (the Pair Extraordinaire will give to both accounts (You and Co-Author)).
+### 5. اکنون مخزن خود را در GitHub بررسی کنید و Assignees را اضافه کنید، و سپس بر روی دکمه Merge pull request کلیک کنید (Pair Extraordinaire را به هر دو حساب (شما و Co-Author) می دهد).
 
 <div align="center">
 <img width="700" src="../img/pair-extraordinaire/pair-step5.png" alt="pair-extraordinaire-step5.png">
 </div>
 
-### 6. Done , Now you can see that Pair Extraordinaire Achievement in your achievements list.
+### 6. کار تمام شد ؛ اکنون میتوانید پین Pair Extraordinaire را در پروفایل خود مشاهده کنید.
+  
 
 <div align="center">
 <img width="300" src="../img/pair-extraordinaire/pair-step6.png" alt="pair-extraordinaire-step6.png">
