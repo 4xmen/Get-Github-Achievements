@@ -10,7 +10,7 @@
 
 ## Comment obtenir le succès Pair Extraordinaire GitHub étape par étape :
 
-### 1. Vous devez installer GitHub Desktop et cloner votre référentiel à partir d'Internet. (si vous avez trouvé une erreur, vous devez ajouter votre référentiel à partir de votre fichier de référentiel interne)
+### 1. Vous devez installer [GitHub Desktop](https://desktop.github.com/) et cloner votre référentiel à partir d'Internet. (si vous avez trouvé une erreur, vous devez ajouter votre référentiel à partir de votre fichier de référentiel interne)
 
 <div align="center">
 <img width="700" src="../img/pair-extraordinaire/pair-step1.png" alt="pair-extraordinaire-step1.png">
