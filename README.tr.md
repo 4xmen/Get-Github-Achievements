@@ -12,7 +12,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![fr](https://img.shields.io/badge/Lang-french-orange.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.fr.md)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![tr](https://img.shields.io/badge/Lang-Turkish-red.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.tr.md)
+[![tr](https://img.shields.io/badge/Lang-Turkish-red.svg)](https://github.com/emreyunusbas/Get-Github-Achievements/blob/main/README.tr.md)
 
 </div>
 
