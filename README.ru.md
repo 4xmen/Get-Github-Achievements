@@ -1,6 +1,6 @@
 <!-- <div align="center"> -->
 
-## Language
+## Язык
 
 <div align="center">
 
@@ -16,7 +16,7 @@
 
 </div>
 
-# GitHub Achievements 🏆
+# Достижения на GitHub 🏆
 
 <br>
 
@@ -33,31 +33,31 @@
 
 <br>
 
-# How to Get GitHub Achievements
+# Как получить достижения GitHub
 
-## You will be taught step by step how to get GitHub achievements in this course.
+## В этом курсе вас шаг за шагом научат, как получать достижения GitHub.
 
-### Notes:
+### Примечания:
 
-#### Note 1: If you have a problem to receive achievements, you can use the step-by-step training in the section on how to receive them.
+#### Примечание 1: Если у вас возникли проблемы с получением достижений, вы можете воспользоваться пошаговым обучением в разделе, как их получить.
 
-#### Note 2: All tutorials are with photos and each step is fully explained.
+#### Примечание 2: Все уроки снабжены фотографиями, и каждый шаг полностью объяснен.
 
-#### Note 3: If you find any problem or bugs, please [report](https://github.com/4xmen/Get-Github-Achievements/issues/new) it to us. And help us to improve the course.
-
-<br>
-
-# Achievements & Display 🏅
-
-#### Achievements are pins that GitHub gives to your GitHub account as a reward for certain activities and can be seen in your profile. These achievements give a good effect to your GitHub account and can indicate the amount of your activity and how you are active.
-
-#### You can opt out from having achievements displayed on your profile by going to your [profile settings](https://github.com/settings).
-
-#### Here we show you how to get GitHub Achievement pin's step by step :)
+#### Примечание 3: Если вы обнаружите какие-либо проблемы или ошибки, пожалуйста, [отчет](https://github.com/4xmen/Get-Github-Achievements/issues/new) это нам. И помогите нам улучшить курс.
 
 <br>
 
-# Achievement List 📃
+# Достижения и дисплей 🏅
+
+#### Достижения — это булавки, которые GitHub дает вашей учетной записи GitHub в качестве награды за определенные действия и которые можно увидеть в вашем профиле. Эти достижения дают хороший эффект для вашей учетной записи GitHub и могут указывать на количество вашей активности и то, насколько вы активны.
+
+#### Вы можете отказаться от отображения достижений в своем профиле, перейдя в [настройки профиля](https://github.com/settings).
+
+#### Здесь мы покажем вам, как шаг за шагом получить значок достижения GitHub :)
+
+<br>
+
+# Послужной список 📃
 
 <br>
 
@@ -68,13 +68,13 @@
 </div>
 <hr>
 
-## How to Get Quickdraw Achievement
+## Как получить достижение Quickdraw
 
-### Quickdraw has one of the easiest ways to receive . and you can receive it by just taking a few steps. To get this achievement you must . (closed an issue / pull request within 5 minutes of opening)
+### Quickdraw имеет один из самых простых способов получить . и вы можете получить его, всего лишь сделав несколько шагов. Чтобы получить это достижение, вы должны . (закрыли проблему / запрос на включение в течение 5 минут после открытия)
 
-#### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
+#### - Если вам нужна дополнительная помощь, нажмите кнопку «Как получить», чтобы получить пошаговое руководство о том, как получить это достижение.
 
-<div align="center"><a href="assets/steps/README.quickdraw.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps/README.quickdraw.md"><img src="assets/img/btn-ru.png" alt=""></a></div>
 <hr>
 
 <br>
@@ -86,13 +86,13 @@
 </div>
 <hr>
 
-## How to Get Yolo Achievement
+## Как получить достижение Yolo
 
-### Yolo is one of the most beautiful achievements of Github, which can give a very beautiful effect to your Github profile. To get this achievement, you need to Merge a pull request without a review.
+### Yolo — одно из самых красивых достижений Github, которое может придать вашему профилю на Github очень красивый эффект. Чтобы получить это достижение, вам нужно слить пулл-реквест без проверки.
 
-#### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
+#### - Если вам нужна дополнительная помощь, нажмите кнопку «Как получить», чтобы получить пошаговое руководство о том, как получить это достижение.
 
-<div align="center"><a href="assets/steps/README.yolo.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps/README.yolo.md"><img src="assets/img/btn-ru.png" alt=""></a></div>
 <hr>
 
 <br>
@@ -104,13 +104,13 @@
 </div>
 <hr>
 
-## How to Get Galaxy Brain Achievement
+## Как получить достижение Galaxy Brain
 
-### Getting Galaxy Brain is more difficult than the previous two achievements. And to receive it, you need to go through the steps that you need other GitHub users. You need to : Answered a discussion(got an accepted answer two times)
+### Получить Galaxy Brain сложнее, чем два предыдущих достижения. А чтобы его получить, нужно пройти шаги, которые нужны другим пользователям GitHub. Вам необходимо: Ответить на обсуждение (получить принятый ответ два раза)
 
-#### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
+#### - Если вам нужна дополнительная помощь, нажмите кнопку «Как получить», чтобы получить пошаговое руководство о том, как получить это достижение.
 
-<div align="center"><a href="assets/steps/README.galaxy-brain.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps/README.galaxy-brain.md"><img src="assets/img/btn-ru.png" alt=""></a></div>
 <hr>
 
 <br>
@@ -122,13 +122,13 @@
 </div>
 <hr>
 
-## How to Get Pull Shark Achievement
+## Как получить достижение Pull Shark
 
-### To get pull shark you need to make 2 merged pull request, you will get the one pull shark badge.
+### Чтобы получить пулл-акулу, вам нужно сделать 2 объединённых пулл-реквеста, вы получите значок одной пулл-акулы.
 
-#### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
+#### - Если вам нужна дополнительная помощь, нажмите кнопку «Как получить», чтобы получить пошаговое руководство о том, как получить это достижение.
 
-<div align="center"><a href="assets/steps/README.pull-shark.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps/README.pull-shark.md"><img src="assets/img/btn-ru.png" alt=""></a></div>
 <hr>
 
 <br>
@@ -140,13 +140,13 @@
 </div>
 <hr>
 
-## How to Get Starstruck Achievement
+## Как получить достижение Starstruck
 
-### It's too simple to get Starstruck Achievement & you have few steps to get Starstruck . You can get this Achievement When a Repository on your account hits 16 stars, even if it was transferred, you will receive the badge.
+### Получить достижение Starstruck слишком просто, и у вас есть несколько шагов, чтобы получить Starstruck. Вы можете получить это достижение, когда репозиторий на вашей учетной записи наберет 16 звезд, даже если он был перенесен, вы получите значок.
 
-#### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
+#### - Если вам нужна дополнительная помощь, нажмите кнопку «Как получить», чтобы получить пошаговое руководство о том, как получить это достижение.
 
-<div align="center"><a href="assets/steps/README.starstruck.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps/README.starstruck.md"><img src="assets/img/btn-ru.png" alt=""></a></div>
 <hr>
 
 <br>
@@ -158,13 +158,13 @@
 </div>
 <hr>
 
-## How to Get Pair Extraordinaire Achievement
+## Как получить достижение Pair Extraordinaire
 
-### You can earn the pair extraordinaire badge by co-authoring a pull request that then gets merged.
+### Вы можете заработать значок пары экстраординарных, создав совместно запрос на вытягивание, который затем будет объединен.
 
-#### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
+#### - Если вам нужна дополнительная помощь, нажмите кнопку «Как получить», чтобы получить пошаговое руководство о том, как получить это достижение.
 
-<div align="center"><a href="assets/steps/README.pair-extraordinaire.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps/README.pair-extraordinaire.md"><img src="assets/img/btn-ru.png" alt=""></a></div>
 <hr>
 
 <br>
@@ -188,7 +188,7 @@
 
 <br>
 
-# Unreleased Achievements ⏳
+# Неизданные достижения ⏳
 
 <br>
 
@@ -199,9 +199,9 @@
 </div>
 <hr>
 
-## Heart On Your Sleeve
+## Сердце на рукаве
 
-### the 'Heart On Your Sleeve' achievement badges is not yet released to public GitHub users at the moment.
+### На данный момент значки достижений «Сердце на рукаве» еще не выпущены для общедоступных пользователей GitHub.
 
 <hr>
 <br>
@@ -211,14 +211,14 @@
 </div>
 <hr>
 
-## Open Sourcerer
+## Разработчик открытого исходного кода
 
-### the 'Open Sourcerer' achievement badges is not yet released to public GitHub users at the moment.
+### На данный момент значки достижений «Открытый источник» еще не выпущены для общедоступных пользователей GitHub.
 
 <hr>
 <br>
 
-# Badges no longer earnable ❌
+# Значки больше нельзя заработать ❌
 
 <br>
 
@@ -229,9 +229,9 @@
 </div>
 <hr>
 
-## Mars 2020 Contributor
+## Участник Марса 2020
 
-### Contributed code to a repository used in the Mars 2020 Helicopter Mission
+### Внес код в репозиторий, используемый в вертолетной миссии Mars 2020.
 
 <hr>
 
@@ -242,21 +242,21 @@
 </div>
 <hr>
 
-## Arctic Code Vault Contributor
+## Автор Arctic Code Vault
 
-### Contributed code to a repository in the 2020 GitHub Archive Program
+### Внес код в репозиторий в программе GitHub Archive Program 2020.
 
 <hr>
 
 <br>
 
-# Achievement Skin Tone 👋
+# Тон кожи достижения 👋
 
 <br>
 
-#### Some achievements' appearance depends on your Emoji Skin Tone Preference.
+#### Внешний вид некоторых достижений зависит от вашего предпочтения тона кожи эмодзи.
 
-#### You can change your preferred Skin Tone by going to [appearance settings](https://github.com/settings/appearance).
+#### Внешний вид некоторых достижений зависит от вашего предпочтения тона кожи эмодзи. [настройки внешнего вида](https://github.com/settings/appearance).
 
 <hr>
 
@@ -276,11 +276,11 @@
 
 <br>
 
-# More information ℹ
+# Больше информации ℹ
 
 <br>
 
-#### You can find more information about GitHub Badges under this [link](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile).
+#### Дополнительную информацию о значках GitHub можно найти в этом разделе. [связь](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile).
 
 <!-- </div> -->
 <br>
