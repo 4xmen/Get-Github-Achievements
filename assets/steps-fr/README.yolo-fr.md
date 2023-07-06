@@ -9,53 +9,58 @@
 
 ## Comment obtenir la réalisation Yolo GitHub étape par étape :
 
-### 1. Vous devez d'abord créer un fork à partir d'un référentiel, cliquez sur fork puis sur le bouton Créer un fork pour obtenir un fork d'un référentiel
+### 1. Tout d'abord, vous devez ouvrir le référentiel et accéder aux paramètres.
 
 <div align="center">
 <img width="700" src="../img/yolo/yolo-step1.png" alt="yolo-step1.png">
 </div>
 
-### 2. Ajoutez un fichier, modifiez certains textes ou effectuez des modifications sur le référentiel forké
+### 2. Deuxièmement, vous devez vous rendre dans la catégorie des collaborateurs et dans cette section, inviter un compte auquel vous avez accès au référentiel.
 
 <div align="center">
 <img width="700" src="../img/yolo/yolo-step2.png" alt="yolo-step2.png">
 </div>
 
-### 3. Validez votre fichier ajouté ou le texte modifié dans le référentiel forké.
+### 3. Troisièmement, vous devez ajouter une nouvelle branche à votre référentiel.
 
 <div align="center">
 <img width="700" src="../img/yolo/yolo-step3.png" alt="yolo-step3.png">
 </div>
 
 
-### 4. Créez une nouvelle branche pour ce commit et lancez une pull request
+### 4. Maintenant, vous devez ajouter un fichier à la nouvelle branche que vous avez créée.
 
 <div align="center">
-<img width="300" src="../img/yolo/yolo-step4.png" alt="yolo-step4.png">
+<img width="700" src="../img/yolo/yolo-step4.png" alt="yolo-step4.png">
 </div>
 
-### 5. Cliquez sur , Comparez et tirez le bouton de demande
+### 5. Ajoutez le fichier et validez sa description et validez enfin vos modifications
 
 <div align="center">
 <img width="700" src="../img/yolo/yolo-step5.png" alt="yolo-step5.png">
 </div>
 
-### 6. Ajoutez un réviseur à vos modifications validées sur le référentiel forké
+### 6. Cliquez sur le bouton vert, comparez et tirez la demande.
 
 <div align="center">
 <img width="700" src="../img/yolo/yolo-step6.png" alt="yolo-step6.png">
 </div>
 
-### 7. Ajoutez le commentaire de votre choix dans la case puis cliquez sur Créer une demande d'extraction . Une fois votre demande d'extraction ajoutée, fusionnez-la avant le réviseur et cliquez sur le bouton Fusionner la demande d'extraction .   
+### 7. Ajoutez la personne invitée à l'étape 2 en tant que réviseur et créez une demande d'extraction.
 
 <div align="center">
 <img width="700" src="../img/yolo/yolo-step7.png" alt="yolo-step7.png">
 </div>
 
-
-### 8. Terminé, vous pouvez maintenant voir cette réalisation Yolo dans votre liste de réalisations.
+### 8. Enfin, vérifiez que votre réviseur, puis cliquez sur Merge pull request.
 
 <div align="center">
-<img width="300" src="../img/yolo/yolo-step8.png" alt="yolo-finish.png">
+<img width="700" src="../img/yolo/yolo-step8.png" alt="yolo-step7.png">
+</div>
+
+### 9. Terminé, vous pouvez maintenant voir cette réalisation Yolo dans votre liste de réalisations.
+
+<div align="center">
+<img width="300" src="../img/yolo/yolo-step9.png" alt="yolo-finish.png">
 </div>
 
