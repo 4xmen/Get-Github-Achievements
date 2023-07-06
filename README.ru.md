@@ -62,7 +62,7 @@
 <br>
 
 <div align="center"  >
-<a href="assets/steps/README.quickdraw.md">
+<a href="assets/steps-ru/README.quickdraw-ru.md">
 <img width="296" src="assets/badges/Quickdraw.png" alt="QuickDraw-Pin">
 </a>
 </div>
@@ -74,13 +74,13 @@
 
 #### - Если вам нужна дополнительная помощь, нажмите кнопку «Как получить», чтобы получить пошаговое руководство о том, как получить это достижение.
 
-<div align="center"><a href="assets/steps/README.quickdraw.md"><img src="assets/img/btn-ru.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-ru/README.quickdraw-ru.md"><img src="assets/img/btn-ru.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="assets/steps/README.yolo.md">
+<a href="assets/steps-ru/README.yolo-ru.md">
 <img width="296" src="assets/badges/Yolo.png" alt="Yolo-Pin">
 </a>
 </div>
@@ -92,13 +92,13 @@
 
 #### - Если вам нужна дополнительная помощь, нажмите кнопку «Как получить», чтобы получить пошаговое руководство о том, как получить это достижение.
 
-<div align="center"><a href="assets/steps/README.yolo.md"><img src="assets/img/btn-ru.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-ru/README.yolo-ru.md"><img src="assets/img/btn-ru.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="assets/steps/README.galaxy-brain.md">
+<a href="assets/steps-ru/README.galaxy-brain-ru.md">
 <img width="296" src="assets/badges/GalaxyBrain.png" alt="GalaxyBrain-Pin">
 </a>
 </div>
@@ -110,13 +110,13 @@
 
 #### - Если вам нужна дополнительная помощь, нажмите кнопку «Как получить», чтобы получить пошаговое руководство о том, как получить это достижение.
 
-<div align="center"><a href="assets/steps/README.galaxy-brain.md"><img src="assets/img/btn-ru.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-ru/README.galaxy-brain-ru.md"><img src="assets/img/btn-ru.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="assets/steps/README.pull-shark.md">
+<a href="assets/steps-ru/README.pull-shark-ru.md">
 <img width="296" src="assets/badges/PullShark.png" alt="PullShark-Pin">
 </a>
 </div>
@@ -128,13 +128,13 @@
 
 #### - Если вам нужна дополнительная помощь, нажмите кнопку «Как получить», чтобы получить пошаговое руководство о том, как получить это достижение.
 
-<div align="center"><a href="assets/steps/README.pull-shark.md"><img src="assets/img/btn-ru.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-ru/README.pull-shark-ru.md"><img src="assets/img/btn-ru.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="assets/steps/README.starstruck.md">
+<a href="assets/steps-ru/README.starstruck-ru.md">
 <img width="296" src="assets/badges/Starstruck.png" alt="Starstruck-Pin">
 </a>
 </div>
@@ -146,13 +146,13 @@
 
 #### - Если вам нужна дополнительная помощь, нажмите кнопку «Как получить», чтобы получить пошаговое руководство о том, как получить это достижение.
 
-<div align="center"><a href="assets/steps/README.starstruck.md"><img src="assets/img/btn-ru.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-ru/README.starstruck-ru.md"><img src="assets/img/btn-ru.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="assets/steps/README.pair-extraordinaire.md">
+<a href="assets/steps-ru/README.pair-extraordinaire-ru.md">
 <img width="296" src="assets/badges/PairExtraordinaire.png" alt="PairExtraordinaire-Pin">
 </a>
 </div>
@@ -164,13 +164,13 @@
 
 #### - Если вам нужна дополнительная помощь, нажмите кнопку «Как получить», чтобы получить пошаговое руководство о том, как получить это достижение.
 
-<div align="center"><a href="assets/steps/README.pair-extraordinaire.md"><img src="assets/img/btn-ru.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-ru/README.pair-extraordinaire-ru.md"><img src="assets/img/btn-ru.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="assets/steps/README.publicsponsor.md">
+<a href="assets/steps-ru/README.publicsponsor-ru.md">
 <img width="296" src="assets/badges/PublicSponsor.png" alt="PublicSponsor-Pin">
 </a>
 </div>
@@ -182,7 +182,7 @@
 
 #### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
 
-<div align="center"><a href="assets/steps/README.publicsponsor.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-ru/README.publicsponsor-ru.md"><img src="assets/img/btn.png" alt=""></a></div>
 
 <hr>
 
@@ -285,6 +285,6 @@
 <!-- </div> -->
 <br>
 
-####          
+####           
 
 
