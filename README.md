@@ -11,6 +11,8 @@
 [![de](https://img.shields.io/badge/Lang-Deutsch-yellow.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.de.md)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![fr](https://img.shields.io/badge/Lang-French-orange.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.fr.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![tr](https://img.shields.io/badge/Lang-Turkish-red.svg)](https://github.com/emreyunusbas/Get-Github-Achievements/blob/main/README.tr.md)
 
 </div>
 
