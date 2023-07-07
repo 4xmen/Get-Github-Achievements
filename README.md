@@ -16,7 +16,7 @@
 
 </div>
 
-# GitHub Başarıları 🏆
+# GitHub Achievements 🏆
 
 <br>
 
@@ -33,31 +33,31 @@
 
 <br>
 
-# GitHub Başarıları Nasıl Kazanılır
+# How to Get GitHub Achievements
 
-## Bu eğitimde GitHub başarılarını nasıl elde edeceğiniz adım adım öğretilecektir.
+## You will be taught step by step how to get GitHub achievements in this course.
 
-### Notlar:
+### Notes:
 
-#### Not 1: Başarıları almakta sorun yaşıyorsanız, nasıl alacağınızla ilgili bölümdeki adım adım eğitimi kullanabilirsiniz.
+#### Note 1: If you have a problem to receive achievements, you can use the step-by-step training in the section on how to receive them.
 
-#### Not 2: Tüm eğitimler fotoğraflıdır ve her adım tam olarak açıklanmıştır.
+#### Note 2: All tutorials are with photos and each step is fully explained.
 
-#### Not 3: Herhangi bir sorun veya hata bulursanız, lütfen bize [rapor edin] (https://github.com/4xmen/Get-Github-Achievements/issues/new). Ve kursu geliştirmemize yardımcı olun.
-
-<br>
-
-# Başarılar & Sergileme 🏅
-
-#### Başarılar, GitHub'ın belirli etkinlikler için ödül olarak GitHub hesabınıza verdiği ve profilinizde görülebilen pinlerdir. Bu başarılar GitHub hesabınıza iyi bir etki verir ve etkinliğinizin miktarını ve ne kadar aktif olduğunuzu gösterebilir.
-
-#### Profil ayarlarınıza] (https://github.com/settings) giderek profilinizde başarıların görüntülenmesini devre dışı bırakabilirsiniz.
-
-#### Burada size GitHub Başarı pinlerini adım adım nasıl alacağınızı gösteriyoruz :)
+#### Note 3: If you find any problem or bugs, please [report](https://github.com/4xmen/Get-Github-Achievements/issues/new) it to us. And help us to improve the course.
 
 <br>
 
-# Başarı Listesi 📃
+# Achievements & Display 🏅
+
+#### Achievements are pins that GitHub gives to your GitHub account as a reward for certain activities and can be seen in your profile. These achievements give a good effect to your GitHub account and can indicate the amount of your activity and how you are active.
+
+#### You can opt out from having achievements displayed on your profile by going to your [profile settings](https://github.com/settings).
+
+#### Here we show you how to get GitHub Achievement pin's step by step :)
+
+<br>
+
+# Achievement List 📃
 
 <br>
 
@@ -68,11 +68,11 @@
 </div>
 <hr>
 
-## Quickdraw Başarısı Nasıl Elde Edilir ?
+## How to Get Quickdraw Achievement
 
-### Quickdraw, elde etmenin en kolay yolu olan başarıma sahiptir ve sadece birkaç basit adımı izleyerek elde edebilirsiniz. Bu başarımı elde etmek için yapmanız gerekenler (bir issue/pull talebini açtıktan sonra 5 dakika içinde kapatmak)
+### Quickdraw has one of the easiest ways to receive . and you can receive it by just taking a few steps. To get this achievement you must . (closed an issue / pull request within 5 minutes of opening)
 
-#### - Daha fazla yardıma ihtiyacınız varsa, bu başarımı nasıl elde edeceğinizi adım adım öğrenmek için Nasıl Elde Edilir butonuna tıklayın.
+#### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
 
 <div align="center"><a href="assets/steps/README.quickdraw.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
@@ -86,11 +86,11 @@
 </div>
 <hr>
 
-## Yolo Başarısı Nasıl Alınır?
+## How to Get Yolo Achievement
 
-### Yolo, Github profilinize çok güzel bir etki verebilecek Github'ın en güzel başarılarından biridir. Bu başarımı elde etmek için, bir inceleme olmadan bir çekme isteğini birleştirmeniz gerekir.
+### Yolo is one of the most beautiful achievements of Github, which can give a very beautiful effect to your Github profile. To get this achievement, you need to Merge a pull request without a review.
 
-#### - Daha fazla yardıma ihtiyacınız varsa, bu başarımı nasıl elde edeceğinizi adım adım öğrenmek için Nasıl Elde Edilir butonuna tıklayın.
+#### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
 
 <div align="center"><a href="assets/steps/README.yolo.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
@@ -104,11 +104,11 @@
 </div>
 <hr>
 
-## Galaxy Brain Başarısı Nasıl Elde Edilir
+## How to Get Galaxy Brain Achievement
 
-### Galaxy Brain'i elde etmek önceki iki başarıdan daha zordur. Ve onu almak için, diğer GitHub kullanıcılarının ihtiyaç duyduğu adımlardan geçmeniz gerekir. Yapmanız gerekenler Bir tartışmaya cevap vermek ve (iki kez kabul edilen bir cevap almak)
+### Getting Galaxy Brain is more difficult than the previous two achievements. And to receive it, you need to go through the steps that you need other GitHub users. You need to : Answered a discussion(got an accepted answer two times)
 
-#### - Daha fazla yardıma ihtiyacınız varsa, bu başarımı nasıl elde edeceğinizi adım adım öğrenmek için Nasıl Elde Edilir butonuna tıklayın.
+#### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
 
 <div align="center"><a href="assets/steps/README.galaxy-brain.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
@@ -122,11 +122,11 @@
 </div>
 <hr>
 
-## Pull Shark Başarısı Nasıl Elde Edilir
+## How to Get Pull Shark Achievement
 
-### Pull shark almak için 2 birleştirilmiş pull request yapmanız gerekir, bir pull shark rozeti alırsınız.
+### To get pull shark you need to make 2 merged pull request, you will get the one pull shark badge.
 
-#### - Daha fazla yardıma ihtiyacınız varsa, bu başarımı nasıl elde edeceğinizi adım adım öğrenmek için Nasıl Elde Edilir butonuna tıklayın.
+#### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
 
 <div align="center"><a href="assets/steps/README.pull-shark.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
@@ -140,11 +140,11 @@
 </div>
 <hr>
 
-## Starstruck Başarısı Nasıl Elde Edilir
+## How to Get Starstruck Achievement
 
-### Starstruck başarımını elde etmek çok kolay & Starstruck'ı elde etmek için sadece birkaç adımı takip etmeniz gerekiyor. Hesabınızdaki bir depo 16 yıldıza ulaştığında bu başarımı elde edebilirsiniz, transfer edilmiş olsa bile rozeti alacaksınız.
+### It's too simple to get Starstruck Achievement & you have few steps to get Starstruck . You can get this Achievement When a Repository on your account hits 16 stars, even if it was transferred, you will receive the badge.
 
-#### - Daha fazla yardıma ihtiyacınız varsa, bu başarımı nasıl elde edeceğinizi adım adım öğrenmek için Nasıl Elde Edilir butonuna tıklayın.
+#### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
 
 <div align="center"><a href="assets/steps/README.starstruck.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
@@ -158,11 +158,11 @@
 </div>
 <hr>
 
-## Pair Extraordinaire Başarısı Nasıl Elde Edilir
+## How to Get Pair Extraordinaire Achievement
 
-### Daha sonra birleştirilen bir çekme isteğine ortak yazarlık yaparak Pair Extraordinary rozetini kazanabilirsiniz.
+### You can earn the pair extraordinaire badge by co-authoring a pull request that then gets merged.
 
-#### - Daha fazla yardıma ihtiyacınız varsa, bu başarımı nasıl elde edeceğinizi adım adım öğrenmek için Nasıl Elde Edilir butonuna tıklayın.
+#### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
 
 <div align="center"><a href="assets/steps/README.pair-extraordinaire.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
@@ -176,11 +176,11 @@
 </div>
 <hr>
 
-## Public Sponsor Başarısı Nasıl Elde Edilir
+## How to Get Public Sponsor Achievement
 
-### Tek yapmanız gereken açık kaynaklara katkıda bulunan birine bağış yapmak.
+### You just need to make a donation to some open source contributor.
 
-#### - Daha fazla yardıma ihtiyacınız varsa, bu başarımı nasıl elde edeceğinizi adım adım öğrenmek için Nasıl Elde Edilir butonuna tıklayın.
+#### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
 
 <div align="center"><a href="assets/steps/README.publicsponsor.md"><img src="assets/img/btn.png" alt=""></a></div>
 
@@ -188,7 +188,7 @@
 
 <br>
 
-# Yayınlanmamış Başarımlar ⏳
+# Unreleased Achievements ⏳
 
 <br>
 
@@ -201,7 +201,7 @@
 
 ## Heart On Your Sleeve
 
-### 'Heart On Your Sleeve' başarı rozetleri henüz herkese açık GitHub kullanıcıları için yayınlanmadı.
+### the 'Heart On Your Sleeve' achievement badges is not yet released to public GitHub users at the moment.
 
 <hr>
 <br>
@@ -213,12 +213,12 @@
 
 ## Open Sourcerer
 
-### 'Open Sourcerer' başarı rozetleri henüz genel GitHub kullanıcıları için yayınlanmadı.
+### the 'Open Sourcerer' achievement badges is not yet released to public GitHub users at the moment.
 
 <hr>
 <br>
 
-# Artık kazanılması mümkün olmayan rozetler ❌
+# Badges no longer earnable ❌
 
 <br>
 
@@ -231,7 +231,7 @@
 
 ## Mars 2020 Contributor
 
-### Mars 2020 Helikopter Görevinde kullanılan bir depoya kod katkısında bulunmak
+### Contributed code to a repository used in the Mars 2020 Helicopter Mission
 
 <hr>
 
@@ -244,31 +244,31 @@
 
 ## Arctic Code Vault Contributor
 
-### GitHub 2020 Arşiv Programındaki bir depoya kod katkısında bulunmak
+### Contributed code to a repository in the 2020 GitHub Archive Program
 
 <hr>
 
 <br>
 
-# Başarılar için ten rengi tonları 👋
+# Achievement Skin Tone 👋
 
 <br>
 
-#### Bazı başarıların görünümü Emoji Cilt Tonu Tercihinize bağlıdır.
+#### Some achievements' appearance depends on your Emoji Skin Tone Preference.
 
-#### Tercih ettiğiniz Ten Tonunu [appearance settings] (görünüm ayarları) (https://github.com/settings/appearance) bölümüne giderek değiştirebilirsiniz.
+#### You can change your preferred Skin Tone by going to [appearance settings](https://github.com/settings/appearance).
 
 <hr>
 
 <div align="center">
 <img src="assets/badges/Starstruck.png" width="150" alt="">
-<h4>Starstuck Cilt Tonu Versiyonları</h4>
+<h4>Starstuck Skin Tone Versions</h4>
 <img src="assets/badges/starstuck-skins.png" alt="">
 </div>
 
 <div align="center">
 <img src="assets/badges/Quickdraw.png" width="150" alt="">
-<h4>Quikdraw Cilt Tonu Versiyonları</h4>
+<h4>Quikdraw Skin Tone Versions</h4>
 <img src="assets/badges/quickdraw-skin.png" alt="">
 </div>
 
@@ -276,12 +276,11 @@
 
 <br>
 
-# Daha fazla bilgi için ℹ
+# More information ℹ
 
 <br>
 
-#### GitHub Rozetleri hakkında daha fazla bilgiyi bu [link](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile) altında bulabilirsiniz.
-
+#### You can find more information about GitHub Badges under this [link](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile).
 
 <!-- </div> -->
 <br>
