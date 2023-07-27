@@ -14,9 +14,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![ru](https://img.shields.io/badge/Lang-Russian-orange.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.ru.md)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![tr](https://img.shields.io/badge/Lang-Turkish-red.svg)](https://github.com/emreyunusbas/Get-Github-Achievements/blob/main/README.tr.md)
+[![tr](https://img.shields.io/badge/Lang-Turkish-red.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.tr.md)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![nl](https://img.shields.io/badge/Lang-Dutch-green.svg)](https://github.com/emreyunusbas/Get-Github-Achievements/blob/main/README.nl.md)
+[![nl](https://img.shields.io/badge/Lang-Dutch-green.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.nl.md)
 
 
 </div>
@@ -75,7 +75,7 @@
 
 ## How to Get Quickdraw Achievement
 
-### Quickdraw has one of the easiest ways to receive . and you can receive it by just taking a few steps. To get this achievement you must . (closed an issue / pull request within 5 minutes of opening)
+### Quickdraw is one of the easiest achievements to receive. It only requires a few steps. To get this achievement you must (closed an issue / pull request within 5 minutes of opening)
 
 #### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
 
