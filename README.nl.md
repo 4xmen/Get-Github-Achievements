@@ -66,7 +66,7 @@
 <br>
 
 <div align="center" >
-<a href="assets/steps/README.quickdraw.md">
+<a href="assets/steps-nl/README.quickdraw-nl.md">
 <img width="296" src="assets/badges/Quickdraw.png" alt="QuickDraw-Pin">
 </a>
 </div>
@@ -78,13 +78,13 @@
 
 #### - Als je meer hulp nodig hebt, klik dan op de ‘Hoe Verkrijgen’-knop voor een stap-voor-stap uitleg over hoe je deze prestatie kunt behalen.
 
-<div align="center"><a href="assets/steps/README.quickdraw-nl.md"><img src="assets/img/btn-nl.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-nl/README.quickdraw-nl.md"><img src="assets/img/btn-nl.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center" >
-<a href="assets/steps/README.yolo-nl.md">
+<a href="assets/steps-nl/README.yolo-nl.md">
 <img width="296" src="assets/badges/Yolo.png" alt="Yolo-speld">
 </a>
 </div>
@@ -96,13 +96,13 @@
 
 #### - Als je meer hulp nodig hebt, klik dan op de ‘Hoe Verkrijgen’-knop voor een stap-voor-stap uitleg over hoe je deze prestatie kunt behalen.
 
-<div align="center"><a href="assets/steps/README.yolo-nl.md"><img src="assets/img/btn-nl.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-nl/README.yolo-nl.md"><img src="assets/img/btn-nl.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center" >
-<a href="assets/steps/README.galaxy-brain-nl.md">
+<a href="assets/steps-nl/README.galaxy-brain-nl.md">
 <img width="296" src="assets/badges/GalaxyBrain.png" alt="GalaxyBrain-Pin">
 </a>
 </div>
@@ -114,13 +114,13 @@
 
 #### - Als je meer hulp nodig hebt, klik dan op de ‘Hoe Verkrijgen’-knop voor een stap-voor-stap uitleg over hoe je deze prestatie kunt behalen.
 
-<div align="center"><a href="assets/steps/README.galaxy-brain-nl.md"><img src="assets/img/btn-nl.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-nl/README.galaxy-brain-nl.md"><img src="assets/img/btn-nl.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center" >
-<a href="assets/steps/README.pull-shark-nl.md">
+<a href="assets/steps-nl/README.pull-shark-nl.md">
 <img width="296" src="assets/badges/PullShark.png" alt="PullShark-Pin">
 </a>
 </div>
@@ -132,13 +132,13 @@
 
 #### - Als je meer hulp nodig hebt, klik dan op de ‘Hoe Verkrijgen’-knop voor een stap-voor-stap uitleg over hoe je deze prestatie kunt behalen.
 
-<div align="center"><a href="assets/steps/README.pull-shark-nl.md"><img src="assets/img/btn-nl.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-nl/README.pull-shark-nl.md"><img src="assets/img/btn-nl.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center" >
-<a href="assets/steps/README.starstruck-nl.md">
+<a href="assets/steps-nl/README.starstruck-nl.md">
 <img width="296" src="assets/badges/Starstruck.png" alt="Starstruck-Pin">
 </a>
 </div>
@@ -150,13 +150,13 @@
 
 #### - Als je meer hulp nodig hebt, klik dan op de ‘Hoe Verkrijgen’-knop voor een stap-voor-stap uitleg over hoe je deze prestatie kunt behalen.
 
-<div align="center"><a href="assets/steps/README.starstruck-nl.md"><img src="assets/img/btn-nl.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-nl/README.starstruck-nl.md"><img src="assets/img/btn-nl.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center" >
-<a href="assets/steps/README.pair-extraordinaire-nl.md">
+<a href="assets/steps-nl/README.pair-extraordinaire-nl.md">
 <img width="296" src="assets/badges/PairExtraordinaire.png" alt="PairExtraordinaire-Pin">
 </a>
 </div>
@@ -168,13 +168,13 @@
 
 #### - Als je meer hulp nodig hebt, klik dan op de ‘Hoe Verkrijgen’-knop voor een stap-voor-stap uitleg over hoe je deze prestatie kunt behalen.
 
-<div align="center"><a href="assets/steps/README.pair-extraordinaire-nl.md"><img src="assets/img/btn-nl.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-nl/README.pair-extraordinaire-nl.md"><img src="assets/img/btn-nl.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center" >
-<a href="assets/steps/README.publicsponsor-nl.md">
+<a href="assets/steps-nl/README.publicsponsor-nl.md">
 <img width="296" src="assets/badges/PublicSponsor.png" alt="PublicSponsor-Pin">
 </a>
 </div>
@@ -186,7 +186,7 @@
 
 #### - Als je meer hulp nodig hebt, klik dan op de ‘Hoe Verkrijgen’-knop voor een stap-voor-stap uitleg over hoe je deze prestatie kunt behalen.
 
-<div align="center"><a href="assets/steps/README.publicsponsor-nl.md"><img src="assets/img/btn-nl.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-nl/README.publicsponsor-nl.md"><img src="assets/img/btn-nl.png" alt=""></a></div>
 
 <hr>
 
