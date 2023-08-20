@@ -10,13 +10,13 @@
 
 ## How to get Pair Extraordinaire GitHub achievement step by step :
 
-### 1. You need to install [GitHub Desktop](https://desktop.github.com/) , And clone your repository from the internet . (if you found any error , you need to add your repository from your internal repository file)
+### 1. You need to install [GitHub Desktop](https://desktop.github.com/) , You need to add your repository from your internal repository file.
 
 <div align="center">
 <img width="700" src="../img/pair-extraordinaire/pair-step1.png" alt="pair-extraordinaire-step1.png">
 </div>
 
-### 2. Clone your repository HTTPS Link and insert it to URL text box.
+### 2. Add a local repository & Commit and push your changed files.
 
 <div align="center">
 <img width="700" src="../img/pair-extraordinaire/pair-step2.png" alt="pair-extraordinaire-step2.png">
