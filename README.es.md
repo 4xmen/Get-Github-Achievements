@@ -70,7 +70,7 @@
 <br>
 
 <div align="center"  >
-<a href="assets/steps/README.quickdraw.md">
+<a href="assets/steps-es/README.quickdraw-es.md">
 <img width="296" src="assets/badges/Quickdraw.png" alt="QuickDraw-Pin">
 </a>
 </div>
@@ -88,7 +88,7 @@
 <br>
 
 <div align="center"  >
-<a href="assets/steps/README.yolo.md">
+<a href="assets/steps-es/README.yolo-es.md">
 <img width="296" src="assets/badges/Yolo.png" alt="Yolo-Pin">
 </a>
 </div>
@@ -106,7 +106,7 @@
 <br>
 
 <div align="center"  >
-<a href="assets/steps/README.galaxy-brain.md">
+<a href="assets/steps-es/README.galaxy-brain-es.md">
 <img width="296" src="assets/badges/GalaxyBrain.png" alt="GalaxyBrain-Pin">
 </a>
 </div>
@@ -124,7 +124,7 @@
 <br>
 
 <div align="center"  >
-<a href="assets/steps/README.pull-shark.md">
+<a href="assets/steps-es/README.pull-shark-es.md">
 <img width="296" src="assets/badges/PullShark.png" alt="PullShark-Pin">
 </a>
 </div>
@@ -142,7 +142,7 @@
 <br>
 
 <div align="center"  >
-<a href="assets/steps/README.starstruck.md">
+<a href="assets/steps-es/README.starstruck-es.md">
 <img width="296" src="assets/badges/Starstruck.png" alt="Starstruck-Pin">
 </a>
 </div>
@@ -160,7 +160,7 @@
 <br>
 
 <div align="center"  >
-<a href="assets/steps/README.pair-extraordinaire.md">
+<a href="assets/steps-es/README.pair-extraordinaire-es.md">
 <img width="296" src="assets/badges/PairExtraordinaire.png" alt="PairExtraordinaire-Pin">
 </a>
 </div>
@@ -178,7 +178,7 @@
 <br>
 
 <div align="center"  >
-<a href="assets/steps/README.publicsponsor.md">
+<a href="assets/steps-es/README.publicsponsor-es.md">
 <img width="296" src="assets/badges/PublicSponsor.png" alt="PublicSponsor-Pin">
 </a>
 </div>
