@@ -196,7 +196,7 @@
 
 <br>
 
-# Unreleased Achievements ⏳
+# On Test Achievements ⏳
 
 <br>
 
@@ -209,7 +209,7 @@
 
 ## Heart On Your Sleeve
 
-### the 'Heart On Your Sleeve' achievement badges is not yet released to public GitHub users at the moment.
+### the 'Heart On Your Sleeve' achievement badges is on test, After the official release. A step-by-step tutorial will be provided to receive it.
 
 <hr>
 <br>
@@ -221,7 +221,7 @@
 
 ## Open Sourcerer
 
-### the 'Open Sourcerer' achievement badges is not yet released to public GitHub users at the moment.
+### the 'Open Sourcerer' achievement badges is is on test, After the official release. A step-by-step tutorial will be provided to receive it.
 
 <hr>
 <br>
