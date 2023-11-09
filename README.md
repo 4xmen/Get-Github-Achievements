@@ -287,7 +287,7 @@
 
 <br>
 
-# ✨ Highlights Badges ✨
+# Highlights Badges ✨
 <br>
 
 | Badge | Name | How to get |
