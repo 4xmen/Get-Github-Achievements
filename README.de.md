@@ -3,7 +3,10 @@
 ## Sprache
 <div align="center">
 
+  
 [![en](https://img.shields.io/badge/Lang-English-blue.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![ar](https://img.shields.io/badge/Lang-Arabic-black.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.ar.md)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![fa](https://img.shields.io/badge/Lang-Persian-green.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.fa.md)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
