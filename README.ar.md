@@ -4,25 +4,25 @@
 
 <div align="center">
   
-[![ar](https://img.shields.io/badge/Lang-العربية-black.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.ar.md)
+[![en](https://img.shields.io/badge/Lang-English-blue.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.md)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![en](https://img.shields.io/badge/Lang-الإنجليزية-blue.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.md)
+[![ar](https://img.shields.io/badge/Lang-Arabic-black.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.ar.md)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![fa](https://img.shields.io/badge/Lang-الفارسية-green.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.fa.md)
+[![fa](https://img.shields.io/badge/Lang-Persian-green.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.fa.md)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![de](https://img.shields.io/badge/Lang-الألمانية-yellow.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.de.md)
+[![de](https://img.shields.io/badge/Lang-Deutsch-yellow.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.de.md)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![fr](https://img.shields.io/badge/Lang-الفرنسية-orange.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.fr.md)
+[![fr](https://img.shields.io/badge/Lang-French-orange.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.fr.md)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![ru](https://img.shields.io/badge/Lang-الروسية-orange.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.ru.md)
+[![ru](https://img.shields.io/badge/Lang-Russian-orange.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.ru.md)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![tr](https://img.shields.io/badge/Lang-التركية-red.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.tr.md)
+[![tr](https://img.shields.io/badge/Lang-Turkish-red.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.tr.md)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![nl](https://img.shields.io/badge/Lang-الهولندية-green.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.nl.md)
+[![nl](https://img.shields.io/badge/Lang-Dutch-green.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.nl.md)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![cn](https://img.shields.io/badge/Lang-الصينية-blue?color=%23FF0000)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.chs.md)
+[![cn](https://img.shields.io/badge/Lang-Chinese-blue?color=%23FF0000)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.chs.md)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![es](https://img.shields.io/badge/Lang-الإسبانية-green.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.es.md)
+[![es](https://img.shields.io/badge/Lang-Spanish-green.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.es.md)
 
 
 </div>
