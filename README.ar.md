@@ -73,7 +73,7 @@
 <br>
 
 <div align="center">
-<a href="assets/steps/README.quickdraw.md">
+<a href="assets/steps-ar/README.quickdraw.md">
 <img width="296" src="assets/badges/Quickdraw.png" alt="شارة QuickDraw">
 </a>
 </div>
@@ -85,13 +85,13 @@
 
 #### - إذا كنت بحاجة إلى المزيد من المساعدة ، انقر على زر "كيفية الحصول" للحصول على برنامج تعليمي خطوة بخطوة حول كيفية الحصول على هذا الإنجاز.
 
-<div align="center"><a href="assets/steps/README.quickdraw.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-ar/README.quickdraw.md"><img src="assets/img/btn-ar.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center">
-<a href="assets/steps/README.yolo.md">
+<a href="assets/steps-ar/README.yolo.md">
 <img width="296" src="assets/badges/Yolo.png" alt="شارة Yolo">
 </a>
 </div>
@@ -103,13 +103,13 @@
 
 #### - إذا كنت بحاجة إلى المزيد من المساعدة ، انقر على زر "كيفية الحصول" للحصول على برنامج تعليمي خطوة بخطوة حول كيفية الحصول على هذا الإنجاز.
 
-<div align="center"><a href="assets/steps/README.yolo.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-ar/README.yolo.md"><img src="assets/img/btn-ar.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center">
-<a href="assets/steps/README.galaxy-brain.md">
+<a href="assets/steps-ar/README.galaxy-brain.md">
 <img width="296" src="assets/badges/GalaxyBrain.png" alt="شارة GalaxyBrain">
 </a>
 </div>
@@ -121,13 +121,13 @@
 
 #### - إذا كنت بحاجة إلى المزيد من المساعدة ، انقر على زر "كيفية الحصول" للحصول على برنامج تعليمي خطوة بخطوة حول كيفية الحصول على هذا الإنجاز.
 
-<div align="center"><a href="assets/steps/README.galaxy-brain.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-ar/README.galaxy-brain.md"><img src="assets/img/btn-ar.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center">
-<a href="assets/steps/README.pull-shark.md">
+<a href="assets/steps-ar/README.pull-shark.md">
 <img width="296" src="assets/badges/PullShark.png" alt="شارة PullShark">
 </a>
 </div>
@@ -139,13 +139,13 @@
 
 #### - إذا كنت بحاجة إلى المزيد من المساعدة ، انقر على زر "كيفية الحصول" للحصول على برنامج تعليمي خطوة بخطوة حول كيفية الحصول على هذا الإنجاز.
 
-<div align="center"><a href="assets/steps/README.pull-shark.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-ar/README.pull-shark.md"><img src="assets/img/btn-ar.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center">
-<a href="assets/steps/README.starstruck.md">
+<a href="assets/steps-ar/README.starstruck.md">
 <img width="296" src="assets/badges/Starstruck.png" alt="شارة Starstruck">
 </a>
 </div>
@@ -157,13 +157,13 @@
 
 #### - إذا كنت بحاجة إلى المزيد من المساعدة ، انقر على زر "كيفية الحصول" للحصول على برنامج تعليمي خطوة بخطوة حول كيفية الحصول على هذا الإنجاز.
 
-<div align="center"><a href="assets/steps/README.starstruck.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-ar/README.starstruck.md"><img src="assets/img/btn-ar.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center">
-<a href="assets/steps/README.pair-extraordinaire.md">
+<a href="assets/steps-ar/README.pair-extraordinaire.md">
 <img width="296" src="assets/badges/PairExtraordinaire.png" alt="شارة PairExtraordinaire">
 </a>
 </div>
@@ -175,13 +175,13 @@
 
 #### - إذا كنت بحاجة إلى المزيد من المساعدة ، انقر على زر "كيفية الحصول" للحصول على برنامج تعليمي خطوة بخطوة حول كيفية الحصول على هذا الإنجاز.
 
-<div align="center"><a href="assets/steps/README.pair-extraordinaire.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-ar/README.pair-extraordinaire.md"><img src="assets/img/btn-ar.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center">
-<a href="assets/steps/README.publicsponsor.md">
+<a href="assets/steps-ar/README.publicsponsor.md">
 <img width="296" src="assets/badges/PublicSponsor.png" alt="شارة PublicSponsor">
 </a>
 </div>
@@ -193,7 +193,7 @@
 
 #### - إذا كنت بحاجة إلى المزيد من المساعدة ، انقر على زر "كيفية الحصول" للحصول على برنامج تعليمي خطوة بخطوة حول كيفية الحصول على هذا الإنجاز.
 
-<div align="center"><a href="assets/steps/README.publicsponsor.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-ar/README.publicsponsor.md"><img src="assets/img/btn-ar.png" alt=""></a></div>
 
 <hr>
 
