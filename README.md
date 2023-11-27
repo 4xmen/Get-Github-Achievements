@@ -24,6 +24,8 @@
 [![cn](https://img.shields.io/badge/Lang-Chinese-blue?color=%23FF0000)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.chs.md)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![es](https://img.shields.io/badge/Lang-Spanish-green.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.es.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![id](https://img.shields.io/badge/Lang-Indonesia-purple.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.id.md)
 
 </div>
 
