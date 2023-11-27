@@ -1,6 +1,6 @@
 <!-- <div align="center"> -->
 
-## Language.
+## Language
 
 <div align="center">
 
