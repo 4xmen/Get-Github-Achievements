@@ -87,7 +87,7 @@
 
 #### - Jika Anda memerlukan bantuan lebih lanjut, klik pada tombol Cara Mendapatkan untuk mendapatkan tutorial langkah demi langkah tentang cara mendapatkan prestasi ini.
 
-<div align="center"><a href="assets/steps-id/README.quickdraw-id.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-id/README.quickdraw-id.md"><img src="assets/img/btn-id.png" alt=""></a></div>
 <hr>
 
 <br>
