@@ -87,7 +87,7 @@
 
 #### - Jika Anda memerlukan bantuan lebih lanjut, klik pada tombol Cara Mendapatkan untuk mendapatkan tutorial langkah demi langkah tentang cara mendapatkan prestasi ini.
 
-<div align="center"><a href="assets/steps-id/README.quickdraw-id.md"><img src="assets/img/btn-id.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-id/README.quickdraw-id.md"><img src="assets/img/btn-id.png" alt="How To Get"></a></div>
 <hr>
 
 <br>
@@ -105,7 +105,7 @@
 
 #### - Jika Anda memerlukan bantuan lebih lanjut, klik pada tombol Cara Mendapatkan untuk mendapatkan tutorial langkah demi langkah tentang cara mendapatkan prestasi ini.
 
-<div align="center"><a href="assets/steps-id/README.yolo-id.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-id/README.yolo-id.md"><img src="assets/img/btn-id.png" alt=""></a></div>
 <hr>
 
 <br>
@@ -123,7 +123,7 @@
 
 #### - Jika Anda memerlukan bantuan lebih lanjut, klik pada tombol Cara Mendapatkan untuk mendapatkan tutorial langkah demi langkah tentang cara mendapatkan prestasi ini.
 
-<div align="center"><a href="assets/steps-id/README.galaxy-brain-id.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-id/README.galaxy-brain-id.md"><img src="assets/img/btn-id.png" alt="How To Get"></a></div>
 <hr>
 
 <br>
@@ -141,7 +141,7 @@
 
 #### - Jika Anda memerlukan bantuan lebih lanjut, klik pada tombol Cara Mendapatkan untuk mendapatkan tutorial langkah demi langkah tentang cara mendapatkan prestasi ini.
 
-<div align="center"><a href="assets/steps-id/README.pull-shark-id.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-id/README.pull-shark-id.md"><img src="assets/img/btn-id.png" alt="How To Get"></a></div>
 <hr>
 
 <br>
@@ -159,7 +159,7 @@
 
 #### - Jika Anda membutuhkan bantuan lebih lanjut, klik tombol Cara Mendapatkan untuk mendapatkan tutorial langkah demi langkah tentang cara mendapatkan prestasi ini.
 
-<div align="center"><a href="assets/steps-id/README.starstruck-id.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-id/README.starstruck-id.md"><img src="assets/img/btn-id.png" alt="How To Get"></a></div>
 <hr>
 
 <br>
@@ -177,7 +177,7 @@
 
 #### - Jika Anda membutuhkan bantuan lebih lanjut, klik tombol Cara Mendapatkan untuk mendapatkan tutorial langkah demi langkah tentang cara mendapatkan prestasi ini.
 
-<div align="center"><a href="assets/steps-id/README.pair-extraordinaire-id.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-id/README.pair-extraordinaire-id.md"><img src="assets/img/btn-id.png" alt="How To Get"></a></div>
 <hr>
 
 <br>
@@ -195,7 +195,7 @@
 
 #### - Jika Anda membutuhkan bantuan lebih lanjut, klik tombol Cara Mendapatkan untuk mendapatkan tutorial langkah demi langkah tentang cara mendapatkan prestasi ini.
 
-<div align="center"><a href="assets/steps-id/README.publicsponsor-id.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-id/README.publicsponsor-id.md"><img src="assets/img/btn-id.png" alt="How To Get"></a></div>
 
 <hr>
 
