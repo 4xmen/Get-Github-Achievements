@@ -27,7 +27,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![id](https://img.shields.io/badge/Lang-Indonesian-purple.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.id.md)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![pt](https://img.shields.io/badge/Lang-Indonesian-purple.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.pt.md)
+[![pt](https://img.shields.io/badge/Lang-Portuguese-green.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.pt.md)
 
 </div>
 
@@ -52,27 +52,27 @@
 
 ## Descrição passo a passo de como obter as conquistas do GitHub.
 
-### Notes:
+### Notas:
 
-#### Note 1: If you have a problem to receive achievements, you can use the step-by-step training in the section on how to receive them.
+#### Nota 1: Se você tiver problemas em obter alguma conquista, poderá seguir o guia passo a passo que se encontra logo a seguir à descrição de cada conquista.
 
-#### Note 2: All tutorials are with photos and each step is fully explained.
+#### Nota 2: Todos os guias contêm imagens explicativas de cada passo.
 
-#### Note 3: If you find any problem or bugs, please [report](https://github.com/4xmen/Get-Github-Achievements/issues/new) it to us. And help us to improve the course.
-
-<br>
-
-# Achievements & Display 🏅
-
-#### Achievements are pins that GitHub gives to your GitHub account as a reward for certain activities and can be seen in your profile. These achievements give a good effect to your GitHub account and can indicate the amount of your activity and how you are active.
-
-#### You can opt out from having achievements displayed on your profile by going to your [profile settings](https://github.com/settings).
-
-#### Here we show you how to get GitHub Achievement pin's step by step :)
+#### Nota 3: Se tiver um problema ou encontrar algum bug/erro, por favor reporte o mesmo em [report](https://github.com/4xmen/Get-Github-Achievements/issues/new). Ajude-nos a melhorar este curso.
 
 <br>
 
-# Achievement List 📃
+# O que são conquistas e como as visualizar 🏅
+
+#### Conquistas são medalhas que o GitHub atribui à sua conta GitHub como recompensa por determinadas atividades e que podem ser vistos no seu perfil. Essas conquistas podem servir para revelar a dimensão da sua contribuição e actividade no universo Github 
+
+#### A qualquer momento pode desabilitar a exibição de conquistas no seu perfil atravês deste link [profile settings](https://github.com/settings).
+
+#### De seguida iremos lhe demonstrar como obter cada uma conquistas do GiHub passo a passo.
+
+<br>
+
+# Lista de conquistas 📃
 
 <br>
 
@@ -83,11 +83,11 @@
 </div>
 <hr>
 
-## How to Get Quickdraw Achievement
+## Como obter a conquista Quickdraw
 
-### Quickdraw is one of the easiest achievements to receive. It only requires a few steps. To get this achievement you must (closed an issue / pull request within 5 minutes of opening)
+### Quickdraw é uma das mais fáceis conquistas de obter. Só necessita de seguir alguns passos. Para obter esta conquista basta fechar um "issue" ou "Pull Request" no espaço de 5 minutos desde a sua abertura.
 
-#### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
+#### - Se precisar de mais ajuda, carrega no butão seguinte para visualizar um guia passo a passo de como obter esta conquista.
 
 <div align="center"><a href="assets/steps/README.quickdraw.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
@@ -95,13 +95,13 @@
 <br>
 
 <div align="center"  >
-<a href="assets/steps/README.yolo.md">
+<a href="assets/steps-pt/README.yolo-pt.md">
 <img width="296" src="assets/badges/Yolo.png" alt="Yolo-Pin">
 </a>
 </div>
 <hr>
 
-## How to Get Yolo Achievement
+## Como obter a conquista Yolo
 
 ### Yolo is one of the most beautiful achievements of Github, which can give a very beautiful effect to your Github profile. To get this achievement, you need to Merge a pull request without a review.
 
