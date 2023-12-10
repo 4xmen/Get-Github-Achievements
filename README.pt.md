@@ -89,7 +89,7 @@
 
 #### - Se precisar de mais ajuda, carrega no butão seguinte para visualizar um guia passo a passo de como obter esta conquista.
 
-<div align="center"><a href="assets/steps/README.quickdraw.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-pt/README.quickdraw-pt.md"><img src="assets/img/btn-pt.png" alt=""></a></div>
 <hr>
 
 <br>
