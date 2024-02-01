@@ -10,7 +10,7 @@
 
 ## So erhalten Sie Schritt für Schritt den GitHub-Erfolg „Pair Extraordinaire“:
 
-### 1. Sie müssen GitHub Desktop installieren und Ihr Repository aus dem Internet klonen. (Wenn Sie einen Fehler gefunden haben, müssen Sie Ihr Repository aus Ihrer internen Repository-Datei hinzufügen.)
+### 1. Sie müssen [GitHub Desktop](https://desktop.github.com/) installieren und Ihr Repository aus dem Internet klonen. (Wenn Sie einen Fehler gefunden haben, müssen Sie Ihr Repository aus Ihrer internen Repository-Datei hinzufügen.)
 
 <div align="center">
 <img width="700" src="../img/pair-extraordinaire/pair-step1.png" alt="pair-extraordinaire-step1.png">
