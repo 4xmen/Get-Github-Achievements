@@ -1,65 +1,65 @@
 # Yolo
 
-<div align="center"  >
+<div align="center">
 
 <img width="296" src="../badges/Yolo.png" alt="QuickDraw-Pin">
 </div>
 
 <hr>
 
-## How to get Yolo GitHub achievement step by step :
+## Yolo GitHub उपलब्धि प्राप्त करने का कदम-से-कदम तरीका:
 
-### 1. First, you need to open the repository and go to settings.
+### 1. सबसे पहले, आपको रिपॉजिटरी खोलनी है और सेटिंग्स पर जाना है।
 
 <div align="center">
 <img width="700" src="../img/yolo/yolo-step1.png" alt="yolo-step1.png">
 </div>
 
-### 2. Second, you need to go to the collaborators category and in this section, invite an account that you have access to the repository.
+### 2. दूसरे, आपको सहकर्मी श्रेणी में जाना है और इस खंड में, एक ऐसे खाते को आमंत्रित करें जिसे आपको रिपॉजिटरी तक पहुँच है।
 
 <div align="center">
 <img width="700" src="../img/yolo/yolo-step2.png" alt="yolo-step2.png">
 </div>
 
-### 3. Third, you need to add a new branch to your repository.
+### 3. तीसरे, आपको अपनी रिपॉजिटरी में एक नई शाखा जोड़नी है।
 
 <div align="center">
 <img width="700" src="../img/yolo/yolo-step3.png" alt="yolo-step3.png">
 </div>
 
 
-### 4. Now, you need to add a file to the new branch you created.
+### 4. अब, आपको उस नई शाखा में एक फ़ाइल जोड़नी है।
 
 <div align="center">
 <img width="700" src="../img/yolo/yolo-step4.png" alt="yolo-step4.png">
 </div>
 
-### 5. Add the file and commit the description for it and finally commit your changes
+### 5. फ़ाइल जोड़ें और उसके लिए विवरण कमिट करें और अंत में अपने परिवर्तनों को कमिट करें
 
 <div align="center">
 <img width="700" src="../img/yolo/yolo-step5.png" alt="yolo-step5.png">
 </div>
 
-### 6. Click on the green button, compare and pull request.
+### 6. हरित बटन पर क्लिक करें, समीक्षा और पुल अनुरोध।
 
 <div align="center">
 <img width="700" src="../img/yolo/yolo-step6.png" alt="yolo-step6.png">
 </div>
 
-### 7. Add The invited person in step-2 as a Reviewer, and create pull request.
+### 7. चरण-2 में आमंत्रित व्यक्ति को समीक्षक के रूप में जोड़ें, और पुल अनुरोध बनाएं।
 
 <div align="center">
 <img width="700" src="../img/yolo/yolo-step7.png" alt="yolo-step7.png">
 </div>
 
-### 8. At last, Check that your Reviewer and Then click on Merge pull request.
+### 8. आखिरकर, अपने समीक्षक को जांचें और फिर "Merge pull request" पर क्लिक करें।
 
 <div align="center">
 <img width="700" src="../img/yolo/yolo-step8.png" alt="yolo-step7.png">
 </div>
 
 
-### 9. Done , Now you can see that Yolo Achievement in your achievements list.
+### 9. हो गया, अब आप अपनी उपलब्धियों सूची में Yolo अचीवमेंट देख सकते हैं।
 
 <div align="center">
 <img width="300" src="../img/yolo/yolo-step9.png" alt="yolo-finish.png">

@@ -1,21 +1,21 @@
 # Starstruck
 
-<div align="center"  >
+<div align="center">
 
 <img width="296" src="../badges/Starstruck.png" alt="QuickDraw-Pin">
 </div>
 
 <hr>
 
-## How to get Starstruck GitHub achievement step by step :
+## कैसे Starstruck GitHub उपलब्धि प्राप्त करने का कदम-से-कदम तरीका:
 
-### 1. You only need 16 stars for each project registered to your username. Receive from other users on your organization or repository . 
+### 1. आपको अपने उपयोगकर्ता नाम पर पंजीकृत प्रत्येक परियोजना के लिए केवल 16 स्टार की आवश्यकता है। अपने संगठन या रिपॉजिटरी पर अन्य उपयोगकर्ताओं से प्राप्त करें।
 
 <div align="center">
 <img width="700" src="../img/starstruck/starstruck-step1.png" alt="quickdraw-step1.png">
 </div>
 
-### 2. Done , Now you can see that Starstruck Achievement in your achievements list.
+### 2. हो गया, अब आप अपनी उपलब्धियों सूची में Starstruck अचीवमेंट देख सकते हैं।
 
 <div align="center">
 <img width="300" src="../img/starstruck/starstruck-step2.png" alt="quickdraw-step4.png">
