@@ -275,13 +275,13 @@
 
 <div align="center">
 <img src="assets/badges/Starstruck.png" width="150" alt="">
-<h4>Starstuck Skin Tone Versions</h4>
+<h4>Starstruck की स्किन टोन संस्करण</h4>
 <img src="assets/badges/starstuck-skins.png" alt="">
 </div>
 
 <div align="center">
 <img src="assets/badges/Quickdraw.png" width="150" alt="">
-<h4>Quikdraw Skin Tone Versions</h4>
+<h4>Quikdraw की स्किन टोन संस्करण</h4>
 <img src="assets/badges/quickdraw-skin.png" alt="">
 </div>
 
@@ -298,7 +298,7 @@
 | ![developer-program-member-dark](https://user-images.githubusercontent.com/65187002/173079579-3c393d22-7a13-4e7d-87b8-341fb613d52b.svg#gh-dark-mode-only)![developer-program-member-light](https://user-images.githubusercontent.com/65187002/173079614-33f43a97-1cc2-4228-85e3-ef43836e17c2.svg#gh-light-mode-only) | Developer Program Member | के पंजीकृत सदस्य बनें [GitHub Developer Program](https://docs.github.com/en/developers/overview/github-developer-program) |
 | ![security-bug-bounty-hunter-dark](https://user-images.githubusercontent.com/65187002/173081624-93e3cf1f-50b7-45a4-82b7-1954f66368b9.svg#gh-dark-mode-only)![security-bug-bounty-hunter-light](https://user-images.githubusercontent.com/65187002/173081657-e500d72c-9247-44c2-a3d3-2deff30e1ae7.svg#gh-light-mode-only) | Security Bug Bounty Hunter | सुरक्षा दुरुस्तीयों की तलाश में मदद की [GitHub Security](https://bounty.github.com/) |
 | ![github-campus-expert-dark](https://user-images.githubusercontent.com/65187002/173082819-b3625c23-bfd6-4492-b828-56ed91c45f52.svg#gh-dark-mode-only)![github-campus-expert-light](https://user-images.githubusercontent.com/65187002/173082836-08be81fe-13b7-4acf-9096-e5241d76f237.svg#gh-light-mode-only) | GitHub Campus Expert | में भाग लें [GitHub Campus Program](https://education.github.com/experts) |
-| ![security-advisory-credit-dark](https://user-images.githubusercontent.com/65187002/173084051-79a0a626-1c1a-4d60-afdf-50ad001d7b21.svg#gh-dark-mode-only)![security-advisory-credit-light](https://user-images.githubusercontent.com/65187002/173084071-5f321da2-b2a9-490b-a524-1b21fa384d7e.svg#gh-light-mode-only) | Security advisory credit | अपने सुरक्षा सलाह दाखिल करवाई जाए [GitHub Advisory Database](https://github.com/advisories) accepted |
+| ![security-advisory-credit-dark](https://user-images.githubusercontent.com/65187002/173084051-79a0a626-1c1a-4d60-afdf-50ad001d7b21.svg#gh-dark-mode-only)![security-advisory-credit-light](https://user-images.githubusercontent.com/65187002/173084071-5f321da2-b2a9-490b-a524-1b21fa384d7e.svg#gh-light-mode-only) | Security advisory credit | अपने सुरक्षा सलाह दाखिल करवाई जाए [GitHub Advisory Database](https://github.com/advisories) स्वीकृत |
 
 # अधिक जानकारी ℹ
 
