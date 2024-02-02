@@ -78,7 +78,7 @@
 <br>
 
 <div align="center"  >
-<a href="assets/steps/README.quickdraw.md">
+<a href="assets/steps-hin/README.quickdraw-hin.md">
 <img width="296" src="assets/badges/Quickdraw.png" alt="QuickDraw-Pin">
 </a>
 </div>
@@ -90,13 +90,13 @@
 
 #### - यदि आपको और मदद की आवश्यकता है, तो इस अचीवमेंट प्राप्त करने के लिए स्टेप-बाय-स्टेप ट्यूटरियल प्राप्त करने के लिए हाउ टू गेट बटन पर क्लिक करें.
 
-<div align="center"><a href="assets/steps/README.quickdraw.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-hin/README.quickdraw-hin.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="assets/steps/README.yolo.md">
+<a href="assets/steps-hin/README.yolo-hin.md">
 <img width="296" src="assets/badges/Yolo.png" alt="Yolo-Pin">
 </a>
 </div>
@@ -108,13 +108,13 @@
 
 #### - यदि आपको और मदद की आवश्यकता है, तो इस अचीवमेंट प्राप्त करने के लिए स्टेप-बाय-स्टेप ट्यूटरियल प्राप्त करने के लिए हाउ टू गेट बटन पर क्लिक करें.
 
-<div align="center"><a href="assets/steps/README.yolo.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-hin/README.yolo-hin.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="assets/steps/README.galaxy-brain.md">
+<a href="assets/steps-hin/README.galaxy-brain-hin.md">
 <img width="296" src="assets/badges/GalaxyBrain.png" alt="GalaxyBrain-Pin">
 </a>
 </div>
@@ -126,13 +126,13 @@
 
 #### - यदि आपको अधिक सहायता की आवश्यकता है, तो इस उपलब्धि को कैसे प्राप्त करें, इस पर चरण-दर-चरण ट्यूटोरियल प्राप्त करने के लिए हाउ टू गेट बटन पर क्लिक करें।.
 
-<div align="center"><a href="assets/steps/README.galaxy-brain.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-hin/README.galaxy-brain-hin.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="assets/steps/README.pull-shark.md">
+<a href="assets/steps-hin/README.pull-shark-hin.md">
 <img width="296" src="assets/badges/PullShark.png" alt="PullShark-Pin">
 </a>
 </div>
@@ -144,13 +144,13 @@
 
 #### - यदि आपको अधिक सहायता की आवश्यकता है, तो इस उपलब्धि को कैसे प्राप्त करें, इस पर चरण-दर-चरण ट्यूटोरियल प्राप्त करने के लिए हाउ टू गेट बटन पर क्लिक करें।.
 
-<div align="center"><a href="assets/steps/README.pull-shark.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-hin/README.pull-shark-hin.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="assets/steps/README.starstruck.md">
+<a href="assets/steps-hin/README.starstruck-hin.md">
 <img width="296" src="assets/badges/Starstruck.png" alt="Starstruck-Pin">
 </a>
 </div>
@@ -162,13 +162,13 @@
 
 #### - यदि आपको और मदद की आवश्यकता है, तो इस अचीवमेंट प्राप्त करने के लिए स्टेप-बाय-स्टेप ट्यूटरियल प्राप्त करने के लिए हाउ टू गेट बटन पर क्लिक करें.
 
-<div align="center"><a href="assets/steps/README.starstruck.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-hin/README.starstruck-hin.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="assets/steps/README.pair-extraordinaire.md">
+<a href="assets/steps-hin/README.pair-extraordinaire-hin.md">
 <img width="296" src="assets/badges/PairExtraordinaire.png" alt="PairExtraordinaire-Pin">
 </a>
 </div>
@@ -180,13 +180,13 @@
 
 #### - यदि आपको और मदद की आवश्यकता है, तो इस अचीवमेंट प्राप्त करने के लिए स्टेप-बाय-स्टेप ट्यूटरियल प्राप्त करने के लिए हाउ टू गेट बटन पर क्लिक करें.
 
-<div align="center"><a href="assets/steps/README.pair-extraordinaire.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-hin/README.pair-extraordinaire-hin.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="assets/steps/README.publicsponsor.md">
+<a href="assets/steps-hin/README.publicsponsor-hin.md">
 <img width="296" src="assets/badges/PublicSponsor.png" alt="PublicSponsor-Pin">
 </a>
 </div>
@@ -198,7 +198,7 @@
 
 #### -  यदि आपको और मदद की आवश्यकता है, तो इस अचीवमेंट प्राप्त करने के लिए स्टेप-बाय-स्टेप ट्यूटरियल प्राप्त करने के लिए हाउ टू गेट बटन पर क्लिक करें.
 
-<div align="center"><a href="assets/steps/README.publicsponsor.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-hin/README.publicsponsor-hin.md"><img src="assets/img/btn.png" alt=""></a></div>
 
 <hr>
 
