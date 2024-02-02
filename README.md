@@ -29,7 +29,7 @@
 
 </div>
 
-# GitHub Achievements 🏆
+# गिटहब अचीवमेंट्स 🏆
 
 <br>
 
@@ -46,31 +46,31 @@
 
 <br>
 
-# How to Get GitHub Achievements
+# गिटहब अचीवमेंट्स कैसे प्राप्त करें
 
-## You will be taught step by step how to get GitHub achievements in this course.
+## इस कोर्स में आपको कदम-से-कदम बताया जाएगा कि GitHub अचीवमेंट्स कैसे प्राप्त की जाती हैं.
 
-### Notes:
+### नोट्स:
 
-#### Note 1: If you have a problem to receive achievements, you can use the step-by-step training in the section on how to receive them.
+#### नोट 1: अगर आपको अचीवमेंट्स प्राप्त करने में कोई समस्या है, तो आप इन्हें प्राप्त करने के लिए किस प्रकार का कदम-से-कदम प्रशिक्षण का उपयोग कर सकते हैं इस सेक्शन में.
 
-#### Note 2: All tutorials are with photos and each step is fully explained.
+#### नोट 2: सभी ट्यूटोरियल फ़ोटो के साथ हैं, और प्रत्येक कदम को पूरी तरह से समझाया गया है.
 
-#### Note 3: If you find any problem or bugs, please [report](https://github.com/4xmen/Get-Github-Achievements/issues/new) it to us. And help us to improve the course.
-
-<br>
-
-# Achievements & Display 🏅
-
-#### Achievements are pins that GitHub gives to your GitHub account as a reward for certain activities and can be seen in your profile. These achievements give a good effect to your GitHub account and can indicate the amount of your activity and how you are active.
-
-#### You can opt out from having achievements displayed on your profile by going to your [profile settings](https://github.com/settings).
-
-#### Here we show you how to get GitHub Achievement pin's step by step :)
+#### नोट 3: यदि आपको कोई समस्या या बग्स मिलते हैं, कृपया [report](https://github.com/4xmen/Get-Github-Achievements/issues/new) हमें इसे सूचित करें. और हमें कोर्स को सुधारने में मदद करें.
 
 <br>
 
-# Achievement List 📃
+# उपलब्धियाँ और प्रदर्शन🏅
+
+#### पलब्धियाँ GitHub द्वारा आपके GitHub खाते को कुछ विशिष्ट क्रियाओं के लिए पुरस्कार के रूप में दी जाती हैं और इन्हें आपके प्रोफ़ाइल में देखा जा सकता है। ये उपलब्धियाँ आपके GitHub खाते पर अच्छा प्रभाव डालती हैं और आपकी गतिविधि और आपकी सक्रियता की मात्रा को सूचित कर सकती हैं।.
+
+#### आप अपने प्रोफ़ाइल पर उपलब्धियाँ दिखाए जाने से इनकार कर सकते हैं, अपने प्रोफ़ाइल पर जाकर यह सेटिंग्स करके [profile settings](https://github.com/settings).
+
+#### यहां हम आपको बताएंगे कि GitHub अचीवमेंट पिन्स कैसे प्राप्त करें, कदम-से-कदम :)
+
+<br>
+
+# अचीवमेंट सूची 📃
 
 <br>
 
@@ -81,11 +81,11 @@
 </div>
 <hr>
 
-## How to Get Quickdraw Achievement
+## कैसे प्राप्त करें Quickdraw अचीवमेंट
 
-### Quickdraw is one of the easiest achievements to receive. It only requires a few steps. To get this achievement you must (closed an issue / pull request within 5 minutes of opening)
+### Quickdraw एक सबसे सरल अचीवमेंट में से एक है जो प्राप्त करना। इसके लिए कुछ ही कदमों की आवश्यकता है। इस अचीवमेंट को प्राप्त करने के लिए आपको (एक इश्यू को बंद किया / पुल रिक्वेस्ट खोलने के 5 मिनट के भीतर )
 
-#### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
+#### - यदि आपको और मदद की आवश्यकता है, तो इस अचीवमेंट प्राप्त करने के लिए स्टेप-बाय-स्टेप ट्यूटरियल प्राप्त करने के लिए हाउ टू गेट बटन पर क्लिक करें.
 
 <div align="center"><a href="assets/steps/README.quickdraw.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
@@ -99,11 +99,11 @@
 </div>
 <hr>
 
-## How to Get Yolo Achievement
+## योलो उपलब्धि कैसे प्राप्त करें
 
-### Yolo is one of the most beautiful achievements of Github, which can give a very beautiful effect to your Github profile. To get this achievement, you need to Merge a pull request without a review.
+### Yolo GitHub की सबसे सुंदर अचीवमेंटों में से एक है, जो आपके GitHub प्रोफ़ाइल को बहुत ही सुंदर प्रभावित कर सकती है। इस अचीवमेंट को प्राप्त करने के लिए, आपको एक पुल रिक्वेस्ट को रिव्यू के बिना मर्ज करना होगा।.
 
-#### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
+#### - यदि आपको और मदद की आवश्यकता है, तो इस अचीवमेंट प्राप्त करने के लिए स्टेप-बाय-स्टेप ट्यूटरियल प्राप्त करने के लिए हाउ टू गेट बटन पर क्लिक करें.
 
 <div align="center"><a href="assets/steps/README.yolo.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
@@ -117,11 +117,11 @@
 </div>
 <hr>
 
-## How to Get Galaxy Brain Achievement
+## गैलेक्सी ब्रेन अचीवमेंट कैसे प्राप्त करें
 
-### Getting Galaxy Brain is more difficult than the previous two achievements. And to receive it, you need to go through the steps that you need other GitHub users. You need to : Answered a discussion(got an accepted answer two times)
+### पिछली दो उपलब्धियों की तुलना में गैलेक्सी ब्रेन प्राप्त करना अधिक कठिन है। और इसे प्राप्त करने के लिए, आपको उन चरणों से गुजरना होगा जिनकी आपको अन्य GitHub उपयोगकर्ताओं को आवश्यकता है। आपको यह करना होगा: चर्चा का उत्तर दिया (दो बार स्वीकृत उत्तर मिला)
 
-#### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
+#### - यदि आपको अधिक सहायता की आवश्यकता है, तो इस उपलब्धि को कैसे प्राप्त करें, इस पर चरण-दर-चरण ट्यूटोरियल प्राप्त करने के लिए हाउ टू गेट बटन पर क्लिक करें।.
 
 <div align="center"><a href="assets/steps/README.galaxy-brain.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
@@ -135,11 +135,11 @@
 </div>
 <hr>
 
-## How to Get Pull Shark Achievement
+## पुल शार्क उपलब्धि कैसे प्राप्त करें
 
-### To get pull shark you need to make 2 merged pull request, you will get the one pull shark badge.
+### पुल शार्क प्राप्त करने के लिए आपको 2 मर्ज किए गए पुल अनुरोध करने होंगे, आपको एक पुल शार्क बैज मिलेगा.
 
-#### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
+#### - यदि आपको अधिक सहायता की आवश्यकता है, तो इस उपलब्धि को कैसे प्राप्त करें, इस पर चरण-दर-चरण ट्यूटोरियल प्राप्त करने के लिए हाउ टू गेट बटन पर क्लिक करें।.
 
 <div align="center"><a href="assets/steps/README.pull-shark.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
@@ -153,11 +153,11 @@
 </div>
 <hr>
 
-## How to Get Starstruck Achievement
+## Starstruck अचीवमेंट प्राप्त करने के लिए कैसे
 
-### It's too simple to get Starstruck Achievement & you have few steps to get Starstruck . You can get this Achievement When a Repository on your account hits 16 stars, even if it was transferred, you will receive the badge.
+### Starstruck अचीवमेंट प्राप्त करना बहुत ही सरल है और आपको स्टारस्ट्रक मिलने के लिए कुछ ही कदम हैं। आप इस अचीवमेंट को प्राप्त कर सकते हैं जब आपके खाते पर एक रेपोज़िटरी 16 स्टार्स प्राप्त करता है, चाहे वह ट्रांसफर हुआ हो या नहीं, आपको बैज मिलेगा।.
 
-#### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
+#### - यदि आपको और मदद की आवश्यकता है, तो इस अचीवमेंट प्राप्त करने के लिए स्टेप-बाय-स्टेप ट्यूटरियल प्राप्त करने के लिए हाउ टू गेट बटन पर क्लिक करें.
 
 <div align="center"><a href="assets/steps/README.starstruck.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
@@ -171,11 +171,11 @@
 </div>
 <hr>
 
-## How to Get Pair Extraordinaire Achievement
+## Pair Extraordinaire अचीवमेंट प्राप्त करने के लिए कैसे
 
-### You can earn the pair extraordinaire badge by co-authoring a pull request that then gets merged.
+### आप Pair Extraordinaire बैज कमा सकते हैं जब आप एक पुल रिक्वेस्ट को सह-लेखकी करते हैं और फिर वह मर्ज होता है.
 
-#### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
+#### - यदि आपको और मदद की आवश्यकता है, तो इस अचीवमेंट प्राप्त करने के लिए स्टेप-बाय-स्टेप ट्यूटरियल प्राप्त करने के लिए हाउ टू गेट बटन पर क्लिक करें.
 
 <div align="center"><a href="assets/steps/README.pair-extraordinaire.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
@@ -189,11 +189,11 @@
 </div>
 <hr>
 
-## How to Get Public Sponsor Achievement
+## Public Sponsor अचीवमेंट प्राप्त करने के लिए कैसे
 
-### You just need to make a donation to some open source contributor.
+### आपको केवल किसी ओपन सोर्स योगदानकर्ता को योगदान करना होगा.
 
-#### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
+#### -  यदि आपको और मदद की आवश्यकता है, तो इस अचीवमेंट प्राप्त करने के लिए स्टेप-बाय-स्टेप ट्यूटरियल प्राप्त करने के लिए हाउ टू गेट बटन पर क्लिक करें.
 
 <div align="center"><a href="assets/steps/README.publicsponsor.md"><img src="assets/img/btn.png" alt=""></a></div>
 
@@ -201,7 +201,7 @@
 
 <br>
 
-# On Test Achievements ⏳
+# उपलब्धियों का परीक्षण करें ⏳
 
 <br>
 
@@ -214,7 +214,7 @@
 
 ## Heart On Your Sleeve
 
-### the 'Heart On Your Sleeve' achievement badges is on test, After the official release. A step-by-step tutorial will be provided to receive it.
+### Heart On Your Sleeve' अचीवमेंट बैज टेस्ट पर है। आधिकारिक रिलीज़ के बाद, इसे प्राप्त करने के लिए एक कदम-से-कदम ट्यूटरियल प्रदान किया जाएगा।.
 
 <hr>
 <br>
@@ -226,12 +226,12 @@
 
 ## Open Sourcerer
 
-### the 'Open Sourcerer' achievement badges is is on test, After the official release. A step-by-step tutorial will be provided to receive it.
+### 'Open Sourcerer' अचीवमेंट बैज टेस्ट पर है। आधिकारिक रिलीज़ के बाद, इसे प्राप्त करने के लिए एक कदम-से-कदम ट्यूटरियल प्रदान किया जाएगा।.
 
 <hr>
 <br>
 
-# Badges no longer earnable ❌
+# बैज अब अर्जित नहीं किए जा सकते ❌
 
 <br>
 
@@ -242,9 +242,9 @@
 </div>
 <hr>
 
-## Mars 2020 Contributor
+## मार्स 2020 योगदानकर्ता
 
-### Contributed code to a repository used in the Mars 2020 Helicopter Mission
+### मार्स 2020 हेलीकॉप्टर मिशन में उपयोग होने वाले किसी रेपोजिटरी में कोड योगदान किया
 
 <hr>
 
@@ -255,9 +255,9 @@
 </div>
 <hr>
 
-## Arctic Code Vault Contributor
+## आर्कटिक कोड वॉल्ट योगदानकर्ता
 
-### Contributed code to a repository in the 2020 GitHub Archive Program
+### 2020 GitHub आर्काइव प्रोग्राम में एक रेपोजिटरी में कोड योगदान किया
 
 <hr>
 
@@ -267,9 +267,9 @@
 
 <br>
 
-#### Some achievements' appearance depends on your Emoji Skin Tone Preference.
+#### कुछ अचीवमेंट्स का रूप आपकी इमोजी स्किन टोन प्राथमिकता पर निर्भर करता है.
 
-#### You can change your preferred Skin Tone by going to [appearance settings](https://github.com/settings/appearance).
+#### आप अपनी पसंदीदा स्किन टोन बदल सकते हैं जाकर [appearance settings](https://github.com/settings/appearance).
 
 <hr>
 
@@ -289,22 +289,22 @@
 
 <br>
 
-# Highlights Badges ✨
+# हाइलाइट्स बैजेस ✨
 <br>
 
-| Badge | Name | How to get |
+| बैज | नाम | से प्राप्त करें |
 | :-: | :-: | :-: |
 | ![pro-black](https://user-images.githubusercontent.com/65187002/173065669-d1fdb5a7-8895-43cc-8dea-72a511a37e86.svg#gh-light-mode-only) ![pro-white](https://user-images.githubusercontent.com/65187002/173065531-57dbf8b1-7eb7-4d46-81bf-f2d18c7c9112.svg#gh-dark-mode-only) | Pro | Use [GitHub Pro](https://docs.github.com/en/get-started/learning-about-github/githubs-products#github-pro) |
-| ![developer-program-member-dark](https://user-images.githubusercontent.com/65187002/173079579-3c393d22-7a13-4e7d-87b8-341fb613d52b.svg#gh-dark-mode-only)![developer-program-member-light](https://user-images.githubusercontent.com/65187002/173079614-33f43a97-1cc2-4228-85e3-ef43836e17c2.svg#gh-light-mode-only) | Developer Program Member | Be a registered member of the [GitHub Developer Program](https://docs.github.com/en/developers/overview/github-developer-program) |
-| ![security-bug-bounty-hunter-dark](https://user-images.githubusercontent.com/65187002/173081624-93e3cf1f-50b7-45a4-82b7-1954f66368b9.svg#gh-dark-mode-only)![security-bug-bounty-hunter-light](https://user-images.githubusercontent.com/65187002/173081657-e500d72c-9247-44c2-a3d3-2deff30e1ae7.svg#gh-light-mode-only) | Security Bug Bounty Hunter | Helped out hunting down security vulnerabilities at [GitHub Security](https://bounty.github.com/) |
-| ![github-campus-expert-dark](https://user-images.githubusercontent.com/65187002/173082819-b3625c23-bfd6-4492-b828-56ed91c45f52.svg#gh-dark-mode-only)![github-campus-expert-light](https://user-images.githubusercontent.com/65187002/173082836-08be81fe-13b7-4acf-9096-e5241d76f237.svg#gh-light-mode-only) | GitHub Campus Expert | Participate in the [GitHub Campus Program](https://education.github.com/experts) |
-| ![security-advisory-credit-dark](https://user-images.githubusercontent.com/65187002/173084051-79a0a626-1c1a-4d60-afdf-50ad001d7b21.svg#gh-dark-mode-only)![security-advisory-credit-light](https://user-images.githubusercontent.com/65187002/173084071-5f321da2-b2a9-490b-a524-1b21fa384d7e.svg#gh-light-mode-only) | Security advisory credit | Have your security advisory submitted to the [GitHub Advisory Database](https://github.com/advisories) accepted |
+| ![developer-program-member-dark](https://user-images.githubusercontent.com/65187002/173079579-3c393d22-7a13-4e7d-87b8-341fb613d52b.svg#gh-dark-mode-only)![developer-program-member-light](https://user-images.githubusercontent.com/65187002/173079614-33f43a97-1cc2-4228-85e3-ef43836e17c2.svg#gh-light-mode-only) | Developer Program Member | के पंजीकृत सदस्य बनें [GitHub Developer Program](https://docs.github.com/en/developers/overview/github-developer-program) |
+| ![security-bug-bounty-hunter-dark](https://user-images.githubusercontent.com/65187002/173081624-93e3cf1f-50b7-45a4-82b7-1954f66368b9.svg#gh-dark-mode-only)![security-bug-bounty-hunter-light](https://user-images.githubusercontent.com/65187002/173081657-e500d72c-9247-44c2-a3d3-2deff30e1ae7.svg#gh-light-mode-only) | Security Bug Bounty Hunter | सुरक्षा दुरुस्तीयों की तलाश में मदद की [GitHub Security](https://bounty.github.com/) |
+| ![github-campus-expert-dark](https://user-images.githubusercontent.com/65187002/173082819-b3625c23-bfd6-4492-b828-56ed91c45f52.svg#gh-dark-mode-only)![github-campus-expert-light](https://user-images.githubusercontent.com/65187002/173082836-08be81fe-13b7-4acf-9096-e5241d76f237.svg#gh-light-mode-only) | GitHub Campus Expert | में भाग लें [GitHub Campus Program](https://education.github.com/experts) |
+| ![security-advisory-credit-dark](https://user-images.githubusercontent.com/65187002/173084051-79a0a626-1c1a-4d60-afdf-50ad001d7b21.svg#gh-dark-mode-only)![security-advisory-credit-light](https://user-images.githubusercontent.com/65187002/173084071-5f321da2-b2a9-490b-a524-1b21fa384d7e.svg#gh-light-mode-only) | Security advisory credit | अपने सुरक्षा सलाह दाखिल करवाई जाए [GitHub Advisory Database](https://github.com/advisories) accepted |
 
-# More information ℹ
+# अधिक जानकारी ℹ
 
 <br>
 
-#### You can find more information about GitHub Badges under this [link](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile).
+#### आप इसके तहत GitHub बैजेस के बारे में अधिक जानकारी पा सकते हैं [link](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile).
 
 <!-- </div> -->
 <br>
