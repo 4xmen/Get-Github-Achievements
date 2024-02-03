@@ -77,7 +77,7 @@
 <br>
 
 <div align="center"  >
-<a href="assets/steps/README.quickdraw.md">
+<a href="assets/steps-ja/README.quickdraw.md">
 <img width="296" src="assets/badges/Quickdraw.png" alt="QuickDraw-Pin">
 </a>
 </div>
@@ -89,13 +89,13 @@
 
 #### - もっと助けが必要な場合は、「How to Get」ボタンをクリックして、この実績を得るためのステップバイステップのチュートリアルをご覧ください。
 
-<div align="center"><a href="assets/steps/README.quickdraw.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-ja/README.quickdraw.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="assets/steps/README.yolo.md">
+<a href="assets/steps-ja/README.yolo.md">
 <img width="296" src="assets/badges/Yolo.png" alt="Yolo-Pin">
 </a>
 </div>
@@ -107,13 +107,13 @@
 
 #### - もっと助けが必要な場合は、「How to Get」ボタンをクリックして、この実績を得るためのステップバイステップのチュートリアルをご覧ください。
 
-<div align="center"><a href="assets/steps/README.yolo.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-ja/README.yolo.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="assets/steps/README.galaxy-brain.md">
+<a href="assets/steps-ja/README.galaxy-brain.md">
 <img width="296" src="assets/badges/GalaxyBrain.png" alt="GalaxyBrain-Pin">
 </a>
 </div>
@@ -125,13 +125,13 @@
 
 #### - もっと助けが必要な場合は、「How to Get」ボタンをクリックして、この実績を得るためのステップバイステップのチュートリアルをご覧ください。
 
-<div align="center"><a href="assets/steps/README.galaxy-brain.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-ja/README.galaxy-brain.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="assets/steps/README.pull-shark.md">
+<a href="assets/steps-ja/README.pull-shark.md">
 <img width="296" src="assets/badges/PullShark.png" alt="PullShark-Pin">
 </a>
 </div>
@@ -143,13 +143,13 @@
 
 #### - もっと助けが必要な場合は、「How to Get」ボタンをクリックして、この実績を得るためのステップバイステップのチュートリアルをご覧ください。
 
-<div align="center"><a href="assets/steps/README.pull-shark.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-ja/README.pull-shark.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="assets/steps/README.starstruck.md">
+<a href="assets/steps-ja/README.starstruck.md">
 <img width="296" src="assets/badges/Starstruck.png" alt="Starstruck-Pin">
 </a>
 </div>
@@ -161,13 +161,13 @@
 
 #### - もっと助けが必要な場合は、「How to Get」ボタンをクリックして、この実績を得るためのステップバイステップのチュートリアルをご覧ください。
 
-<div align="center"><a href="assets/steps/README.starstruck.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-ja/README.starstruck.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="assets/steps/README.pair-extraordinaire.md">
+<a href="assets/steps-ja/README.pair-extraordinaire.md">
 <img width="296" src="assets/badges/PairExtraordinaire.png" alt="PairExtraordinaire-Pin">
 </a>
 </div>
@@ -179,13 +179,13 @@
 
 #### - もっと助けが必要な場合は、「How to Get」ボタンをクリックして、この実績を得るためのステップバイステップのチュートリアルをご覧ください。
 
-<div align="center"><a href="assets/steps/README.pair-extraordinaire.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-ja/README.pair-extraordinaire.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="assets/steps/README.publicsponsor.md">
+<a href="assets/steps-ja/README.publicsponsor.md">
 <img width="296" src="assets/badges/PublicSponsor.png" alt="PublicSponsor-Pin">
 </a>
 </div>
@@ -197,7 +197,7 @@
 
 #### - もっと助けが必要な場合は、「How to Get」ボタンをクリックして、この実績を得るためのステップバイステップのチュートリアルをご覧ください。
 
-<div align="center"><a href="assets/steps/README.publicsponsor.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-ja/README.publicsponsor.md"><img src="assets/img/btn.png" alt=""></a></div>
 
 <hr>
 
