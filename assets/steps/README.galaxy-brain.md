@@ -9,11 +9,6 @@
 
 ## How to get Galaxy Brain GitHub achievement step by step :
 
-### 1. You need to go to the GitHub community address (https://github.com/community/community) . And select one of the feedback categories .
-
-<div align="center">
-<img width="400" src="../img/galaxy-brain/galaxy-step1.png" alt="galaxy-brain-step1.png">
-</div>
 
 ### 2. Now you need to find Unanswered Question's in any categories you want . and answer the questions.
 
