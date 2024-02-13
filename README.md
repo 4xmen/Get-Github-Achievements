@@ -304,6 +304,14 @@
 | ![github-campus-expert-dark](https://user-images.githubusercontent.com/65187002/173082819-b3625c23-bfd6-4492-b828-56ed91c45f52.svg#gh-dark-mode-only)![github-campus-expert-light](https://user-images.githubusercontent.com/65187002/173082836-08be81fe-13b7-4acf-9096-e5241d76f237.svg#gh-light-mode-only) | GitHub Campus Expert | Participate in the [GitHub Campus Program](https://education.github.com/experts) |
 | ![security-advisory-credit-dark](https://user-images.githubusercontent.com/65187002/173084051-79a0a626-1c1a-4d60-afdf-50ad001d7b21.svg#gh-dark-mode-only)![security-advisory-credit-light](https://user-images.githubusercontent.com/65187002/173084071-5f321da2-b2a9-490b-a524-1b21fa384d7e.svg#gh-light-mode-only) | Security advisory credit | Have your security advisory submitted to the [GitHub Advisory Database](https://github.com/advisories) accepted |
 
+# Maintaining fairness and adhering to rules is essential 🏁
+
+<be>
+
+#### This repository only intended to teach you how to get GitHub achievements. Please respect GitHub's rules and community guidelines. Try to be active in the GitHub community and refrain from participating in our project solely to obtain GitHub achievements. This goes against our wishes and GitHub's rules. Please follow these rules and strive to contribute fairly to GitHub and projects to build a better community on GitHub together.
+
+#### Please use this guide to learn how to get achievements and respect Our terms after learning how to get GitHub achievements, Try to participate in projects and strive to earn these achievements fairly to build a healthier and more equitable community on <a href="https://docs.github.com/en/site-policy/github-terms/github-terms-of-service">GitHub</a>.
+
 # More information ℹ
 
 <br>
