@@ -92,3 +92,5 @@ _Revision 2.2. Posted 4 February 2016._
 _Revision 2.1. Posted 23 June 2014._
 
 _Revision 2.0, adopted by the [Stumptown Syndicate](http://stumptownsyndicate.org) board on 10 January 2013. Posted 17 March 2013._
+
+## 11. This repository only intended to teach you how to get GitHub achievements. Please respect GitHub's rules and community guidelines. Try to be active in the GitHub community and refrain from participating in our project solely for the purpose of obtaining GitHub achievements. This goes against our wishes and GitHub's rules. Please adhere to these rules and strive to contribute fairly to GitHub and projects so that we can build a better community on GitHub together. 
