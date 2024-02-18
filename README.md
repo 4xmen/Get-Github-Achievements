@@ -113,24 +113,6 @@
 <br>
 
 <div align="center"  >
-<a href="assets/steps/README.galaxy-brain.md">
-<img width="296" src="assets/badges/GalaxyBrain.png" alt="GalaxyBrain-Pin">
-</a>
-</div>
-<hr>
-
-## How to Get Galaxy Brain Achievement
-
-### Getting Galaxy Brain is more difficult than the previous two achievements. And to receive it, you need to go through the steps that you need other GitHub users. You need to : Answered a discussion(got an accepted answer two times)
-
-#### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
-
-<div align="center"><a href="assets/steps/README.galaxy-brain.md"><img src="assets/img/btn.png" alt=""></a></div>
-<hr>
-
-<br>
-
-<div align="center"  >
 <a href="assets/steps/README.pull-shark.md">
 <img width="296" src="assets/badges/PullShark.png" alt="PullShark-Pin">
 </a>
@@ -264,6 +246,19 @@
 <hr>
 
 <br>
+
+<div align="center"  >
+<a href="https://github.com/readme/featured/nasa-ingenuity-helicopter">
+<img width="296" src="assets/badges/GalaxyBrain.png" alt="GalaxyBrain-Pin">
+</a>
+</div>
+<hr>
+
+## Galaxy Brain 2022
+
+### Answered a discussion(got an accepted answer two times), From 2020 to 2024
+
+<hr>
 
 # Achievement Skin Tone 👋
 
