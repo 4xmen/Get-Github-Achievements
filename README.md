@@ -50,7 +50,7 @@
 
 <br>
 
-# How to Get GitHub Achievements
+# How to Get GitHub Achievements 
 
 ## You will be taught step by step how to get GitHub achievements in this course.
 
