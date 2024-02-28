@@ -92,7 +92,7 @@
 ### Quickdraw ni mojawapo ya mafanikio rahisi kupokea. Inahitaji hatua chache tu. Ili kupata mafanikio haya lazima (ufunge suala / ombi la kuvuta ndani ya dakika 5 baada ya ufunguzi)
 #### - Ikiwa unahitaji usaidizi zaidi, bofya kitufe cha `Jinsi ya Kupata` ili kupata mafunzo ya hatua kwa hatua kuhusu jinsi ya kupata mafanikio haya.
 
-<div align="center"><a href="assets/steps-sw/README.quickdraw-sw.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-sw/README.quickdraw-sw.md"><img src="assets/img/btn.png" alt=""></a--></div>
 <hr>
 
 <br>
@@ -146,7 +146,7 @@
 
 #### - Ikiwa unahitaji usaidizi zaidi, bofya kitufe cha `Jinsi ya Kupata` ili kupata mafunzo ya hatua kwa hatua kuhusu jinsi ya kupata mafanikio haya.
 
-<div align="center"><a href="assets-sw/steps/README.starstruck-sw.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-sw/README.starstruck-sw.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
 
 <br>
@@ -164,7 +164,7 @@
 
 #### - Ikiwa unahitaji usaidizi zaidi, bofya kitufe cha `Jinsi ya Kupata` ili kupata mafunzo ya hatua kwa hatua kuhusu jinsi ya kupata mafanikio haya.
 
-<div align="center"><a href="assets-sw/steps-sw/README.pair-extraordinaire-sw.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-sw/README.pair-extraordinaire-sw.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
 
 <br>
