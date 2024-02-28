@@ -81,7 +81,7 @@
 <br>
 
 <div align="center"  >
-<a href="assets/steps/README.quickdraw.md">
+<a href="assets/steps-sw/README.quickdraw-sw.md">
 <img width="296" src="assets/badges/Quickdraw.png" alt="QuickDraw-Pin">
 </a>
 </div>
@@ -92,13 +92,13 @@
 ### Quickdraw ni mojawapo ya mafanikio rahisi kupokea. Inahitaji hatua chache tu. Ili kupata mafanikio haya lazima (ufunge suala / ombi la kuvuta ndani ya dakika 5 baada ya ufunguzi)
 #### - Ikiwa unahitaji usaidizi zaidi, bofya kitufe cha `Jinsi ya Kupata` ili kupata mafunzo ya hatua kwa hatua kuhusu jinsi ya kupata mafanikio haya.
 
-<div align="center"><a href="assets/steps/README.quickdraw.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-sw/README.quickdraw-sw.md"><img src="assets/img/btn.png" alt=""></a--></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="assets/steps/README.yolo.md">
+<a href="assets/steps-sw/README.yolo-sw.md">
 <img width="296" src="assets/badges/Yolo.png" alt="Yolo-Pin">
 </a>
 </div>
@@ -110,13 +110,13 @@
 
 #### - Ikiwa unahitaji usaidizi zaidi, bofya kitufe cha `Jinsi ya Kupata` ili kupata mafunzo ya hatua kwa hatua kuhusu jinsi ya kupata mafanikio haya.
 
-<div align="center"><a href="assets/steps/README.yolo.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-sw/README.yolo-sw.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="assets/steps/README.pull-shark.md">
+<a href="assets/steps-sw/README.pull-shark-sw.md">
 <img width="296" src="assets/badges/PullShark.png" alt="PullShark-Pin">
 </a>
 </div>
@@ -128,13 +128,13 @@
 
 #### - Ikiwa unahitaji usaidizi zaidi, bofya kitufe cha `Jinsi ya Kupata` ili kupata mafunzo ya hatua kwa hatua kuhusu jinsi ya kupata mafanikio haya.
 
-<div align="center"><a href="assets/steps/README.pull-shark.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-sw/README.pull-shark-sw.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="assets/steps/README.starstruck.md">
+<a href="assets/steps-sw/README.starstruck-sw.md">
 <img width="296" src="assets/badges/Starstruck.png" alt="Starstruck-Pin">
 </a>
 </div>
@@ -146,13 +146,13 @@
 
 #### - Ikiwa unahitaji usaidizi zaidi, bofya kitufe cha `Jinsi ya Kupata` ili kupata mafunzo ya hatua kwa hatua kuhusu jinsi ya kupata mafanikio haya.
 
-<div align="center"><a href="assets/steps/README.starstruck.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-sw/README.starstruck-sw.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="assets/steps/README.pair-extraordinaire.md">
+<a href="assets/steps-sw/README.pair-extraordinaire-sw.md">
 <img width="296" src="assets/badges/PairExtraordinaire.png" alt="PairExtraordinaire-Pin">
 </a>
 </div>
@@ -164,13 +164,13 @@
 
 #### - Ikiwa unahitaji usaidizi zaidi, bofya kitufe cha `Jinsi ya Kupata` ili kupata mafunzo ya hatua kwa hatua kuhusu jinsi ya kupata mafanikio haya.
 
-<div align="center"><a href="assets/steps/README.pair-extraordinaire.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-sw/README.pair-extraordinaire-sw.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="assets/steps/README.publicsponsor.md">
+<a href="assets/steps-sw/README.publicsponsor-sw.md">
 <img width="296" src="assets/badges/PublicSponsor.png" alt="PublicSponsor-Pin">
 </a>
 </div>
@@ -182,7 +182,7 @@
 
 #### - Ikiwa unahitaji usaidizi zaidi, bofya kitufe cha `Jinsi ya Kupata` ili kupata mafunzo ya hatua kwa hatua kuhusu jinsi ya kupata mafanikio haya.
 
-<div align="center"><a href="assets/steps/README.publicsponsor.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-sw/README.publicsponsor-sw.md"><img src="assets/img/btn.png" alt=""></a></div>
 
 <hr>
 
