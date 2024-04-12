@@ -70,15 +70,15 @@
 
 # Conquistas e Exibição🏅
 
-#### Achievements are pins that GitHub gives to your GitHub account as a reward for certain activities and can be seen in your profile. These achievements give a good effect to your GitHub account and can indicate the amount of your activity and how you are active.
+#### Conquistas são pins que o GitHub dá à sua conta GitHub como recompensa por determinadas atividades e podem ser vistos em seu perfil. Essas conquistas dão um bom efeito à sua conta GitHub e podem indicar a quantidade de sua atividade e como você está ativo..
 
-#### You can opt out from having achievements displayed on your profile by going to your [profile settings](https://github.com/settings).
+#### Você pode cancelar a exibição de conquistas em seu perfil acessando as [Configurações de perfil](https://github.com/settings).
 
-#### Here we show you how to get GitHub Achievement pin's step by step :)
+#### Aqui mostramos como obter os pins de conquista do GitHub passo a passo :)
 
 <br>
 
-# Achievement List 📃
+# Lista de conquistas 📃
 
 <br>
 
@@ -89,13 +89,13 @@
 </div>
 <hr>
 
-## How to Get Quickdraw Achievement
+## Como conseguir a conquista Quickdraw
 
-### Quickdraw is one of the easiest achievements to receive. It only requires a few steps. To get this achievement you must (closed an issue / pull request within 5 minutes of opening)
+### Quickdraw é uma das conquistas mais fáceis de receber. Requer apenas algumas etapas. Para obter essa conquista você deve (fechar um issue/pull request dentro de 5 minutos após a abertura)
 
-#### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
+#### - Se precisar de mais ajuda, clique no botão 'Como obter' para ver um tutorial passo a passo sobre como conseguir essa conquista.
 
-<div align="center"><a href="assets/steps/README.quickdraw.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps/README.quickdraw.md"><img src="assets/img/btn-pt.png" alt=""></a></div>
 <hr>
 
 <br>
@@ -107,16 +107,31 @@
 </div>
 <hr>
 
-## How to Get Yolo Achievement
+## Como conseguir a conquista Yolo
 
-### Yolo is one of the most beautiful achievements of Github, which can give a very beautiful effect to your Github profile. To get this achievement, you need to Merge a pull request without a review.
+### Yolo é uma das conquistas mais bonitas do Github, que pode dar um efeito muito bonito ao seu perfil do Github. Para obter essa conquista, você precisa mesclar um pull request sem revisa-lo.
 
-#### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
+#### - Se precisar de mais ajuda, clique no botão 'Como obter' para ver um tutorial passo a passo sobre como conseguir essa conquista.
 
-<div align="center"><a href="assets/steps/README.yolo.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps/README.yolo.md"><img src="assets/img/btn-pt.png" alt=""></a></div>
 <hr>
 
 <br>
+<div align="center"  >
+<a href="assets/steps-es/README.galaxy-brain-es.md">
+<img width="296" src="assets/badges/GalaxyBrain.png" alt="GalaxyBrain-Pin">
+</a>
+</div>
+<hr>
+
+## Como conseguir a conquista Galaxy Brain
+
+### Conseguir a Galaxy Brain é mais difícil do que os dois logros anteriores. E para recebê-lo, você deve seguir os passos necessários para outros usuários do GitHub. Você vai precisar: Responder a uma discussão (obter uma resposta aceita duas vezes)
+
+#### - Se precisar de mais ajuda, clique no botão 'Como obter' para ver um tutorial passo a passo sobre como conseguir essa conquista.
+
+<div align="center"><a href="assets/steps-es/README.galaxy-brain-es.md"><img src="assets/img/btn-pt.png" alt=""></a></div>
+<hr>
 
 <div align="center"  >
 <a href="assets/steps/README.pull-shark.md">
@@ -125,13 +140,13 @@
 </div>
 <hr>
 
-## How to Get Pull Shark Achievement
+## Como conseguir a conquista Pull Shark
 
-### To get pull shark you need to make 2 merged pull request, you will get the one pull shark badge.
+### Para obter o pull Shark, você precisa fazer 2 merged pull request, fazendo isso você receberá o emblema de um pull Shark.
 
-#### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
+#### - Se precisar de mais ajuda, clique no botão 'Como obter' para ver um tutorial passo a passo sobre como conseguir essa conquista.
 
-<div align="center"><a href="assets/steps/README.pull-shark.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps/README.pull-shark.md"><img src="assets/img/btn-pt.png" alt=""></a></div>
 <hr>
 
 <br>
@@ -143,13 +158,13 @@
 </div>
 <hr>
 
-## How to Get Starstruck Achievement
+## Como conseguir a conquista Starstruck
 
-### It's too simple to get Starstruck Achievement & you have few steps to get Starstruck . You can get this Achievement When a Repository on your account hits 16 stars, even if it was transferred, you will receive the badge.
+### É muito simples obter a conquista Starstruck. Você pode obter esta conquista quando um repositório em sua conta atingir 16 estrelas, mesmo que tenha sido transferido, você receberá o emblema.
 
-#### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
+#### - Se precisar de mais ajuda, clique no botão 'Como obter' para ver um tutorial passo a passo sobre como conseguir essa conquista.
 
-<div align="center"><a href="assets/steps/README.starstruck.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps/README.starstruck.md"><img src="assets/img/btn-pt.png" alt=""></a></div>
 <hr>
 
 <br>
@@ -161,13 +176,13 @@
 </div>
 <hr>
 
-## How to Get Pair Extraordinaire Achievement
+## Como conseguir a conquista Pair Extraordinaire
 
-### You can earn the pair extraordinaire badge by co-authoring a pull request that then gets merged.
+### Você pode ganhar a conquista Pair Extraordinaire sendo co-autor de um pull request que é mesclada.
 
-#### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
+#### - Se precisar de mais ajuda, clique no botão 'Como obter' para ver um tutorial passo a passo sobre como conseguir essa conquista.
 
-<div align="center"><a href="assets/steps/README.pair-extraordinaire.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps/README.pair-extraordinaire.md"><img src="assets/img/btn-pt.png" alt=""></a></div>
 <hr>
 
 <br>
@@ -179,19 +194,19 @@
 </div>
 <hr>
 
-## How to Get Public Sponsor Achievement
+## Como conseguir a conquista Public Sponsor
 
-### You just need to make a donation to some open source contributor.
+### Você só precisa fazer uma doação para algum contribuidor de código aberto.
 
-#### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
+#### - Se precisar de mais ajuda, clique no botão 'Como obter' para ver um tutorial passo a passo sobre como conseguir essa conquista.
 
-<div align="center"><a href="assets/steps/README.publicsponsor.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps/README.publicsponsor.md"><img src="assets/img/btn-pt.png" alt=""></a></div>
 
 <hr>
 
 <br>
 
-# On Test Achievements ⏳
+# Conquistas em fase de teste ⏳
 
 <br>
 
@@ -204,7 +219,7 @@
 
 ## Heart On Your Sleeve
 
-### the 'Heart On Your Sleeve' achievement badges is on test, After the official release. A step-by-step tutorial will be provided to receive it.
+### Os emblemas da conquista ‘Heart On Your Sleeve’ estão em teste, após o lançamento oficial. Um tutorial passo a passo será fornecido para recebê-lo.
 
 <hr>
 <br>
@@ -216,12 +231,12 @@
 
 ## Open Sourcerer
 
-### the 'Open Sourcerer' achievement badges is is on test, After the official release. A step-by-step tutorial will be provided to receive it.
+### os emblemas de conquista ‘Open Sourcerer’ estão em teste, após o lançamento oficial. Um tutorial passo a passo será fornecido para recebê-lo.
 
 <hr>
 <br>
 
-# Badges no longer earnable ❌
+# Emblemas que não podem mais ser obtidos ❌
 
 <br>
 
@@ -234,7 +249,7 @@
 
 ## Mars 2020 Contributor
 
-### Contributed code to a repository used in the Mars 2020 Helicopter Mission
+### Ter contribuído com um código para um repositório usado na missão de helicóptero Mars 2020
 
 <hr>
 
@@ -247,44 +262,31 @@
 
 ## Arctic Code Vault Contributor
 
-### Contributed code to a repository in the 2020 GitHub Archive Program
+### Ter contribuído com um código para um repositório no GitHub Archive Program 2020
 
 <hr>
 
 <br>
 
-<div align="center"  >
-<a href="https://github.com/readme/featured/nasa-ingenuity-helicopter">
-<img width="296" src="assets/badges/GalaxyBrain.png" alt="GalaxyBrain-Pin">
-</a>
-</div>
-<hr>
-
-## Galaxy Brain 2022
-
-### Answered a discussion(got an accepted answer two times), From 2020 to 2024
-
-<hr>
-
-# Achievement Skin Tone 👋
+# Tom de pele das conquistas 👋
 
 <br>
 
-#### Some achievements' appearance depends on your Emoji Skin Tone Preference.
+#### A aparência de algumas conquistas depende da sua preferência de tom de pele do Emoji.
 
-#### You can change your preferred Skin Tone by going to [appearance settings](https://github.com/settings/appearance).
+#### Você pode alterar seu tom de pele preferido acessando [configurações de aparência](https://github.com/settings/appearance).
 
 <hr>
 
 <div align="center">
 <img src="assets/badges/Starstruck.png" width="150" alt="">
-<h4>Starstuck Skin Tone Versions</h4>
+<h4>Versões de tons de pele Starstuck</h4>
 <img src="assets/badges/starstuck-skins.png" alt="">
 </div>
 
 <div align="center">
 <img src="assets/badges/Quickdraw.png" width="150" alt="">
-<h4>Quikdraw Skin Tone Versions</h4>
+<h4>Versões de tons de pele do Quikdraw</h4>
 <img src="assets/badges/quickdraw-skin.png" alt="">
 </div>
 
@@ -292,34 +294,15 @@
 
 <br>
 
-# Highlights Badges ✨
-<br>
-
-| Badge | Name | How to get |
-| :-: | :-: | :-: |
-| ![pro-black](https://user-images.githubusercontent.com/65187002/173065669-d1fdb5a7-8895-43cc-8dea-72a511a37e86.svg#gh-light-mode-only) ![pro-white](https://user-images.githubusercontent.com/65187002/173065531-57dbf8b1-7eb7-4d46-81bf-f2d18c7c9112.svg#gh-dark-mode-only) | Pro | Use [GitHub Pro](https://docs.github.com/en/get-started/learning-about-github/githubs-products#github-pro) |
-| ![developer-program-member-dark](https://user-images.githubusercontent.com/65187002/173079579-3c393d22-7a13-4e7d-87b8-341fb613d52b.svg#gh-dark-mode-only)![developer-program-member-light](https://user-images.githubusercontent.com/65187002/173079614-33f43a97-1cc2-4228-85e3-ef43836e17c2.svg#gh-light-mode-only) | Developer Program Member | Be a registered member of the [GitHub Developer Program](https://docs.github.com/en/developers/overview/github-developer-program) |
-| ![security-bug-bounty-hunter-dark](https://user-images.githubusercontent.com/65187002/173081624-93e3cf1f-50b7-45a4-82b7-1954f66368b9.svg#gh-dark-mode-only)![security-bug-bounty-hunter-light](https://user-images.githubusercontent.com/65187002/173081657-e500d72c-9247-44c2-a3d3-2deff30e1ae7.svg#gh-light-mode-only) | Security Bug Bounty Hunter | Helped out hunting down security vulnerabilities at [GitHub Security](https://bounty.github.com/) |
-| ![github-campus-expert-dark](https://user-images.githubusercontent.com/65187002/173082819-b3625c23-bfd6-4492-b828-56ed91c45f52.svg#gh-dark-mode-only)![github-campus-expert-light](https://user-images.githubusercontent.com/65187002/173082836-08be81fe-13b7-4acf-9096-e5241d76f237.svg#gh-light-mode-only) | GitHub Campus Expert | Participate in the [GitHub Campus Program](https://education.github.com/experts) |
-| ![security-advisory-credit-dark](https://user-images.githubusercontent.com/65187002/173084051-79a0a626-1c1a-4d60-afdf-50ad001d7b21.svg#gh-dark-mode-only)![security-advisory-credit-light](https://user-images.githubusercontent.com/65187002/173084071-5f321da2-b2a9-490b-a524-1b21fa384d7e.svg#gh-light-mode-only) | Security advisory credit | Have your security advisory submitted to the [GitHub Advisory Database](https://github.com/advisories) accepted |
-
-# Maintaining fairness and adhering to rules is essential 🏁
-
-<be>
-
-#### This repository only intended to teach you how to get GitHub achievements. Please respect GitHub's rules and community guidelines. Try to be active in the GitHub community and refrain from participating in our project solely to obtain GitHub achievements. This goes against our wishes and GitHub's rules. Please follow these rules and strive to contribute fairly to GitHub and projects to build a better community on GitHub together.
-
-#### Please use this guide to learn how to get achievements and respect Our terms after learning how to get GitHub achievements, Try to participate in projects and strive to earn these achievements fairly to build a healthier and more equitable community on <a href="https://docs.github.com/en/site-policy/github-terms/github-terms-of-service">GitHub</a>.
-
-# More information ℹ
+# Mais informações!
 
 <br>
 
-#### You can find more information about GitHub Badges under this [link](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile).
+#### Você pode encontrar mais informações sobre as insígnias do GitHub neste [link](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile).
 
-<!-- </div> -->
+
 <br>
 
-####          
+####               
 
 
