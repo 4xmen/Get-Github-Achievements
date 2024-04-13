@@ -7,34 +7,33 @@
 
 <hr>
 
-## Cómo obtener el logro de Pull Shark en GitHub paso a paso:
+## Como obter a conquista Pull Shark no GitHub passo a passo:
 
-### 1. Necesitas obtener un fork de un repositorio (puedes hacer fork de cualquier repositorio que desees).
+### 1.Você precisa fazer Fork um repositório (você pode fazer Fork de qualquer repositório que desejar).
 
 <div align="center">
 <img width="700" src="../img/pull-shark/pull-step1.png" alt="pull-shark-step1.png">
 </div>
 
-### 2. Cuando se crea tu repositorio bifurcado, necesitas hacer algunos cambios en él (cualquier cambio como agregar un nuevo archivo o hacer modificaciones en el código). Después de eso, debes ir a la pestaña de solicitudes de extracción (pull request);
+### 2. Quando seu repositório em fork é criado, você precisa fazer algumas alterações nele (quaisquer alterações, como adicionar um novo arquivo ou fazer modificações no código). Depois disso, você precisa ir até a aba (pull requests);
 
 <div align="center">
 <img width="700" src="../img/pull-shark/pull-step2.png" alt="pull-shark-step2.png">
 </div>
 
-### 3. Haz clic en el botón "Create pull request" (Crear solicitud de extracción);
-
+### 3. Clique no botão “New pull request”;
 <div align="center">
 <img width="700" src="../img/pull-shark/pull-step3.png" alt="pull-shark-step3.png">
 </div>
 
-### 4. Ahora podrás ver un texto verde que indica que puedes fusionar tu solicitud de extracción. Así que haz clic en el botón "Create Pull request" para crear tu solicitud de extracción exitosamente. Luego tendrás que esperar a que el creador del repositorio acepte tu solicitud.
-#### - Necesitas 2 solicitudes de extracción fusionadas para obtener el logro de Pull Shark.
+### 4. Agora você verá um texto verde indicando que pode mesclar seu pull request. Portanto, clique no botão “Create pull request” para criar seu pull request com sucesso. Você terá então que esperar que o criador do repositório aceite sua solicitação.
+#### - Você precisa de 2 pull requests mesclados/aceitos para obter a conquista Pull Shark.
 
 <div align="center">
 <img width="700" src="../img/pull-shark/pull-step4.png" alt="pull-shark-step4.png">
 </div>
 
-### 5. ¡Listo! Ahora puedes ver el logro de Pull Shark en tu lista de logros.
+### 5. Pronto! Agora você pode ver a conquista Pull Shark em sua lista de conquistas.
 
 <div align="center">
 <img width="300" src="../img/pull-shark/pull-step5.png" alt="pull-shark-step5.png">

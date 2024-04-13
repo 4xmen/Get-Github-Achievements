@@ -83,7 +83,7 @@
 <br>
 
 <div align="center"  >
-<a href="assets/steps/README.quickdraw.md">
+<a href="assets/steps-pt/README.quickdraw-pt.md">
 <img width="296" src="assets/badges/Quickdraw.png" alt="QuickDraw-Pin">
 </a>
 </div>
@@ -95,13 +95,13 @@
 
 #### - Se precisar de mais ajuda, clique no botão 'Como obter' para ver um tutorial passo a passo sobre como conseguir essa conquista.
 
-<div align="center"><a href="assets/steps/README.quickdraw.md"><img src="assets/img/btn-pt.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-pt/README.quickdraw-pt.md"><img src="assets/img/btn-pt.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="assets/steps/README.yolo.md">
+<a href="assets/steps-pt/README.yolo-pt.md">
 <img width="296" src="assets/badges/Yolo.png" alt="Yolo-Pin">
 </a>
 </div>
@@ -113,12 +113,12 @@
 
 #### - Se precisar de mais ajuda, clique no botão 'Como obter' para ver um tutorial passo a passo sobre como conseguir essa conquista.
 
-<div align="center"><a href="assets/steps/README.yolo.md"><img src="assets/img/btn-pt.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-pt/README.yolo-pt.md"><img src="assets/img/btn-pt.png" alt=""></a></div>
 <hr>
 
 <br>
 <div align="center"  >
-<a href="assets/steps-es/README.galaxy-brain-es.md">
+<a href="assets/steps-pt/README.galaxy-brain-pt.md">
 <img width="296" src="assets/badges/GalaxyBrain.png" alt="GalaxyBrain-Pin">
 </a>
 </div>
@@ -130,11 +130,11 @@
 
 #### - Se precisar de mais ajuda, clique no botão 'Como obter' para ver um tutorial passo a passo sobre como conseguir essa conquista.
 
-<div align="center"><a href="assets/steps-es/README.galaxy-brain-es.md"><img src="assets/img/btn-pt.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-pt/README.galaxy-brain-pt.md"><img src="assets/img/btn-pt.png" alt=""></a></div>
 <hr>
 
 <div align="center"  >
-<a href="assets/steps/README.pull-shark.md">
+<a href="assets/steps-pt/README.pull-shark-pt.md">
 <img width="296" src="assets/badges/PullShark.png" alt="PullShark-Pin">
 </a>
 </div>
@@ -146,13 +146,13 @@
 
 #### - Se precisar de mais ajuda, clique no botão 'Como obter' para ver um tutorial passo a passo sobre como conseguir essa conquista.
 
-<div align="center"><a href="assets/steps/README.pull-shark.md"><img src="assets/img/btn-pt.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-pt/README.pull-shark-pt.md"><img src="assets/img/btn-pt.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="assets/steps/README.starstruck.md">
+<a href="assets/steps-pt/README.starstruck-pt.md">
 <img width="296" src="assets/badges/Starstruck.png" alt="Starstruck-Pin">
 </a>
 </div>
@@ -164,13 +164,13 @@
 
 #### - Se precisar de mais ajuda, clique no botão 'Como obter' para ver um tutorial passo a passo sobre como conseguir essa conquista.
 
-<div align="center"><a href="assets/steps/README.starstruck.md"><img src="assets/img/btn-pt.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-pt/README.starstruck-pt.md"><img src="assets/img/btn-pt.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="assets/steps/README.pair-extraordinaire.md">
+<a href="assets/steps-pt/README.pair-extraordinaire-pt.md">
 <img width="296" src="assets/badges/PairExtraordinaire.png" alt="PairExtraordinaire-Pin">
 </a>
 </div>
@@ -182,13 +182,13 @@
 
 #### - Se precisar de mais ajuda, clique no botão 'Como obter' para ver um tutorial passo a passo sobre como conseguir essa conquista.
 
-<div align="center"><a href="assets/steps/README.pair-extraordinaire.md"><img src="assets/img/btn-pt.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-pt/README.pair-extraordinaire-pt.md"><img src="assets/img/btn-pt.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="assets/steps/README.publicsponsor.md">
+<a href="assets/steps-pt/README.publicsponsor-pt.md">
 <img width="296" src="assets/badges/PublicSponsor.png" alt="PublicSponsor-Pin">
 </a>
 </div>
@@ -200,7 +200,7 @@
 
 #### - Se precisar de mais ajuda, clique no botão 'Como obter' para ver um tutorial passo a passo sobre como conseguir essa conquista.
 
-<div align="center"><a href="assets/steps/README.publicsponsor.md"><img src="assets/img/btn-pt.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-pt/README.publicsponsor-pt.md"><img src="assets/img/btn-pt.png" alt=""></a></div>
 
 <hr>
 

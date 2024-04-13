@@ -7,59 +7,59 @@
 
 <hr>
 
-## Cómo obtener el logro Yolo en GitHub paso a paso:
+## Como obter a conquista Yolo no GitHub passo a passo:
 
-### 1. Primero, necesitas abrir el repositorio y dirigirte a la configuración (settings).
+### 1. Primeiro, você precisa abrir o repositório e acessar as configurações.
 
 <div align="center">
 <img width="700" src="../img/yolo/yolo-step1.png" alt="yolo-step1.png">
 </div>
 
-### 2. Segundo, debes ir a la categoría de colaboradores (collaborators) y en esta sección, invitar a una cuenta a la que tengas acceso al repositorio.
+### 2. Em segundo lugar, você deve ir até a categoria (collaborators) e nesta seção convidar uma conta à qual você tenha acesso ao repositório.
 
 <div align="center">
 <img width="700" src="../img/yolo/yolo-step2.png" alt="yolo-step2.png">
 </div>
 
-### 3. Tercero, necesitas agregar una nueva rama a tu repositorio.
+### 3. Terceiro, você precisa adicionar um novo branch ao seu repositório.
 
 <div align="center">
 <img width="700" src="../img/yolo/yolo-step3.png" alt="yolo-step3.png">
 </div>
 
 
-### 4. Ahora, debes agregar un archivo a la nueva rama que creaste.
+### 4. Agora, você precisa adicionar um arquivo ao novo branch que você criou.
 
 <div align="center">
 <img width="700" src="../img/yolo/yolo-step4.png" alt="yolo-step4.png">
 </div>
 
-### 5. Agrega el archivo y haz commit de la descripción para él, y finalmente realiza un commit de tus cambios.
+### 5. Adicione o arquivo e confirme a commit dele e, finalmente, confirme suas alterações.
 
 <div align="center">
 <img width="700" src="../img/yolo/yolo-step5.png" alt="yolo-step5.png">
 </div>
 
-### 6. Haz clic en el botón verde, "compare and pull request" (comparar y solicitud de extracción).
+### 6. Clique no botão verde, "Compare & pull request".
 
 <div align="center">
 <img width="700" src="../img/yolo/yolo-step6.png" alt="yolo-step6.png">
 </div>
 
-### 7. Agrega a la persona invitada en el paso 2 como revisor (Reviewer), y crea la solicitud de extracción (pull request).
+### 7. Adicione a pessoa convidada na etapa 2 como Revisor(Reviwer) e crie o pull request.
 
 <div align="center">
 <img width="700" src="../img/yolo/yolo-step7.png" alt="yolo-step7.png">
 </div>
 
-### 8. Por último, verifica que tu revisor y luego haz clic en "Merge pull request" (fusionar solicitud de extracción).
+### 8. Por fim, verifique seu revisor e clique em Merge pull request “Mesclar solicitação pull”.
 
 <div align="center">
 <img width="700" src="../img/yolo/yolo-step8.png" alt="yolo-step7.png">
 </div>
 
 
-### 9. ¡Listo! Ahora puedes ver el logro Yolo en tu lista de logros.
+### 9. Pronto! Agora você pode ver a conquista do Yolo na sua lista de conquistas.
 
 <div align="center">
 <img width="300" src="../img/yolo/yolo-step9.png" alt="yolo-finish.png">
