@@ -1,8 +1,9 @@
 <!-- <div align="center"> -->
 
-## Language
+## Idioma
 
 <div align="center">
+
   
 [![en](https://img.shields.io/badge/Lang-English-blue.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.md)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -36,7 +37,7 @@
 
 </div>
 
-# GitHub Başarıları 🏆
+# Conquistas do GitHub 🏆
 
 <br>
 
@@ -53,162 +54,159 @@
 
 <br>
 
-# GitHub Başarıları Nasıl Kazanılır
+# Como conseguir as conquistas do Github
 
-## Bu eğitimde GitHub başarılarını nasıl elde edeceğiniz adım adım öğretilecektir.
+## Neste curso você aprenderá passo-a-passo de como conseguuir as conquistas do Github.
 
-### Notlar:
+### Notas:
 
-#### Not 1: Başarıları almakta sorun yaşıyorsanız, nasıl alacağınızla ilgili bölümdeki adım adım eğitimi kullanabilirsiniz.
+#### Nota 1: Se você tem algum problema para conseguir conquistas, pode usar as instruções passo-a-passo na seção de como obter cada uma.
 
-#### Not 2: Tüm eğitimler fotoğraflıdır ve her adım tam olarak açıklanmıştır.
+#### Nota 2: Todos os tutoriais têm fotos e cada passo está completamente explicado.
 
-#### Not 3: Herhangi bir sorun veya hata bulursanız, lütfen bize [rapor edin] (https://github.com/4xmen/Get-Github-Achievements/issues/new). Ve kursu geliştirmemize yardımcı olun.
-
-<br>
-
-# Başarılar & Sergileme 🏅
-
-#### Başarılar, GitHub'ın belirli etkinlikler için ödül olarak GitHub hesabınıza verdiği ve profilinizde görülebilen pinlerdir. Bu başarılar GitHub hesabınıza iyi bir etki verir ve etkinliğinizin miktarını ve ne kadar aktif olduğunuzu gösterebilir.
-
-#### Profil ayarlarınıza] (https://github.com/settings) giderek profilinizde başarıların görüntülenmesini devre dışı bırakabilirsiniz.
-
-#### Burada size GitHub Başarı pinlerini adım adım nasıl alacağınızı gösteriyoruz :)
+#### Nota 3: Se você encontrar algum problema ou erro, por favor [informe](https://github.com/4xmen/Get-Github-Achievements/issues/new) para nós. E nos ajude a melhorar o curso.
 
 <br>
 
-# Başarı Listesi 📃
+# Conquistas e Exibição🏅
+
+#### Conquistas são pins que o GitHub dá à sua conta GitHub como recompensa por determinadas atividades e podem ser vistos em seu perfil. Essas conquistas dão um bom efeito à sua conta GitHub e podem indicar a quantidade de sua atividade e como você está ativo..
+
+#### Você pode cancelar a exibição de conquistas em seu perfil acessando as [Configurações de perfil](https://github.com/settings).
+
+#### Aqui mostramos como obter os pins de conquista do GitHub passo a passo :)
+
+<br>
+
+# Lista de conquistas 📃
 
 <br>
 
 <div align="center"  >
-<a href="assets/steps-tr/README.quickdraw-tr.md">
+<a href="assets/steps-pt/README.quickdraw-pt.md">
 <img width="296" src="assets/badges/Quickdraw.png" alt="QuickDraw-Pin">
 </a>
 </div>
 <hr>
 
-## Quickdraw Başarısı Nasıl Elde Edilir ?
+## Como conseguir a conquista Quickdraw
 
-### Quickdraw, elde etmenin en kolay yolu olan başarıma sahiptir ve sadece birkaç basit adımı izleyerek elde edebilirsiniz. Bu başarımı elde etmek için yapmanız gerekenler (bir issue/pull talebini açtıktan sonra 5 dakika içinde kapatmak)
+### Quickdraw é uma das conquistas mais fáceis de receber. Requer apenas algumas etapas. Para obter essa conquista você deve (fechar um issue/pull request dentro de 5 minutos após a abertura)
 
-#### - Daha fazla yardıma ihtiyacınız varsa, bu başarımı nasıl elde edeceğinizi adım adım öğrenmek için Nasıl Elde Edilir butonuna tıklayın.
+#### - Se precisar de mais ajuda, clique no botão 'Como obter' para ver um tutorial passo a passo sobre como conseguir essa conquista.
 
-<div align="center"><a href="assets/steps-tr/README.quickdraw-tr.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-pt/README.quickdraw-pt.md"><img src="assets/img/btn-pt.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="assets/steps-tr/README.yolo-tr.md">
+<a href="assets/steps-pt/README.yolo-pt.md">
 <img width="296" src="assets/badges/Yolo.png" alt="Yolo-Pin">
 </a>
 </div>
 <hr>
 
-## Yolo Başarısı Nasıl Alınır?
+## Como conseguir a conquista Yolo
 
-### Yolo, Github profilinize çok güzel bir etki verebilecek Github'ın en güzel başarılarından biridir. Bu başarımı elde etmek için, bir inceleme olmadan bir çekme isteğini birleştirmeniz gerekir.
+### Yolo é uma das conquistas mais bonitas do Github, que pode dar um efeito muito bonito ao seu perfil do Github. Para obter essa conquista, você precisa mesclar um pull request sem revisa-lo.
 
-#### - Daha fazla yardıma ihtiyacınız varsa, bu başarımı nasıl elde edeceğinizi adım adım öğrenmek için Nasıl Elde Edilir butonuna tıklayın.
+#### - Se precisar de mais ajuda, clique no botão 'Como obter' para ver um tutorial passo a passo sobre como conseguir essa conquista.
 
-<div align="center"><a href="assets/steps-tr/README.yolo-tr.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-pt/README.yolo-pt.md"><img src="assets/img/btn-pt.png" alt=""></a></div>
 <hr>
 
 <br>
-
 <div align="center"  >
-<a href="assets/steps-tr/README.galaxy-brain-tr.md">
+<a href="assets/steps-pt/README.galaxy-brain-pt.md">
 <img width="296" src="assets/badges/GalaxyBrain.png" alt="GalaxyBrain-Pin">
 </a>
 </div>
 <hr>
 
-## Galaxy Brain Başarısı Nasıl Elde Edilir
+## Como conseguir a conquista Galaxy Brain
 
-### Galaxy Brain'i elde etmek önceki iki başarıdan daha zordur. Ve onu almak için, diğer GitHub kullanıcılarının ihtiyaç duyduğu adımlardan geçmeniz gerekir. Yapmanız gerekenler Bir tartışmaya cevap vermek ve (iki kez kabul edilen bir cevap almak)
+### Conseguir a Galaxy Brain é mais difícil do que os dois logros anteriores. E para recebê-lo, você deve seguir os passos necessários para outros usuários do GitHub. Você vai precisar: Responder a uma discussão (obter uma resposta aceita duas vezes)
 
-#### - Daha fazla yardıma ihtiyacınız varsa, bu başarımı nasıl elde edeceğinizi adım adım öğrenmek için Nasıl Elde Edilir butonuna tıklayın.
+#### - Se precisar de mais ajuda, clique no botão 'Como obter' para ver um tutorial passo a passo sobre como conseguir essa conquista.
 
-<div align="center"><a href="assets/steps-tr/README.galaxy-brain-tr.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-pt/README.galaxy-brain-pt.md"><img src="assets/img/btn-pt.png" alt=""></a></div>
 <hr>
 
-<br>
-
 <div align="center"  >
-<a href="assets/steps-tr/README.pull-shark-tr.md">
+<a href="assets/steps-pt/README.pull-shark-pt.md">
 <img width="296" src="assets/badges/PullShark.png" alt="PullShark-Pin">
 </a>
 </div>
 <hr>
 
-## Pull Shark Başarısı Nasıl Elde Edilir
+## Como conseguir a conquista Pull Shark
 
-### Pull shark almak için 2 birleştirilmiş pull request yapmanız gerekir, bir pull shark rozeti alırsınız.
+### Para obter o pull Shark, você precisa fazer 2 merged pull request, fazendo isso você receberá o emblema de um pull Shark.
 
-#### - Daha fazla yardıma ihtiyacınız varsa, bu başarımı nasıl elde edeceğinizi adım adım öğrenmek için Nasıl Elde Edilir butonuna tıklayın.
+#### - Se precisar de mais ajuda, clique no botão 'Como obter' para ver um tutorial passo a passo sobre como conseguir essa conquista.
 
-<div align="center"><a href="assets/steps-tr/README.pull-shark-tr.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-pt/README.pull-shark-pt.md"><img src="assets/img/btn-pt.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="assets/steps-tr/README.starstruck-tr.md">
+<a href="assets/steps-pt/README.starstruck-pt.md">
 <img width="296" src="assets/badges/Starstruck.png" alt="Starstruck-Pin">
 </a>
 </div>
 <hr>
 
-## Starstruck Başarısı Nasıl Elde Edilir
+## Como conseguir a conquista Starstruck
 
-### Starstruck başarımını elde etmek çok kolay & Starstruck'ı elde etmek için sadece birkaç adımı takip etmeniz gerekiyor. Hesabınızdaki bir depo 16 yıldıza ulaştığında bu başarımı elde edebilirsiniz, transfer edilmiş olsa bile rozeti alacaksınız.
+### É muito simples obter a conquista Starstruck. Você pode obter esta conquista quando um repositório em sua conta atingir 16 estrelas, mesmo que tenha sido transferido, você receberá o emblema.
 
-#### - Daha fazla yardıma ihtiyacınız varsa, bu başarımı nasıl elde edeceğinizi adım adım öğrenmek için Nasıl Elde Edilir butonuna tıklayın.
+#### - Se precisar de mais ajuda, clique no botão 'Como obter' para ver um tutorial passo a passo sobre como conseguir essa conquista.
 
-<div align="center"><a href="assets/steps-tr/README.starstruck-tr.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-pt/README.starstruck-pt.md"><img src="assets/img/btn-pt.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="assets/steps-tr/README.pair-extraordinaire-tr.md">
+<a href="assets/steps-pt/README.pair-extraordinaire-pt.md">
 <img width="296" src="assets/badges/PairExtraordinaire.png" alt="PairExtraordinaire-Pin">
 </a>
 </div>
 <hr>
 
-## Pair Extraordinaire Başarısı Nasıl Elde Edilir
+## Como conseguir a conquista Pair Extraordinaire
 
-### Daha sonra birleştirilen bir çekme isteğine ortak yazarlık yaparak Pair Extraordinary rozetini kazanabilirsiniz.
+### Você pode ganhar a conquista Pair Extraordinaire sendo co-autor de um pull request que é mesclada.
 
-#### - Daha fazla yardıma ihtiyacınız varsa, bu başarımı nasıl elde edeceğinizi adım adım öğrenmek için Nasıl Elde Edilir butonuna tıklayın.
+#### - Se precisar de mais ajuda, clique no botão 'Como obter' para ver um tutorial passo a passo sobre como conseguir essa conquista.
 
-<div align="center"><a href="assets/steps-tr/README.pair-extraordinaire-tr.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-pt/README.pair-extraordinaire-pt.md"><img src="assets/img/btn-pt.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
-<a href="assets/steps-tr/README.publicsponsor-tr.md">
+<a href="assets/steps-pt/README.publicsponsor-pt.md">
 <img width="296" src="assets/badges/PublicSponsor.png" alt="PublicSponsor-Pin">
 </a>
 </div>
 <hr>
 
-## Public Sponsor Başarısı Nasıl Elde Edilir
+## Como conseguir a conquista Public Sponsor
 
-### Tek yapmanız gereken açık kaynaklara katkıda bulunan birine bağış yapmak.
+### Você só precisa fazer uma doação para algum contribuidor de código aberto.
 
-#### - Daha fazla yardıma ihtiyacınız varsa, bu başarımı nasıl elde edeceğinizi adım adım öğrenmek için Nasıl Elde Edilir butonuna tıklayın.
+#### - Se precisar de mais ajuda, clique no botão 'Como obter' para ver um tutorial passo a passo sobre como conseguir essa conquista.
 
-<div align="center"><a href="assets/steps-tr/README.publicsponsor-tr.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-pt/README.publicsponsor-pt.md"><img src="assets/img/btn-pt.png" alt=""></a></div>
 
 <hr>
 
 <br>
 
-# Yayınlanmamış Başarımlar ⏳
+# Conquistas em fase de teste ⏳
 
 <br>
 
@@ -221,7 +219,7 @@
 
 ## Heart On Your Sleeve
 
-### 'Heart On Your Sleeve' başarı rozetleri henüz herkese açık GitHub kullanıcıları için yayınlanmadı.
+### Os emblemas da conquista ‘Heart On Your Sleeve’ estão em teste, após o lançamento oficial. Um tutorial passo a passo será fornecido para recebê-lo.
 
 <hr>
 <br>
@@ -233,12 +231,12 @@
 
 ## Open Sourcerer
 
-### 'Open Sourcerer' başarı rozetleri henüz genel GitHub kullanıcıları için yayınlanmadı.
+### os emblemas de conquista ‘Open Sourcerer’ estão em teste, após o lançamento oficial. Um tutorial passo a passo será fornecido para recebê-lo.
 
 <hr>
 <br>
 
-# Artık kazanılması mümkün olmayan rozetler ❌
+# Emblemas que não podem mais ser obtidos ❌
 
 <br>
 
@@ -251,7 +249,7 @@
 
 ## Mars 2020 Contributor
 
-### Mars 2020 Helikopter Görevinde kullanılan bir depoya kod katkısında bulunmak
+### Ter contribuído com um código para um repositório usado na missão de helicóptero Mars 2020
 
 <hr>
 
@@ -264,31 +262,31 @@
 
 ## Arctic Code Vault Contributor
 
-### GitHub 2020 Arşiv Programındaki bir depoya kod katkısında bulunmak
+### Ter contribuído com um código para um repositório no GitHub Archive Program 2020
 
 <hr>
 
 <br>
 
-# Başarılar için ten rengi tonları 👋
+# Tom de pele das conquistas 👋
 
 <br>
 
-#### Bazı başarıların görünümü Emoji Cilt Tonu Tercihinize bağlıdır.
+#### A aparência de algumas conquistas depende da sua preferência de tom de pele do Emoji.
 
-#### Tercih ettiğiniz Ten Tonunu [appearance settings] (görünüm ayarları) (https://github.com/settings/appearance) bölümüne giderek değiştirebilirsiniz.
+#### Você pode alterar seu tom de pele preferido acessando [configurações de aparência](https://github.com/settings/appearance).
 
 <hr>
 
 <div align="center">
 <img src="assets/badges/Starstruck.png" width="150" alt="">
-<h4>Starstuck Cilt Tonu Versiyonları</h4>
+<h4>Versões de tons de pele Starstuck</h4>
 <img src="assets/badges/starstuck-skins.png" alt="">
 </div>
 
 <div align="center">
 <img src="assets/badges/Quickdraw.png" width="150" alt="">
-<h4>Quikdraw Cilt Tonu Versiyonları</h4>
+<h4>Versões de tons de pele do Quikdraw</h4>
 <img src="assets/badges/quickdraw-skin.png" alt="">
 </div>
 
@@ -296,16 +294,15 @@
 
 <br>
 
-# Daha fazla bilgi için ℹ
+# Mais informações!
 
 <br>
 
-#### GitHub Rozetleri hakkında daha fazla bilgiyi bu [link](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile) altında bulabilirsiniz.
+#### Você pode encontrar mais informações sobre as insígnias do GitHub neste [link](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile).
 
 
-<!-- </div> -->
 <br>
 
-####          
+####               
 
 
