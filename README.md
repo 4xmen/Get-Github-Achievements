@@ -2,7 +2,7 @@
 
 ## Language
 
-<div align="center">...
+<div align="center">
 
   
 [![en](https://img.shields.io/badge/Lang-English-blue.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.md)
