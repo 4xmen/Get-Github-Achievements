@@ -217,7 +217,7 @@
 
 ## Open Sourcerer
 
-### the 'Open Sourcerer' achievement badges is is on test, After the official release. A step-by-step tutorial will be provided to receive it.
+### The 'Open Sourcerer' achievement badges are on test, After the official release. A step-by-step tutorial will be provided to receive it.
 
 <hr>
 <br>
