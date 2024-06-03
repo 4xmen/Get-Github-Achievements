@@ -98,7 +98,7 @@
 
 #### - আপনার যদি আরও সাহায্যের প্রয়োজন হয়, তাহলে এই কৃতিত্ব পাওয়ার বিষয়ে ধাপে ধাপে টিউটোরিয়াল পেতে কিভাবে পেতে হবে বোতামে ক্লিক করুন।
 
-<div align="center"><a href="assets/steps-hin/README.quickdraw-hin.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-bn/README.quickdraw-bn.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
 
 <br>
@@ -116,7 +116,7 @@
 
 #### - আপনার যদি আরও সাহায্যের প্রয়োজন হয়, এই কৃতিত্বটি পাওয়ার জন্য ধাপে ধাপে টিউটোরিয়াল পেতে কিভাবে পেতে হবে বোতামে ক্লিক করুন।
 
-<div align="center"><a href="assets/steps-hin/README.yolo-hin.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-bn/README.yolo-bn.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
 
 <br>
@@ -134,7 +134,7 @@
 
 #### - আপনার যদি আরও সাহায্যের প্রয়োজন হয়, কিভাবে এই অর্জনটি পেতে হয় তার একটি ধাপে ধাপে টিউটোরিয়াল পেতে How to Get বাটনে ক্লিক করুন।
 
-<div align="center"><a href="assets/steps-hin/README.galaxy-brain-hin.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-bn/README.galaxy-brain-bn.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
 
 <br>
@@ -152,7 +152,7 @@
 
 #### - আপনার যদি আরও সাহায্যের প্রয়োজন হয়, তাহলে কিভাবে এই অর্জনটি পেতে হয় তার একটি ধাপে ধাপে টিউটোরিয়াল পেতে How to Get বাটনে ক্লিক করুন।
 
-<div align="center"><a href="assets/steps-hin/README.pull-shark-hin.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-bn/README.pull-shark-bn.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
 
 <br>
@@ -170,7 +170,7 @@
 
 #### - আপনার যদি আরও সাহায্যের প্রয়োজন হয়, এই কৃতিত্বটি পাওয়ার জন্য ধাপে ধাপে টিউটোরিয়াল পেতে কিভাবে পেতে হবে বোতামে ক্লিক করুন।
 
-<div align="center"><a href="assets/steps-hin/README.starstruck-hin.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-bn/README.starstruck-bn.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
 
 <br>
@@ -188,7 +188,7 @@
 
 #### - আপনার যদি আরও সাহায্যের প্রয়োজন হয়, এই কৃতিত্বটি পাওয়ার জন্য ধাপে ধাপে টিউটোরিয়াল পেতে কিভাবে পেতে হবে বোতামে ক্লিক করুন।
 
-<div align="center"><a href="assets/steps-hin/README.pair-extraordinaire-hin.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-bn/README.pair-extraordinaire-bn.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
 
 <br>
@@ -206,7 +206,7 @@
 
 #### -  আপনার যদি আরও সাহায্যের প্রয়োজন হয়, তাহলে এই কৃতিত্ব পাওয়ার বিষয়ে ধাপে ধাপে টিউটোরিয়াল পেতে কিভাবে পেতে হবে বোতামে ক্লিক করুন।
 
-<div align="center"><a href="assets/steps-hin/README.publicsponsor-hin.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-bn/README.publicsponsor-bn.md"><img src="assets/img/btn.png" alt=""></a></div>
 
 <hr>
 
