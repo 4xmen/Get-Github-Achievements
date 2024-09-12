@@ -65,21 +65,21 @@
 
 ### Notes:
 
-#### Note 1: If you have a problem to receive achievements, you can use the step-by-step training in the section on how to receive them.
+#### Note 1: If you have a problem receiving achievements, you can use the step-by-step training in the section on how to receive them.
 
 #### Note 2: All tutorials are with photos and each step is fully explained.
 
-#### Note 3: If you find any problem or bugs, please [report](https://github.com/4xmen/Get-Github-Achievements/issues/new) it to us. And help us to improve the course.
+#### Note 3: If you find a problem or bug, please [report](https://github.com/4xmen/Get-Github-Achievements/issues/new) it to us. And help us to improve the course.
 
 <br>
 
 # Achievements & Display 🏅
 
-#### Achievements are pins that GitHub gives to your GitHub account as a reward for certain activities and can be seen in your profile. These achievements give a good effect to your GitHub account and can indicate the amount of your activity and how you are active.
+#### Achievements are pins that GitHub gives to your GitHub account as a reward for certain activities. They can be seen on your profile. These achievements give a good effect to your GitHub account and can indicate the amount of your activity and how active you are.
 
 #### You can opt out from having achievements displayed on your profile by going to your [profile settings](https://github.com/settings).
 
-#### Here we show you how to get GitHub Achievement pin's step by step :)
+#### Here we show you how to get GitHub Achievement pins step by step :)
 
 <br>
 
@@ -96,7 +96,7 @@
 
 ## How to Get Quickdraw Achievement
 
-### Quickdraw is one of the easiest achievements to receive. It only requires a few steps. To get this achievement you must (closed an issue / pull request within 5 minutes of opening)
+### Quickdraw is one of the easiest achievements to receive. It only requires a few steps. To get this achievement you must close an issue / pull request within 5 minutes of opening.
 
 #### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
 
@@ -114,7 +114,7 @@
 
 ## How to Get Yolo Achievement
 
-### Yolo is one of the most beautiful achievements of Github, which can give a very beautiful effect to your Github profile. To get this achievement, you need to Merge a pull request without a review.
+### Yolo is one of the most beautiful achievements of Github, and can give a very nice effect to your Github profile. To get this achievement, you need to merge a pull request without a review.
 
 #### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
 
@@ -132,7 +132,7 @@
 
 ## How to Get Pull Shark Achievement
 
-### To get pull shark you need to make 2 merged pull request, you will get the one pull shark badge.
+### To get Pull Shark you need to make 2 merged pull requests. You will then get the one pull shark badge.
 
 #### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
 
@@ -150,7 +150,7 @@
 
 ## How to Get Starstruck Achievement
 
-### It's too simple to get Starstruck Achievement & you have few steps to get Starstruck . You can get this Achievement When a Repository on your account hits 16 stars, even if it was transferred, you will receive the badge.
+### It's simple to get Starstruck Achievement & you have few steps to get Starstruck. You can get this achievement when a repository on your account hits 16 stars. Even if it was transferred you will still receive the badge.
 
 #### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
 
@@ -186,7 +186,7 @@
 
 ## How to Get Public Sponsor Achievement
 
-### You just need to make a donation to some open source contributor.
+### You just need to make a donation to an open-source contributor.
 
 #### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
 
@@ -209,7 +209,7 @@
 
 ## Heart On Your Sleeve
 
-### the 'Heart On Your Sleeve' achievement badges is on test, After the official release. A step-by-step tutorial will be provided to receive it.
+### The lHeart On Your Sleeve" achievement badge is being tested. After the official release a step-by-step tutorial will be provided on how to receive it.
 
 <hr>
 <br>
@@ -221,7 +221,7 @@
 
 ## Open Sourcerer
 
-### The 'Open Sourcerer' achievement badges are on test, After the official release. A step-by-step tutorial will be provided to receive it.
+### The "Open Sourcerer" achievement badge is on test. After the official release a step-by-step tutorial will be provided on how to receive it.
 
 <hr>
 <br>
@@ -239,7 +239,7 @@
 
 ## Mars 2020 Contributor
 
-### Contributed code to a repository used in the Mars 2020 Helicopter Mission
+### Contributed code to a repository used in the Mars 2020 Helicopter Mission.
 
 <hr>
 
@@ -252,7 +252,7 @@
 
 ## Arctic Code Vault Contributor
 
-### Contributed code to a repository in the 2020 GitHub Archive Program
+### Contributed code to a repository in the 2020 GitHub Archive Program.
 
 <hr>
 
@@ -267,7 +267,7 @@
 
 ## Galaxy Brain 2022
 
-### Answered a discussion(got an accepted answer two times), From 2020 to 2024
+### Answered a discussion (got an accepted answer two times), From 2020 to 2024.
 
 <hr>
 
@@ -275,7 +275,7 @@
 
 <br>
 
-#### Some achievements' appearance depends on your Emoji Skin Tone Preference.
+#### Some achievements' appearance depend on your Emoji Skin Tone Preference.
 
 #### You can change your preferred Skin Tone by going to [appearance settings](https://github.com/settings/appearance).
 
