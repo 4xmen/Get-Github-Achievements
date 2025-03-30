@@ -209,7 +209,7 @@
 
 ## Heart On Your Sleeve
 
-### The lHeart On Your Sleeve" achievement badge is being tested. After the official release a step-by-step tutorial will be provided on how to receive it.
+### The "Heart On Your Sleeve" achievement badge is being tested. After the official release a step-by-step tutorial will be provided on how to receive it.
 
 <hr>
 <br>
