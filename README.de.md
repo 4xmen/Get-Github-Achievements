@@ -146,7 +146,7 @@
 
 ## So erhalten Sie den Pull Shark Erfolg
 
-### Um Pull Shark zu erhalten, müssen Sie 2 zusammengeführte Pull-Anforderungen stellen, Sie erhalten das One Pull Shark-Abzeichen.
+### Um Pull Shark zu erhalten, müssen Sie 2 zusammengeführte Pull-Requests stellen, Sie erhalten das One Pull Shark-Abzeichen.
 
 #### - Wenn Sie weitere Hilfe benötigen, klicken Sie auf die Schaltfläche So erhalten Sie eine Schritt-für-Schritt-Anleitung, wie Sie diesen Erfolg erhalten.
 
@@ -166,7 +166,7 @@
 
 ### Es ist zu einfach, Starstruck Achievement zu erhalten, und Sie haben nur wenige Schritte, um Starstruck zu erhalten. Sie können diese Errungenschaft erhalten, wenn ein Repository auf Ihrem Konto 16 Sterne erreicht, selbst wenn es übertragen wurde, erhalten Sie das Abzeichen.
 
-#### - Wenn Sie weitere Hilfe benötigen, klicken Sie auf die Schaltfläche So erhalten Sie eine Schritt-für-Schritt-Anleitung, wie Sie diesen Erfolg erhalten.
+#### - Wenn Sie weitere Hilfe benötigen, klicken Sie auf die Schaltfläche. So erhalten Sie eine Schritt-für-Schritt-Anleitung, wie Sie diesen Erfolg erhalten.
 
 <div align="center"><a href="assets/steps-de/README.starstruck-de.md"><img src="assets/img/btn-de.png" alt=""></a></div>
 <hr>
@@ -180,11 +180,11 @@
 </div>
 <hr>
 
-## So erhalten Sie den Pair Extraordinaire Erfolg
+## So erhalten Sie den Pair Extraordinaire-Erfolg
 
-### Sie können das Pair Extraordinaire-Abzeichen verdienen, indem Sie eine Pull-Anfrage mitverfassen, die dann zusammengeführt wird.
+### Sie können das Pair Extraordinaire-Abzeichen verdienen, indem Sie einen Pull-Request mitverfassen, der dann zusammengeführt wird.
 
-#### - Wenn Sie weitere Hilfe benötigen, klicken Sie auf die Schaltfläche So erhalten Sie eine Schritt-für-Schritt-Anleitung, wie Sie diesen Erfolg erhalten.
+#### - Wenn Sie weitere Hilfe benötigen, klicken Sie auf die Schaltfläche. So erhalten Sie eine Schritt-für-Schritt-Anleitung, wie Sie diesen Erfolg erhalten.
 
 <div align="center"><a href="assets/steps-de/README.pair-extraordinaire-de.md"><img src="assets/img/btn-de.png" alt=""></a></div>
 <hr>
@@ -198,11 +198,11 @@
 </div>
 <hr>
 
-## So erhalten Sie den Public Sponsor Erfolg
+## So erhalten Sie den Public Sponsor-Erfolg
 
 ### Sie müssen nur eine Spende an einen Open-Source-Mitwirkenden leisten.
 
-#### - Wenn Sie weitere Hilfe benötigen, klicken Sie auf die Schaltfläche So erhalten Sie eine Schritt-für-Schritt-Anleitung, wie Sie diesen Erfolg erhalten.
+#### - Wenn Sie weitere Hilfe benötigen, klicken Sie auf die Schaltfläche. So erhalten Sie eine Schritt-für-Schritt-Anleitung, wie Sie diesen Erfolg erhalten.
 
 <div align="center"><a href="assets/steps-de/README.publicsponsor-de.md"><img src="assets/img/btn-de.png" alt=""></a></div>
 
@@ -240,7 +240,7 @@
 <hr>
 <br>
 
-# Abzeichen können nicht mehr verdient werden ❌
+# Abzeichen, die nicht mehr verdient werden können ❌
 
 <br>
 
@@ -253,7 +253,7 @@
 
 ## Mars 2020 Contributor
 
-### Beigesteuerter Code für ein Repository, das in der Hubschraubermission Mars 2020 verwendet wird
+### Beigesteuerter Code für ein Repository, das in der Hubschraubermission Mars 2020 verwendet wurde
 
 <hr>
 
@@ -278,7 +278,7 @@
 
 #### Das Aussehen einiger Erfolge hängt von Ihrer Emoji-Hauttonpräferenz ab.
 
-#### Sie können Ihren bevorzugten Hautton ändern, indem Sie auf gehen [Darstellungseinstellungen](https://github.com/settings/appearance).
+#### Sie können Ihren bevorzugten Hautton ändern, indem Sie auf [Darstellungseinstellungen](https://github.com/settings/appearance) gehen.
 
 <hr>
 
@@ -302,7 +302,7 @@
 
 <br>
 
-#### Weitere Informationen zu GitHub-Badges finden Sie darunter [Verknüpfung](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile).
+#### Weitere Informationen zu GitHub-Badges finden Sie unter [Verknüpfungen](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile).
 
 <!-- </div> -->
 <br>
