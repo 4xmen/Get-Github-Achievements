@@ -57,7 +57,7 @@
 
 # Jinsi ya Kupata Mafanikio ya GitHub
 
-## Utafunzwa moja kwa moja jinsi ya kupata mafanikio ya GitHub katika kozi hii.
+## Utafunzwa moja kwa moja jinsi ya kupata mafanikio ya GitHub kwenye kozi hii.
 
 ### Vidokezo:
 
@@ -71,11 +71,11 @@
 
 # Mafanikio na Onyesho 🏅
 
-#### Mafanikio ni pini ambazo GitHub inatoa kwa akaunti yako ya GitHub kama zawadi kwa shughuli fulani na zinaweza kuonekana kwenye wasifu wako. Mafanikio haya yanatoa athari nzuri kwa akaunti yako ya GitHub na yanaweza kuonyesha kiasi cha shughuli yako na jinsi unavyofanya kazi.
+#### Mafanikio ni mabeji ambayo GitHub inatoa kwa akaunti yako ya GitHub kama zawadi kwa shughuli fulani na yanaweza kuonekana kwenye wasifu wako. Mafanikio haya yanatoa athari nzuri kwa akaunti yako ya GitHub na yanaweza kuonyesha kiasi cha shughuli yako na jinsi unavyofanya kazi.
 
 #### Unaweza kuchagua kutolewa kwa mafanikio yako yanayo onyeshwa kwenye wasifu wako kwa kwenda kwenye [mipangilio ya wasifu](https://github.com/settings).
 
-#### Hapa tunakuonyesha jinsi ya kupata pini ya Mafanikio ya GitHub hatua kwa hatua :)
+#### Hapa tunakuonyesha jinsi ya kupata mabeji ya mafanikio ya GitHub hatua kwa hatua :)
 
 <br>
 
@@ -90,10 +90,10 @@
 </div>
 <hr>
 
-## Jinsi yakupata mafanikio ya Quickdraw
+## Jinsi ya kupata fanikio la Quickdraw
 
-### Quickdraw ni mojawapo ya mafanikio rahisi kupokea. Inahitaji hatua chache tu. Ili kupata mafanikio haya lazima (ufunge suala / ombi la kuvuta ndani ya dakika 5 baada ya ufunguzi)
-#### - Ikiwa unahitaji usaidizi zaidi, bofya kitufe cha `Jinsi ya Kupata` ili kupata mafunzo ya hatua kwa hatua kuhusu jinsi ya kupata mafanikio haya.
+### Quickdraw ni mojawapo ya mafanikio rahisi kupokea. Inahitaji hatua chache tu. Ili kupata fanikio hili lazima (ufunge suala / ombi la kuvuta ndani ya dakika 5 baada ya ufunguzi)
+#### - Ikiwa unahitaji usaidizi zaidi, bofya kitufe cha `Jinsi ya Kupata` ili kupata mafunzo ya hatua kwa hatua kuhusu jinsi ya kupata fanikio hili.
 
 <div align="center"><a href="assets/steps-sw/README.quickdraw-sw.md"><img src="assets/img/btn.png" alt=""></a--></div>
 <hr>
@@ -107,11 +107,11 @@
 </div>
 <hr>
 
-## Jinsi yakupata mafanikio ya Yolo
+## Jinsi ya kupata fanikio la Yolo
 
-### Yolo ni mojawapo ya mafanikio mazuri zaidi ya Github, ambayo yanaweza kutoa athari nzuri sana kwa wasifu wako wa Github. Ili kupata mafanikio haya, unahitaji Kuunganisha ombi la kuvuta bila ukaguzi.
+### Yolo ni mojawapo ya mafanikio mazuri zaidi ya Github, ambayo yanaweza kutoa athari nzuri sana kwa wasifu wako wa Github. Ili kupata fanikio hili, unahitaji kuunganisha ombi la kuvuta bila ukaguzi.
 
-#### - Ikiwa unahitaji usaidizi zaidi, bofya kitufe cha `Jinsi ya Kupata` ili kupata mafunzo ya hatua kwa hatua kuhusu jinsi ya kupata mafanikio haya.
+#### - Ikiwa unahitaji usaidizi zaidi, bofya kitufe cha `Jinsi ya Kupata` ili kupata mafunzo ya hatua kwa hatua kuhusu jinsi ya kupata fanikio hili.
 
 <div align="center"><a href="assets/steps-sw/README.yolo-sw.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
@@ -125,11 +125,11 @@
 </div>
 <hr>
 
-## Jinsi yakupata mafanikio ya Pull Shark
+## Jinsi ya kupata fanikio la Pull Shark
 
-### Kupata pull shark unahitaji kuwa na ombi 2 la kuvuta lililounganishwa, na utapata beji moja ya kuvuta papa.
+### Kupata pull shark unahitaji kuwa na maombi mawili ya kuvuta yaliyounganishwa, na utapata beji moja ya kuvuta papa (Pull Shark).
 
-#### - Ikiwa unahitaji usaidizi zaidi, bofya kitufe cha `Jinsi ya Kupata` ili kupata mafunzo ya hatua kwa hatua kuhusu jinsi ya kupata mafanikio haya.
+#### - Ikiwa unahitaji usaidizi zaidi, bofya kitufe cha `Jinsi ya Kupata` ili kupata mafunzo ya hatua kwa hatua kuhusu jinsi ya kupata fanikio hili.
 
 <div align="center"><a href="assets/steps-sw/README.pull-shark-sw.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
@@ -143,11 +143,11 @@
 </div>
 <hr>
 
-## Jinsi yakupata mafanikio ya Starstruck
+## Jinsi yakupata fanikio la Starstruck
 
-### Ni rahisi sana kupata mafanikio ya Starstruck, una hatua chache tu kupata Starstruck. Unaweza kupata Mafanikio haya wakati repo ya akaunti yako inapofikia nyota 16, hata kama ilihamishwa, utapokea beji.
+### Ni rahisi sana kupata fanikio la Starstruck, una hatua chache tu kupata Starstruck. Unaweza kupata fanikio hili wakati hifadhi ya akaunti yako inapofikia nyota 16, hata kama ilihamishwa, utapokea beji.
 
-#### - Ikiwa unahitaji usaidizi zaidi, bofya kitufe cha `Jinsi ya Kupata` ili kupata mafunzo ya hatua kwa hatua kuhusu jinsi ya kupata mafanikio haya.
+#### - Ikiwa unahitaji usaidizi zaidi, bofya kitufe cha `Jinsi ya Kupata` ili kupata mafunzo ya hatua kwa hatua kuhusu jinsi ya kupata fanikio hili.
 
 <div align="center"><a href="assets/steps-sw/README.starstruck-sw.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
@@ -161,11 +161,11 @@
 </div>
 <hr>
 
-## Jinsi yakupata mafanikio ya Pair Extraordinaire
+## Jinsi yakupata fanikio la Pair Extraordinaire
 
-### Unaweza kupata beji ya pair extraordinaire iwapo umekuwa co-authored kwenye ombi lakuvuta lililo unganishwa.
+### Unaweza kupata beji la pair extraordinaire iwapo umesaidia katika uandishi kwenye ombi lakuvuta lililo unganishwa.
 
-#### - Ikiwa unahitaji usaidizi zaidi, bofya kitufe cha `Jinsi ya Kupata` ili kupata mafunzo ya hatua kwa hatua kuhusu jinsi ya kupata mafanikio haya.
+#### - Ikiwa unahitaji usaidizi zaidi, bofya kitufe cha `Jinsi ya Kupata` ili kupata mafunzo ya hatua kwa hatua kuhusu jinsi ya kupata fanikio hili.
 
 <div align="center"><a href="assets/steps-sw/README.pair-extraordinaire-sw.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
@@ -179,11 +179,11 @@
 </div>
 <hr>
 
-## Jinsi yakupata mafanikio ya Mdhamini wa Umma
+## Jinsi yakupata fanikio la Mdhamini wa Umma
 
 ### Unahitaji tu kutoa mchango kwa mchangiaji wa chanzo huria.
 
-#### - Ikiwa unahitaji usaidizi zaidi, bofya kitufe cha `Jinsi ya Kupata` ili kupata mafunzo ya hatua kwa hatua kuhusu jinsi ya kupata mafanikio haya.
+#### - Ikiwa unahitaji usaidizi zaidi, bofya kitufe cha `Jinsi ya Kupata` ili kupata mafunzo ya hatua kwa hatua kuhusu jinsi ya kupata fanikio hili.
 
 <div align="center"><a href="assets/steps-sw/README.publicsponsor-sw.md"><img src="assets/img/btn.png" alt=""></a></div>
 
@@ -220,7 +220,7 @@
 <hr>
 <br>
 
-# Beji ambazo havipatikani tena ❌
+# Mabeji ambayo hayapatikani tena ❌
 
 <br>
 
@@ -233,7 +233,7 @@
 
 ## Mars 2020 Contributor
 
-### Changia kwenye code unao tumika kwenye repo ya Mars 2020 Helicopter Mission
+### Changia kwenye msimbo unaotumika kwenye hifadhi ya 'Mars 2020 Helicopter Mission'
 
 <hr>
 
@@ -246,7 +246,7 @@
 
 ## Arctic Code Vault Contributor
 
-### CChangia kwenye code unao tumika kwenye repo ya 2020 GitHub Archive Program
+### Changia kwenye msimbo unaotumika kwenye hifadhi ya '2020 GitHub Archive Program'
 
 <hr>
 
@@ -261,7 +261,7 @@
 
 ## Galaxy Brain 2022
 
-### Jubu mjadala(Iwapo una majibu mbili yalio kubaliwa), Kutoka 2020 mpaka 2024
+### Jibu mjadala(Iwapo una majibu mawili yaliyokubaliwa), Kutoka 2020 mpaka 2024
 
 <hr>
 
@@ -271,7 +271,7 @@
 
 #### Mwonekano wa mafanikio mengine hutegemea mapendeleo yako ya rangi ya ngozi za emoji
 
-#### Waweza kubadilisha rangi yako ya Ngozi unayopendelea kwa kwenda kwa: [Mipangilio ya Muonekano](https://github.com/settings/appearance).
+#### Unaweza kubadilisha rangi yako ya ngozi unayopendelea kwa kwenda kwa: [Mipangilio ya Muonekano](https://github.com/settings/appearance).
 
 <hr>
 
@@ -291,10 +291,10 @@
 
 <br>
 
-# Beji Zakuangazia ✨
+# Mabeji ya kuangazia ✨
 <br>
 
-| Beji | Jina | jinsi ya kuifikia |
+| Beji | Jina | jinsi ya kuhitimu |
 | :-: | :-: | :-: |
 | ![pro-black](https://user-images.githubusercontent.com/65187002/173065669-d1fdb5a7-8895-43cc-8dea-72a511a37e86.svg#gh-light-mode-only) ![pro-white](https://user-images.githubusercontent.com/65187002/173065531-57dbf8b1-7eb7-4d46-81bf-f2d18c7c9112.svg#gh-dark-mode-only) | Pro | Tumia [GitHub Pro](https://docs.github.com/en/get-started/learning-about-github/githubs-products#github-pro) |
 | ![developer-program-member-dark](https://user-images.githubusercontent.com/65187002/173079579-3c393d22-7a13-4e7d-87b8-341fb613d52b.svg#gh-dark-mode-only)![developer-program-member-light](https://user-images.githubusercontent.com/65187002/173079614-33f43a97-1cc2-4228-85e3-ef43836e17c2.svg#gh-light-mode-only) | Developer Program Member | Uwe umejisajilisha na [GitHub Developer Program](https://docs.github.com/en/developers/overview/github-developer-program) |
@@ -314,7 +314,7 @@
 
 <br>
 
-#### Unaweza kupata habari zaidi kuhusu Beji za GitHub chini ya hii [link](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile).
+#### Unaweza kupata habari zaidi kuhusu Mabeji ya GitHub chini ya [link](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile) hii.
 
 <!-- </div> -->
 <br>
