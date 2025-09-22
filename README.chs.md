@@ -36,8 +36,10 @@
 [![sw](https://img.shields.io/badge/Lang-Swahili-darkgreen.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.sw.md)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![pt](https://img.shields.io/badge/Lang-Portuguese-blue.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.pt.md)
-
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![bn](https://img.shields.io/badge/Lang-Bengali-black.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.bn.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![vi](https://img.shields.io/badge/Lang-Vietnamese-red.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.vi.md)
 
 </div>
 
@@ -314,6 +316,26 @@
 <hr>
 
 <br>
+
+# 突出显示徽章 ✨
+
+<br>
+
+|                                                                                                                                                          徽章                                                                                                                                                           |            名称            |                                                            如何获得                                                             |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: |
+|                       ![pro-black](https://user-images.githubusercontent.com/65187002/173065669-d1fdb5a7-8895-43cc-8dea-72a511a37e86.svg#gh-light-mode-only) ![pro-white](https://user-images.githubusercontent.com/65187002/173065531-57dbf8b1-7eb7-4d46-81bf-f2d18c7c9112.svg#gh-dark-mode-only)                       |            Pro             |            使用 [GitHub Pro](https://docs.github.com/en/get-started/learning-about-github/githubs-products#github-pro)             |
+|   ![developer-program-member-dark](https://user-images.githubusercontent.com/65187002/173079579-3c393d22-7a13-4e7d-87b8-341fb613d52b.svg#gh-dark-mode-only)![developer-program-member-light](https://user-images.githubusercontent.com/65187002/173079614-33f43a97-1cc2-4228-85e3-ef43836e17c2.svg#gh-light-mode-only)   |  Developer Program Member  | 成为 [GitHub Developer Program](https://docs.github.com/en/developers/overview/github-developer-program) 的注册成员 |
+| ![security-bug-bounty-hunter-dark](https://user-images.githubusercontent.com/65187002/173081624-93e3cf1f-50b7-45a4-82b7-1954f66368b9.svg#gh-dark-mode-only)![security-bug-bounty-hunter-light](https://user-images.githubusercontent.com/65187002/173081657-e500d72c-9247-44c2-a3d3-2deff30e1ae7.svg#gh-light-mode-only) | Security Bug Bounty Hunter |                 帮助在 [GitHub Security](https://bounty.github.com/) 寻找安全漏洞                 |
+|       ![github-campus-expert-dark](https://user-images.githubusercontent.com/65187002/173082819-b3625c23-bfd6-4492-b828-56ed91c45f52.svg#gh-dark-mode-only)![github-campus-expert-light](https://user-images.githubusercontent.com/65187002/173082836-08be81fe-13b7-4acf-9096-e5241d76f237.svg#gh-light-mode-only)       |    GitHub Campus Expert    |                         参与 [GitHub Campus Program](https://education.github.com/experts)                          |
+|   ![security-advisory-credit-dark](https://user-images.githubusercontent.com/65187002/173084051-79a0a626-1c1a-4d60-afdf-50ad001d7b21.svg#gh-dark-mode-only)![security-advisory-credit-light](https://user-images.githubusercontent.com/65187002/173084071-5f321da2-b2a9-490b-a524-1b21fa384d7e.svg#gh-light-mode-only)   |  Security advisory credit  |          将您的安全建议提交到 [GitHub Advisory Database](https://github.com/advisories) 并被接受          |
+
+# 保持公平并遵守规则至关重要 🏁
+
+<br>
+
+#### 这个仓库仅用于教您如何获得 GitHub 成就。请尊重 GitHub 的规则和社区准则。尝试在 GitHub 社区中保持活跃，避免仅为获得 GitHub 成就而参与我们的项目。这违背了我们的意愿和 GitHub 的规则。请遵循这些规则，努力公平地为 GitHub 和项目做出贡献，共同在 GitHub 上建立更好的社区。
+
+#### 请使用本指南学习如何获得成就，在学会如何获得 GitHub 成就后请尊重我们的条款。尝试参与项目并努力公平地赢得这些成就，以在 <a href="https://docs.github.com/en/site-policy/github-terms/github-terms-of-service">GitHub</a> 上建立更健康、更公平的社区。
 
 # 更多信息 ℹ
 

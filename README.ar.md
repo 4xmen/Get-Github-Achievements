@@ -35,7 +35,10 @@
 [![sw](https://img.shields.io/badge/Lang-Swahili-darkgreen.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.sw.md)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![pt](https://img.shields.io/badge/Lang-Portuguese-blue.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.pt.md)
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![bn](https://img.shields.io/badge/Lang-Bengali-black.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.bn.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![vi](https://img.shields.io/badge/Lang-Vietnamese-red.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.vi.md)
 
 </div>
 
@@ -299,78 +302,25 @@
 
 <br>
 
-# معلومات إضافية ℹ
+# شارات المميزة ✨
 
 <br>
 
-#### يمكنك العثور على مزيد من المعلومات حول شارات GitHub تحت هذا [الرابط](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile).
+|                                                                                                                                                          الشارة                                                                                                                                                           |            الاسم            |                                                            كيفية الحصول عليها                                                             |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: |
+|                       ![pro-black](https://user-images.githubusercontent.com/65187002/173065669-d1fdb5a7-8895-43cc-8dea-72a511a37e86.svg#gh-light-mode-only) ![pro-white](https://user-images.githubusercontent.com/65187002/173065531-57dbf8b1-7eb7-4d46-81bf-f2d18c7c9112.svg#gh-dark-mode-only)                       |            Pro             |            استخدم [GitHub Pro](https://docs.github.com/en/get-started/learning-about-github/githubs-products#github-pro)             |
+|   ![developer-program-member-dark](https://user-images.githubusercontent.com/65187002/173079579-3c393d22-7a13-4e7d-87b8-341fb613d52b.svg#gh-dark-mode-only)![developer-program-member-light](https://user-images.githubusercontent.com/65187002/173079614-33f43a97-1cc2-4228-85e3-ef43836e17c2.svg#gh-light-mode-only)   |  Developer Program Member  | كن عضواً مسجلاً في [GitHub Developer Program](https://docs.github.com/en/developers/overview/github-developer-program) |
+| ![security-bug-bounty-hunter-dark](https://user-images.githubusercontent.com/65187002/173081624-93e3cf1f-50b7-45a4-82b7-1954f66368b9.svg#gh-dark-mode-only)![security-bug-bounty-hunter-light](https://user-images.githubusercontent.com/65187002/173081657-e500d72c-9247-44c2-a3d3-2deff30e1ae7.svg#gh-light-mode-only) | Security Bug Bounty Hunter |                 ساعد في اصطياد الثغرات الأمنية في [GitHub Security](https://bounty.github.com/)                 |
+|       ![github-campus-expert-dark](https://user-images.githubusercontent.com/65187002/173082819-b3625c23-bfd6-4492-b828-56ed91c45f52.svg#gh-dark-mode-only)![github-campus-expert-light](https://user-images.githubusercontent.com/65187002/173082836-08be81fe-13b7-4acf-9096-e5241d76f237.svg#gh-light-mode-only)       |    GitHub Campus Expert    |                         شارك في [GitHub Campus Program](https://education.github.com/experts)                          |
+|   ![security-advisory-credit-dark](https://user-images.githubusercontent.com/65187002/173084051-79a0a626-1c1a-4d60-afdf-50ad001d7b21.svg#gh-dark-mode-only)![security-advisory-credit-light](https://user-images.githubusercontent.com/65187002/173084071-5f321da2-b2a9-490b-a524-1b21fa384d7e.svg#gh-light-mode-only)   |  Security advisory credit  |          اجعل استشارتك الأمنية مقبولة في [GitHub Advisory Database](https://github.com/advisories)          |
 
-<!-- </div> -->
-<br>
-## البرمجي المفتوح
-
-### تم اختبار شارات الإنجاز 'البرمجي المفتوح' وذلك بعد الإصدار الرسمي. سيتم توفير دورة تعليمية خطوة بخطوة لاستلامها.
-
-<hr>
-<br>
-
-# شارات لا يمكن كسبها بعد الآن ❌
+# الحفاظ على العدالة والالتزام بالقواعد أمر ضروري 🏁
 
 <br>
 
-<div align="center"  >
-<a href="https://github.com/readme/featured/nasa-ingenuity-helicopter">
-<img width="296" src="assets/badges/Mars-2020-Contributor.png" alt="مساهم Mars 2020">
-</a>
-</div>
-<hr>
+#### هذا المستودع مخصص فقط لتعليمك كيفية الحصول على إنجازات GitHub. يرجى احترام قواعد GitHub وإرشادات المجتمع. حاول أن تكون نشطاً في مجتمع GitHub وتجنب المشاركة في مشروعنا فقط للحصول على إنجازات GitHub. هذا يتعارض مع رغباتنا وقواعد GitHub. يرجى اتباع هذه القواعد والسعي للمساهمة بعدالة في GitHub والمشاريع لبناء مجتمع أفضل على GitHub معاً.
 
-## مساهم Mars 2020
-
-### ساهمت بالشفرة في مستودع تم استخدامه في مهمة مروحية مارس 2020
-
-<hr>
-
-<div align="center"  >
-<a href="https://archiveprogram.github.com/">
-<img width="296" src="assets/badges/Arctic-Code-Vault-Contributor.png" alt="مساهم Arctic Code Vault">
-</a>
-</div>
-<hr>
-
-## مساهم Arctic Code Vault
-
-### ساهمت بالشفرة في مستودع في برنامج أرشيف GitHub لعام 2020
-
-<hr>
-
-<br>
-
-# إنجاز لون البشرة 👋
-
-<br>
-
-#### بعض ظهور الإنجازات يعتمد على تفضيل لون البشرة الخاص بك في الرموز التعبيرية.
-
-#### يمكنك تغيير تفضيل لون البشرة الخاص بك من خلال الذهاب إلى [إعدادات الظهور](https://github.com/settings/appearance).
-
-<hr>
-
-<div align="center">
-<img src="assets/badges/Starstruck.png" width="150" alt="">
-<h4>نسخ من البشرة Starstruck</h4>
-<img src="assets/badges/starstuck-skins.png" alt="">
-</div>
-
-<div align="center">
-<img src="assets/badges/Quickdraw.png" width="150" alt="">
-<h4>نسخ من البشرة Quikdraw</h4>
-<img src="assets/badges/quickdraw-skin.png" alt="">
-</div>
-
-<hr>
-
-<br>
+#### يرجى استخدام هذا الدليل لتعلم كيفية الحصول على الإنجازات واحترام شروطنا بعد تعلم كيفية الحصول على إنجازات GitHub. حاول المشاركة في المشاريع واسع لكسب هذه الإنجازات بعدالة لبناء مجتمع أكثر صحة وعدالة على <a href="https://docs.github.com/en/site-policy/github-terms/github-terms-of-service">GitHub</a>.
 
 # معلومات إضافية ℹ
 
@@ -382,7 +332,5 @@
 <br>
 
 ####
-
-####          
 
 

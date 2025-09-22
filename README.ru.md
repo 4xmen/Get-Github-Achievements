@@ -35,6 +35,10 @@
 [![sw](https://img.shields.io/badge/Lang-Swahili-darkgreen.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.sw.md)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![pt](https://img.shields.io/badge/Lang-Portuguese-blue.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.pt.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![bn](https://img.shields.io/badge/Lang-Bengali-black.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.bn.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![vi](https://img.shields.io/badge/Lang-Vietnamese-red.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.vi.md)
 
 </div>
 

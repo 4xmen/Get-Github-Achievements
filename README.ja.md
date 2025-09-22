@@ -35,7 +35,10 @@
 [![sw](https://img.shields.io/badge/Lang-Swahili-darkgreen.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.sw.md)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![pt](https://img.shields.io/badge/Lang-Portuguese-blue.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.pt.md)
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![bn](https://img.shields.io/badge/Lang-Bengali-black.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.bn.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![vi](https://img.shields.io/badge/Lang-Vietnamese-red.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.vi.md)
 
 </div>
 
@@ -309,6 +312,14 @@
 | ![security-bug-bounty-hunter-dark](https://user-images.githubusercontent.com/65187002/173081624-93e3cf1f-50b7-45a4-82b7-1954f66368b9.svg#gh-dark-mode-only)![security-bug-bounty-hunter-light](https://user-images.githubusercontent.com/65187002/173081657-e500d72c-9247-44c2-a3d3-2deff30e1ae7.svg#gh-light-mode-only) | Security Bug Bounty Hunter | [GitHub Security](https://bounty.github.com/) でセキュリティ脆弱性の調査を手伝った |
 | ![github-campus-expert-dark](https://user-images.githubusercontent.com/65187002/173082819-b3625c23-bfd6-4492-b828-56ed91c45f52.svg#gh-dark-mode-only)![github-campus-expert-light](https://user-images.githubusercontent.com/65187002/173082836-08be81fe-13b7-4acf-9096-e5241d76f237.svg#gh-light-mode-only) | GitHub Campus Expert | [GitHub Campus Program](https://education.github.com/experts) に参加する |
 | ![security-advisory-credit-dark](https://user-images.githubusercontent.com/65187002/173084051-79a0a626-1c1a-4d60-afdf-50ad001d7b21.svg#gh-dark-mode-only)![security-advisory-credit-light](https://user-images.githubusercontent.com/65187002/173084071-5f321da2-b2a9-490b-a524-1b21fa384d7e.svg#gh-light-mode-only) | Security advisory credit | [GitHub Advisory Database](https://github.com/advisories) に提出したセキュリティアドバイザリを承認してもらう |
+
+# 公平性の維持とルールの遵守が重要 🏁
+
+<br>
+
+#### このリポジトリは、GitHub の実績を取得する方法を教えることのみを目的としています。GitHub のルールとコミュニティガイドラインを尊重してください。GitHub コミュニティで積極的に活動し、GitHub の実績を得るためだけに私たちのプロジェクトに参加することは避けてください。これは私たちの願いと GitHub のルールに反します。これらのルールに従い、GitHub とプロジェクトに公平に貢献し、GitHub でより良いコミュニティを一緒に構築するよう努めてください。
+
+#### このガイドを使用して実績の取得方法を学び、GitHub の実績の取得方法を学んだ後は私たちの条件を尊重してください。プロジェクトに参加し、これらの実績を公平に獲得するよう努力して、<a href="https://docs.github.com/en/site-policy/github-terms/github-terms-of-service">GitHub</a> でより健全で公平なコミュニティを構築してください。
 
 # 詳細情報 ℹ
 

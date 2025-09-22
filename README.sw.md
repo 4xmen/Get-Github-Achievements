@@ -35,6 +35,10 @@
 [![sw](https://img.shields.io/badge/Lang-Swahili-darkgreen.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.sw.md)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![pt](https://img.shields.io/badge/Lang-Portuguese-blue.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.pt.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![bn](https://img.shields.io/badge/Lang-Bengali-black.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.bn.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![vi](https://img.shields.io/badge/Lang-Vietnamese-red.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.vi.md)
 
 </div>
 
@@ -95,7 +99,7 @@
 ### Quickdraw ni mojawapo ya mafanikio rahisi kupokea. Inahitaji hatua chache tu. Ili kupata fanikio hili lazima (ufunge suala / ombi la kuvuta ndani ya dakika 5 baada ya ufunguzi)
 #### - Ikiwa unahitaji usaidizi zaidi, bofya kitufe cha `Jinsi ya Kupata` ili kupata mafunzo ya hatua kwa hatua kuhusu jinsi ya kupata fanikio hili.
 
-<div align="center"><a href="assets/steps-sw/README.quickdraw-sw.md"><img src="assets/img/btn.png" alt=""></a--></div>
+<div align="center"><a href="assets/steps-sw/README.quickdraw-sw.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
 
 <br>
@@ -292,23 +296,24 @@
 <br>
 
 # Mabeji ya kuangazia ✨
+
 <br>
 
-| Beji | Jina | jinsi ya kuhitimu |
-| :-: | :-: | :-: |
-| ![pro-black](https://user-images.githubusercontent.com/65187002/173065669-d1fdb5a7-8895-43cc-8dea-72a511a37e86.svg#gh-light-mode-only) ![pro-white](https://user-images.githubusercontent.com/65187002/173065531-57dbf8b1-7eb7-4d46-81bf-f2d18c7c9112.svg#gh-dark-mode-only) | Pro | Tumia [GitHub Pro](https://docs.github.com/en/get-started/learning-about-github/githubs-products#github-pro) |
-| ![developer-program-member-dark](https://user-images.githubusercontent.com/65187002/173079579-3c393d22-7a13-4e7d-87b8-341fb613d52b.svg#gh-dark-mode-only)![developer-program-member-light](https://user-images.githubusercontent.com/65187002/173079614-33f43a97-1cc2-4228-85e3-ef43836e17c2.svg#gh-light-mode-only) | Developer Program Member | Uwe umejisajilisha na [GitHub Developer Program](https://docs.github.com/en/developers/overview/github-developer-program) |
-| ![security-bug-bounty-hunter-dark](https://user-images.githubusercontent.com/65187002/173081624-93e3cf1f-50b7-45a4-82b7-1954f66368b9.svg#gh-dark-mode-only)![security-bug-bounty-hunter-light](https://user-images.githubusercontent.com/65187002/173081657-e500d72c-9247-44c2-a3d3-2deff30e1ae7.svg#gh-light-mode-only) | Security Bug Bounty Hunter | Saidiana kuwinda kasoro za usalama kwenye [GitHub Security](https://bounty.github.com/) |
-| ![github-campus-expert-dark](https://user-images.githubusercontent.com/65187002/173082819-b3625c23-bfd6-4492-b828-56ed91c45f52.svg#gh-dark-mode-only)![github-campus-expert-light](https://user-images.githubusercontent.com/65187002/173082836-08be81fe-13b7-4acf-9096-e5241d76f237.svg#gh-light-mode-only) | GitHub Campus Expert | Iwapo umehusika kwenye [GitHub Campus Program](https://education.github.com/experts) |
-| ![security-advisory-credit-dark](https://user-images.githubusercontent.com/65187002/173084051-79a0a626-1c1a-4d60-afdf-50ad001d7b21.svg#gh-dark-mode-only)![security-advisory-credit-light](https://user-images.githubusercontent.com/65187002/173084071-5f321da2-b2a9-490b-a524-1b21fa384d7e.svg#gh-light-mode-only) | Security advisory credit | Wasilisha mawaidha yako ya usalama kwa [GitHub Advisory Database](https://github.com/advisories) nakukubaliwa |
+|                                                                                                                                                          Beji                                                                                                                                                           |            Jina            |                                                            Jinsi ya kuhitimu                                                             |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: |
+|                       ![pro-black](https://user-images.githubusercontent.com/65187002/173065669-d1fdb5a7-8895-43cc-8dea-72a511a37e86.svg#gh-light-mode-only) ![pro-white](https://user-images.githubusercontent.com/65187002/173065531-57dbf8b1-7eb7-4d46-81bf-f2d18c7c9112.svg#gh-dark-mode-only)                       |            Pro             |            Tumia [GitHub Pro](https://docs.github.com/en/get-started/learning-about-github/githubs-products#github-pro)             |
+|   ![developer-program-member-dark](https://user-images.githubusercontent.com/65187002/173079579-3c393d22-7a13-4e7d-87b8-341fb613d52b.svg#gh-dark-mode-only)![developer-program-member-light](https://user-images.githubusercontent.com/65187002/173079614-33f43a97-1cc2-4228-85e3-ef43836e17c2.svg#gh-light-mode-only)   |  Developer Program Member  | Uwe umejisajilisha na [GitHub Developer Program](https://docs.github.com/en/developers/overview/github-developer-program) |
+| ![security-bug-bounty-hunter-dark](https://user-images.githubusercontent.com/65187002/173081624-93e3cf1f-50b7-45a4-82b7-1954f66368b9.svg#gh-dark-mode-only)![security-bug-bounty-hunter-light](https://user-images.githubusercontent.com/65187002/173081657-e500d72c-9247-44c2-a3d3-2deff30e1ae7.svg#gh-light-mode-only) | Security Bug Bounty Hunter |                 Saidiana kuwinda kasoro za usalama kwenye [GitHub Security](https://bounty.github.com/)                 |
+|       ![github-campus-expert-dark](https://user-images.githubusercontent.com/65187002/173082819-b3625c23-bfd6-4492-b828-56ed91c45f52.svg#gh-dark-mode-only)![github-campus-expert-light](https://user-images.githubusercontent.com/65187002/173082836-08be81fe-13b7-4acf-9096-e5241d76f237.svg#gh-light-mode-only)       |    GitHub Campus Expert    |                         Iwapo umehusika kwenye [GitHub Campus Program](https://education.github.com/experts)                          |
+|   ![security-advisory-credit-dark](https://user-images.githubusercontent.com/65187002/173084051-79a0a626-1c1a-4d60-afdf-50ad001d7b21.svg#gh-dark-mode-only)![security-advisory-credit-light](https://user-images.githubusercontent.com/65187002/173084071-5f321da2-b2a9-490b-a524-1b21fa384d7e.svg#gh-light-mode-only)   |  Security advisory credit  |          Wasilisha mawaidha yako ya usalama kwa [GitHub Advisory Database](https://github.com/advisories) nakukubaliwa          |
 
 # Kudumisha haki na kuzingatia sheria ni muhimu 🏁
 
-<be>
+<br>
 
-#### Hifadhi hii ililenga kukufundisha jinsi ya kupata mafanikio ya GitHub. Tafadhali heshimu sheria za GitHub na miongozo ya jumuiya. Jaribu kuwa muungwana katika jumuiya ya GitHub na uepuke kushiriki katika mradi wetu ili tu kupata mafanikio ya GitHub.. Hii ni kinyume na matakwa yetu na sheria za GitHub. Tafadhali fuata sheria hizi na ujitahidi kuchangia kwa haki kwa GitHub na miradi ili kujenga jumuiya bora kwenye GitHub pamoja.
+#### Hifadhi hii ililenga kukufundisha jinsi ya kupata mafanikio ya GitHub. Tafadhali heshimu sheria za GitHub na miongozo ya jumuiya. Jaribu kuwa muungwana katika jumuiya ya GitHub na uepuke kushiriki katika mradi wetu ili tu kupata mafanikio ya GitHub. Hii ni kinyume na matakwa yetu na sheria za GitHub. Tafadhali fuata sheria hizi na ujitahidi kuchangia kwa haki kwa GitHub na miradi ili kujenga jumuiya bora kwenye GitHub pamoja.
 
-#### Tafadhali tumia mwongozo huu kujifunza jinsi ya kupata mafanikio na kuheshimu masharti yetu baada ya kujifunza jinsi ya kupata mafanikio ya GitHub, Jaribu kushiriki katika miradi na ujitahidi kupata mafanikio haya kwa haki ili kujenga jamii yenye afya na usawa zaidi kwenye <a href="https://docs.github.com/en/site-policy/github-terms/github-terms-of-service">GitHub</a>.
+#### Tafadhali tumia mwongozo huu kujifunza jinsi ya kupata mafanikio na kuheshimu masharti yetu baada ya kujifunza jinsi ya kupata mafanikio ya GitHub. Jaribu kushiriki katika miradi na ujitahidi kupata mafanikio haya kwa haki ili kujenga jamii yenye afya na usawa zaidi kwenye <a href="https://docs.github.com/en/site-policy/github-terms/github-terms-of-service">GitHub</a>.
 
 # Maelezo zaidi
 
