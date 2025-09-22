@@ -4,37 +4,11 @@
 
 <div align="center">
 
-[![en](https://img.shields.io/badge/Lang-English-blue.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.md)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![ar](https://img.shields.io/badge/Lang-Arabic-black.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.ar.md)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![fa](https://img.shields.io/badge/Lang-Persian-green.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.fa.md)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![de](https://img.shields.io/badge/Lang-Deutsch-yellow.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.de.md)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![fr](https://img.shields.io/badge/Lang-French-orange.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.fr.md)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![ru](https://img.shields.io/badge/Lang-Russian-orange.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.ru.md)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![tr](https://img.shields.io/badge/Lang-Turkish-red.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.tr.md)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![nl](https://img.shields.io/badge/Lang-Dutch-green.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.nl.md)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![cn](https://img.shields.io/badge/Lang-Chinese-blue?color=%23FF0000)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.chs.md)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![es](https://img.shields.io/badge/Lang-Spanish-green.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.es.md)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![id](https://img.shields.io/badge/Lang-Indonesian-purple.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.id.md)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![hin](https://img.shields.io/badge/Lang-Hindi-orange.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.hin.md)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![ja](https://img.shields.io/badge/Lang-Japanese-white.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.ja.md)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![am](https://img.shields.io/badge/Lang-Armenia-crimson.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.am.md)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![sw](https://img.shields.io/badge/Lang-Swahili-darkgreen.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.sw.md)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![pt](https://img.shields.io/badge/Lang-Portuguese-blue.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.pt.md)
+|                                                                                                                                        |                                                                                                                                         |                                                                                                                                                   |                                                                                                                                           |                                                                                                                                           |                                                                                                                                          |
+|:--------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------:|
+|  [![en](https://img.shields.io/badge/Lang-English-blue.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.md)   | [![fa](https://img.shields.io/badge/Lang-Persian-green.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.fa.md) |      [![ar](https://img.shields.io/badge/Lang-Arabic-black.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.ar.md)       | [![de](https://img.shields.io/badge/Lang-Deutsch-yellow.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.de.md)  |  [![fr](https://img.shields.io/badge/Lang-French-orange.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.fr.md)  | [![ru](https://img.shields.io/badge/Lang-Russian-orange.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.ru.md) |
+|  [![tr](https://img.shields.io/badge/Lang-Turkish-red.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.tr.md)   |   [![nl](https://img.shields.io/badge/Lang-Dutch-green.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.nl.md)   | [![cn](https://img.shields.io/badge/Lang-Chinese-blue?color=%23FF0000)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.chs.md) |   [![es](https://img.shields.io/badge/Lang-Spanish-green.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.es.md)   | [![id](https://img.shields.io/badge/Lang-Indonesian-purple.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.id.md) |  [![hin](https://img.shields.io/badge/Lang-Hindi-orange.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.hin.md)  |
+| [![ja](https://img.shields.io/badge/Lang-Japanese-white.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.ja.md) | [![am](https://img.shields.io/badge/Lang-Armenia-crimson.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.am.md) |     [![sw](https://img.shields.io/badge/Lang-Swahili-darkgreen.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.sw.md)     | [![pt](https://img.shields.io/badge/Lang-Portuguese-blue.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.pt.md) |  [![bn](https://img.shields.io/badge/Lang-Bengali-black.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.bn.md)  | [![vi](https://img.shields.io/badge/Lang-Vietnamese-red.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.vi.md) |
 
 </div>
 
@@ -93,9 +67,11 @@
 ## Jinsi ya kupata fanikio la Quickdraw
 
 ### Quickdraw ni mojawapo ya mafanikio rahisi kupokea. Inahitaji hatua chache tu. Ili kupata fanikio hili lazima (ufunge suala / ombi la kuvuta ndani ya dakika 5 baada ya ufunguzi)
-#### - Ikiwa unahitaji usaidizi zaidi, bofya kitufe cha `Jinsi ya Kupata` ili kupata mafunzo ya hatua kwa hatua kuhusu jinsi ya kupata fanikio hili.
 
-<div align="center"><a href="assets/steps-sw/README.quickdraw-sw.md"><img src="assets/img/btn.png" alt=""></a--></div>
+#### - Ikiwa unahitaji usaidizi zaidi, bofya kitufe cha
+`Jinsi ya Kupata` ili kupata mafunzo ya hatua kwa hatua kuhusu jinsi ya kupata fanikio hili.
+
+<div align="center"><a href="assets/steps-sw/README.quickdraw-sw.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
 
 <br>
@@ -111,7 +87,8 @@
 
 ### Yolo ni mojawapo ya mafanikio mazuri zaidi ya Github, ambayo yanaweza kutoa athari nzuri sana kwa wasifu wako wa Github. Ili kupata fanikio hili, unahitaji kuunganisha ombi la kuvuta bila ukaguzi.
 
-#### - Ikiwa unahitaji usaidizi zaidi, bofya kitufe cha `Jinsi ya Kupata` ili kupata mafunzo ya hatua kwa hatua kuhusu jinsi ya kupata fanikio hili.
+#### - Ikiwa unahitaji usaidizi zaidi, bofya kitufe cha
+`Jinsi ya Kupata` ili kupata mafunzo ya hatua kwa hatua kuhusu jinsi ya kupata fanikio hili.
 
 <div align="center"><a href="assets/steps-sw/README.yolo-sw.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
@@ -129,7 +106,8 @@
 
 ### Kupata pull shark unahitaji kuwa na maombi mawili ya kuvuta yaliyounganishwa, na utapata beji moja ya kuvuta papa (Pull Shark).
 
-#### - Ikiwa unahitaji usaidizi zaidi, bofya kitufe cha `Jinsi ya Kupata` ili kupata mafunzo ya hatua kwa hatua kuhusu jinsi ya kupata fanikio hili.
+#### - Ikiwa unahitaji usaidizi zaidi, bofya kitufe cha
+`Jinsi ya Kupata` ili kupata mafunzo ya hatua kwa hatua kuhusu jinsi ya kupata fanikio hili.
 
 <div align="center"><a href="assets/steps-sw/README.pull-shark-sw.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
@@ -147,7 +125,8 @@
 
 ### Ni rahisi sana kupata fanikio la Starstruck, una hatua chache tu kupata Starstruck. Unaweza kupata fanikio hili wakati hifadhi ya akaunti yako inapofikia nyota 16, hata kama ilihamishwa, utapokea beji.
 
-#### - Ikiwa unahitaji usaidizi zaidi, bofya kitufe cha `Jinsi ya Kupata` ili kupata mafunzo ya hatua kwa hatua kuhusu jinsi ya kupata fanikio hili.
+#### - Ikiwa unahitaji usaidizi zaidi, bofya kitufe cha
+`Jinsi ya Kupata` ili kupata mafunzo ya hatua kwa hatua kuhusu jinsi ya kupata fanikio hili.
 
 <div align="center"><a href="assets/steps-sw/README.starstruck-sw.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
@@ -165,7 +144,8 @@
 
 ### Unaweza kupata beji la pair extraordinaire iwapo umesaidia katika uandishi kwenye ombi lakuvuta lililo unganishwa.
 
-#### - Ikiwa unahitaji usaidizi zaidi, bofya kitufe cha `Jinsi ya Kupata` ili kupata mafunzo ya hatua kwa hatua kuhusu jinsi ya kupata fanikio hili.
+#### - Ikiwa unahitaji usaidizi zaidi, bofya kitufe cha
+`Jinsi ya Kupata` ili kupata mafunzo ya hatua kwa hatua kuhusu jinsi ya kupata fanikio hili.
 
 <div align="center"><a href="assets/steps-sw/README.pair-extraordinaire-sw.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
@@ -183,7 +163,8 @@
 
 ### Unahitaji tu kutoa mchango kwa mchangiaji wa chanzo huria.
 
-#### - Ikiwa unahitaji usaidizi zaidi, bofya kitufe cha `Jinsi ya Kupata` ili kupata mafunzo ya hatua kwa hatua kuhusu jinsi ya kupata fanikio hili.
+#### - Ikiwa unahitaji usaidizi zaidi, bofya kitufe cha
+`Jinsi ya Kupata` ili kupata mafunzo ya hatua kwa hatua kuhusu jinsi ya kupata fanikio hili.
 
 <div align="center"><a href="assets/steps-sw/README.publicsponsor-sw.md"><img src="assets/img/btn.png" alt=""></a></div>
 
@@ -217,6 +198,7 @@
 ## Open Sourcerer
 
 ### Beji la 'Open Sourcerer' bado iko kwenye majaribio, Baada ya kutolewa rasmi. Mafunzo ya hatua kwa hatua yatatolewa ili kuipokea.
+
 <hr>
 <br>
 
@@ -292,23 +274,24 @@
 <br>
 
 # Mabeji ya kuangazia ✨
+
 <br>
 
-| Beji | Jina | jinsi ya kuhitimu |
-| :-: | :-: | :-: |
-| ![pro-black](https://user-images.githubusercontent.com/65187002/173065669-d1fdb5a7-8895-43cc-8dea-72a511a37e86.svg#gh-light-mode-only) ![pro-white](https://user-images.githubusercontent.com/65187002/173065531-57dbf8b1-7eb7-4d46-81bf-f2d18c7c9112.svg#gh-dark-mode-only) | Pro | Tumia [GitHub Pro](https://docs.github.com/en/get-started/learning-about-github/githubs-products#github-pro) |
-| ![developer-program-member-dark](https://user-images.githubusercontent.com/65187002/173079579-3c393d22-7a13-4e7d-87b8-341fb613d52b.svg#gh-dark-mode-only)![developer-program-member-light](https://user-images.githubusercontent.com/65187002/173079614-33f43a97-1cc2-4228-85e3-ef43836e17c2.svg#gh-light-mode-only) | Developer Program Member | Uwe umejisajilisha na [GitHub Developer Program](https://docs.github.com/en/developers/overview/github-developer-program) |
-| ![security-bug-bounty-hunter-dark](https://user-images.githubusercontent.com/65187002/173081624-93e3cf1f-50b7-45a4-82b7-1954f66368b9.svg#gh-dark-mode-only)![security-bug-bounty-hunter-light](https://user-images.githubusercontent.com/65187002/173081657-e500d72c-9247-44c2-a3d3-2deff30e1ae7.svg#gh-light-mode-only) | Security Bug Bounty Hunter | Saidiana kuwinda kasoro za usalama kwenye [GitHub Security](https://bounty.github.com/) |
-| ![github-campus-expert-dark](https://user-images.githubusercontent.com/65187002/173082819-b3625c23-bfd6-4492-b828-56ed91c45f52.svg#gh-dark-mode-only)![github-campus-expert-light](https://user-images.githubusercontent.com/65187002/173082836-08be81fe-13b7-4acf-9096-e5241d76f237.svg#gh-light-mode-only) | GitHub Campus Expert | Iwapo umehusika kwenye [GitHub Campus Program](https://education.github.com/experts) |
-| ![security-advisory-credit-dark](https://user-images.githubusercontent.com/65187002/173084051-79a0a626-1c1a-4d60-afdf-50ad001d7b21.svg#gh-dark-mode-only)![security-advisory-credit-light](https://user-images.githubusercontent.com/65187002/173084071-5f321da2-b2a9-490b-a524-1b21fa384d7e.svg#gh-light-mode-only) | Security advisory credit | Wasilisha mawaidha yako ya usalama kwa [GitHub Advisory Database](https://github.com/advisories) nakukubaliwa |
+|                                                                                                                                                           Beji                                                                                                                                                           |            Jina            |                                                     Jinsi ya kuhitimu                                                     |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------:|:-------------------------------------------------------------------------------------------------------------------------:|
+|                       ![pro-black](https://user-images.githubusercontent.com/65187002/173065669-d1fdb5a7-8895-43cc-8dea-72a511a37e86.svg#gh-light-mode-only) ![pro-white](https://user-images.githubusercontent.com/65187002/173065531-57dbf8b1-7eb7-4d46-81bf-f2d18c7c9112.svg#gh-dark-mode-only)                       |            Pro             |       Tumia [GitHub Pro](https://docs.github.com/en/get-started/learning-about-github/githubs-products#github-pro)        |
+|   ![developer-program-member-dark](https://user-images.githubusercontent.com/65187002/173079579-3c393d22-7a13-4e7d-87b8-341fb613d52b.svg#gh-dark-mode-only)![developer-program-member-light](https://user-images.githubusercontent.com/65187002/173079614-33f43a97-1cc2-4228-85e3-ef43836e17c2.svg#gh-light-mode-only)   |  Developer Program Member  | Uwe umejisajilisha na [GitHub Developer Program](https://docs.github.com/en/developers/overview/github-developer-program) |
+| ![security-bug-bounty-hunter-dark](https://user-images.githubusercontent.com/65187002/173081624-93e3cf1f-50b7-45a4-82b7-1954f66368b9.svg#gh-dark-mode-only)![security-bug-bounty-hunter-light](https://user-images.githubusercontent.com/65187002/173081657-e500d72c-9247-44c2-a3d3-2deff30e1ae7.svg#gh-light-mode-only) | Security Bug Bounty Hunter |                  Saidiana kuwinda kasoro za usalama kwenye [GitHub Security](https://bounty.github.com/)                  |
+|       ![github-campus-expert-dark](https://user-images.githubusercontent.com/65187002/173082819-b3625c23-bfd6-4492-b828-56ed91c45f52.svg#gh-dark-mode-only)![github-campus-expert-light](https://user-images.githubusercontent.com/65187002/173082836-08be81fe-13b7-4acf-9096-e5241d76f237.svg#gh-light-mode-only)       |    GitHub Campus Expert    |                   Iwapo umehusika kwenye [GitHub Campus Program](https://education.github.com/experts)                    |
+|   ![security-advisory-credit-dark](https://user-images.githubusercontent.com/65187002/173084051-79a0a626-1c1a-4d60-afdf-50ad001d7b21.svg#gh-dark-mode-only)![security-advisory-credit-light](https://user-images.githubusercontent.com/65187002/173084071-5f321da2-b2a9-490b-a524-1b21fa384d7e.svg#gh-light-mode-only)   |  Security advisory credit  |       Wasilisha mawaidha yako ya usalama kwa [GitHub Advisory Database](https://github.com/advisories) nakukubaliwa       |
 
 # Kudumisha haki na kuzingatia sheria ni muhimu 🏁
 
-<be>
+<br>
 
-#### Hifadhi hii ililenga kukufundisha jinsi ya kupata mafanikio ya GitHub. Tafadhali heshimu sheria za GitHub na miongozo ya jumuiya. Jaribu kuwa muungwana katika jumuiya ya GitHub na uepuke kushiriki katika mradi wetu ili tu kupata mafanikio ya GitHub.. Hii ni kinyume na matakwa yetu na sheria za GitHub. Tafadhali fuata sheria hizi na ujitahidi kuchangia kwa haki kwa GitHub na miradi ili kujenga jumuiya bora kwenye GitHub pamoja.
+#### Hifadhi hii ililenga kukufundisha jinsi ya kupata mafanikio ya GitHub. Tafadhali heshimu sheria za GitHub na miongozo ya jumuiya. Jaribu kuwa muungwana katika jumuiya ya GitHub na uepuke kushiriki katika mradi wetu ili tu kupata mafanikio ya GitHub. Hii ni kinyume na matakwa yetu na sheria za GitHub. Tafadhali fuata sheria hizi na ujitahidi kuchangia kwa haki kwa GitHub na miradi ili kujenga jumuiya bora kwenye GitHub pamoja.
 
-#### Tafadhali tumia mwongozo huu kujifunza jinsi ya kupata mafanikio na kuheshimu masharti yetu baada ya kujifunza jinsi ya kupata mafanikio ya GitHub, Jaribu kushiriki katika miradi na ujitahidi kupata mafanikio haya kwa haki ili kujenga jamii yenye afya na usawa zaidi kwenye <a href="https://docs.github.com/en/site-policy/github-terms/github-terms-of-service">GitHub</a>.
+#### Tafadhali tumia mwongozo huu kujifunza jinsi ya kupata mafanikio na kuheshimu masharti yetu baada ya kujifunza jinsi ya kupata mafanikio ya GitHub. Jaribu kushiriki katika miradi na ujitahidi kupata mafanikio haya kwa haki ili kujenga jamii yenye afya na usawa zaidi kwenye <a href="https://docs.github.com/en/site-policy/github-terms/github-terms-of-service">GitHub</a>.
 
 # Maelezo zaidi
 
@@ -319,5 +302,5 @@
 <!-- </div> -->
 <br>
 
-####          
+####           
 
