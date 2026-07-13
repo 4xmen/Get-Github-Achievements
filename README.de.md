@@ -31,25 +31,25 @@
 
 # Erfolge & Anzeige 🏅
 
-#### Achievements sind Pins, die GitHub als Belohnung für bestimmte Aktivitäten an Ihren GitHub-Account vergibt und die in Ihrem Profil zu sehen sind. Diese Errungenschaften verleihen Ihrem GitHub-Konto einen guten Effekt und können den Umfang Ihrer Aktivität und Ihre Aktivität anzeigen.
+#### GitHub Achievements sind Auszeichnungen (Badges), die GitHub für bestimmte Aktivitäten vergibt. Sie werden auf deinem GitHub-Profil angezeigt und machen sichtbar, wie aktiv du auf GitHub bist.
 
-#### Sie können die Anzeige von Erfolgen in Ihrem Profil deaktivieren, indem Sie zu Ihrem gehen, [Profileinstellungen](https://github.com/settings).
+#### Wenn du deine Achievements nicht in deinem Profil anzeigen möchtest, kannst du sie jederzeit in deinen [Profileinstellungen](https://github.com/settings) ausblenden.
 
-#### Hier zeigen wir Ihnen Schritt für Schritt, wie Sie GitHub Achievement Pins erhalten :)
+#### Im Folgenden zeigen wir dir Schritt für Schritt, wie du jedes GitHub Achievement erhalten kannst.
 
 <br>
 
 # So erhalten Sie GitHub-Erfolge
 
-## In diesem Kurs erfahren Sie Schritt für Schritt, wie Sie GitHub-Erfolge erzielen.
+## In dieser Anleitung zeigen wir dir Schritt für Schritt, wie du GitHub Achievements erhältst.
 
-### Hinweis:
+### Hinweise
 
-#### Hinweis 1: Wenn Sie Probleme beim Erhalt von Erfolgen haben, können Sie die Schritt-für-Schritt-Schulung im Abschnitt zum Erhalt dieser Erfolge nutzen.
+#### Hinweis 1: Falls du Probleme beim Erhalten eines Achievements hast, findest du zu jedem Achievement eine ausführliche Schritt-für-Schritt-Anleitung.
 
-#### Hinweis 2: Alle Tutorials sind mit Fotos versehen und jeder Schritt wird ausführlich erklärt.
+#### Hinweis 2: Alle Tutorials enthalten Bilder und erklären jeden Schritt detailliert.
 
-#### Hinweis 3: Wenn Sie Probleme oder Fehler finden, wenden Sie sich bitte an uns [Bericht](https://github.com/4xmen/Get-Github-Achievements/issues/new) es uns. Und helfen Sie uns, den Kurs zu verbessern.
+#### Hinweis 3: Falls dir ein Fehler oder Problem auffällt, kannst du ihn gerne [hier melden](https://github.com/4xmen/Get-Github-Achievements/issues/new). So hilfst du uns dabei, diese Anleitung weiter zu verbessern.
 
 <br>
 
@@ -64,12 +64,11 @@
 </div>
 <hr>
 
-## So erhalten Sie den Quickdraw-Erfolg
+## So erhältst du das Quickdraw Achievement
 
-### Quickdraw hat eine der einfachsten Möglichkeiten, und Sie können es erhalten, indem Sie nur ein paar Schritte unternehmen. Um diesen Erfolg zu erhalten, müssen Sie . (Issue/Pull-Request innerhalb von 5 Minuten nach Eröffnung geschlossen)
+### Quickdraw gehört zu den einfachsten Achievements. Du erhältst es, indem du ein Issue oder einen Pull Request innerhalb von fünf Minuten nach dem Erstellen wieder schließt.
 
-#### - Wenn Sie weitere Hilfe benötigen, klicken Sie auf die Schaltfläche So erhalten Sie eine Schritt-für-Schritt-Anleitung, wie Sie diesen Erfolg erhalten.
-
+#### - Wenn du weitere Hilfe benötigst, klicke auf **„So erhältst du es“**, um zur ausführlichen Schritt-für-Schritt-Anleitung zu gelangen.
 <div align="center"><a href="assets/steps-de/README.quickdraw-de.md"><img src="assets/img/btn-de.png" alt=""></a></div>
 <hr>
 
@@ -82,11 +81,11 @@
 </div>
 <hr>
 
-## So erhalten Sie den Yolo-Erfolg
+## So erhältst du das Yolo Achievement
 
-### Yolo ist eine der schönsten Errungenschaften von Github, die Ihrem Github-Profil einen sehr schönen Effekt verleihen kann. Um diesen Erfolg zu erhalten, müssen Sie eine Pull-Anforderung ohne Überprüfung zusammenführen.
+### Das Yolo Achievement gehört zu den auffälligsten GitHub Achievements und verleiht deinem Profil einen besonderen Look. Du erhältst es, indem du einen Pull Request ohne vorheriges Review mergst.
 
-#### - Wenn Sie weitere Hilfe benötigen, klicken Sie auf die Schaltfläche So erhalten Sie eine Schritt-für-Schritt-Anleitung, wie Sie diesen Erfolg erhalten.
+#### - Wenn du weitere Hilfe benötigst, klicke auf **„So erhältst du es“**, um zur ausführlichen Schritt-für-Schritt-Anleitung zu gelangen.
 
 <div align="center"><a href="assets/steps-de/README.yolo-de.md"><img src="assets/img/btn-de.png" alt=""></a></div>
 <hr>
@@ -101,11 +100,11 @@
 </div>
 <hr>
 
-## So erhalten Sie den Pull Shark Erfolg
+## So erhältst du das Pull Shark Achievement
 
-### Um Pull Shark zu erhalten, müssen Sie 2 zusammengeführte Pull-Requests stellen, Sie erhalten das One Pull Shark-Abzeichen.
+### Für das Pull Shark Achievement musst du zwei Pull Requests erstellen, die erfolgreich gemergt werden. Anschließend erhältst du das Pull Shark Badge.
 
-#### - Wenn Sie weitere Hilfe benötigen, klicken Sie auf die Schaltfläche So erhalten Sie eine Schritt-für-Schritt-Anleitung, wie Sie diesen Erfolg erhalten.
+#### - Wenn du weitere Hilfe benötigst, klicke auf **„So erhältst du es“**, um zur ausführlichen Schritt-für-Schritt-Anleitung zu gelangen.
 
 <div align="center"><a href="assets/steps-de/README.pull-shark-de.md"><img src="assets/img/btn-de.png" alt=""></a></div>
 <hr>
@@ -119,12 +118,11 @@
 </div>
 <hr>
 
-## Galaxy Brain 2022
+## Galaxy Brain (2022)
 
-### Eine Diskussion beantwortet (eine akzeptierte Antwort zwei Mal erhalten), von 2020 bis 2024.
+### Dieses Achievement erhältst du, wenn zwei deiner Antworten in GitHub Discussions als **akzeptierte Antwort** markiert wurden. Es war von 2020 bis 2024 verfügbar.
 
-#### - Wenn Sie weitere Hilfe benötigen, klicken Sie auf die Schaltfläche So erhalten Sie eine Schritt-für-Schritt-Anleitung, wie Sie diesen Erfolg erhalten.
-
+#### - Wenn du weitere Hilfe benötigst, klicke auf **„So erhältst du es“**, um zur ausführlichen Schritt-für-Schritt-Anleitung zu gelangen.
 <div align="center"><a href="assets/steps-de/README.galaxy-brain-de.md"><img src="assets/img/btn-de.png" alt=""></a></div>
 <hr>
 
@@ -137,11 +135,11 @@
 </div>
 <hr>
 
-## So erhalten Sie den Starstruck-Erfolg
+## So erhältst du das Starstruck Achievement
 
-### Es ist zu einfach, Starstruck Achievement zu erhalten, und Sie haben nur wenige Schritte, um Starstruck zu erhalten. Sie können diese Errungenschaft erhalten, wenn ein Repository auf Ihrem Konto 16 Sterne erreicht, selbst wenn es übertragen wurde, erhalten Sie das Abzeichen.
+### Das Starstruck Achievement erhältst du, sobald eines deiner Repositories mindestens **16 Sterne** erreicht. Dabei spielt es keine Rolle, ob das Repository später übertragen wurde – das Badge bleibt dir erhalten.
 
-#### - Wenn Sie weitere Hilfe benötigen, klicken Sie auf die Schaltfläche. So erhalten Sie eine Schritt-für-Schritt-Anleitung, wie Sie diesen Erfolg erhalten.
+#### - Wenn du weitere Hilfe benötigst, klicke auf **„So erhältst du es“**, um zur ausführlichen Schritt-für-Schritt-Anleitung zu gelangen.
 
 <div align="center"><a href="assets/steps-de/README.starstruck-de.md"><img src="assets/img/btn-de.png" alt=""></a></div>
 <hr>
@@ -155,12 +153,11 @@
 </div>
 <hr>
 
-## So erhalten Sie den Pair Extraordinaire-Erfolg
+## So erhältst du das Pair Extraordinaire Achievement
 
-### Sie können das Pair Extraordinaire-Abzeichen verdienen, indem Sie einen Pull-Request mitverfassen, der dann zusammengeführt wird.
+### Dieses Badge erhältst du, indem du als Co-Autor an einem Pull Request mitwirkst, der anschließend gemergt wird.
 
-#### - Wenn Sie weitere Hilfe benötigen, klicken Sie auf die Schaltfläche. So erhalten Sie eine Schritt-für-Schritt-Anleitung, wie Sie diesen Erfolg erhalten.
-
+#### - Wenn du weitere Hilfe benötigst, klicke auf **„So erhältst du es“**, um zur ausführlichen Schritt-für-Schritt-Anleitung zu gelangen.
 <div align="center"><a href="assets/steps-de/README.pair-extraordinaire-de.md"><img src="assets/img/btn-de.png" alt=""></a></div>
 <hr>
 
@@ -173,11 +170,11 @@
 </div>
 <hr>
 
-## So erhalten Sie den Public Sponsor-Erfolg
+## So erhältst du das Public Sponsor Achievement
 
-### Sie müssen nur eine Spende an einen Open-Source-Mitwirkenden leisten.
+### Unterstütze einen Open-Source-Mitwirkenden mit einer Spende, um dieses Achievement zu erhalten.
 
-#### - Wenn Sie weitere Hilfe benötigen, klicken Sie auf die Schaltfläche. So erhalten Sie eine Schritt-für-Schritt-Anleitung, wie Sie diesen Erfolg erhalten.
+#### - Wenn du weitere Hilfe benötigst, klicke auf **„So erhältst du es“**, um zur ausführlichen Schritt-für-Schritt-Anleitung zu gelangen.
 
 <div align="center"><a href="assets/steps-de/README.publicsponsor-de.md"><img src="assets/img/btn-de.png" alt=""></a></div>
 
@@ -185,7 +182,7 @@
 
 <br>
 
-# Unveröffentlichte Erfolge ⏳
+# Noch nicht veröffentlichte Achievements ⏳
 
 <br>
 
@@ -198,7 +195,7 @@
 
 ## Heart On Your Sleeve
 
-### Die Heart On Your Sleeve-Erfolgsabzeichen werden derzeit noch nicht für öffentliche GitHub-Benutzer freigegeben.
+### Dieses Achievement befindet sich derzeit noch in der Testphase. Nach der offiziellen Veröffentlichung wird eine Schritt-für-Schritt-Anleitung ergänzt.
 
 <hr>
 <br>
@@ -210,12 +207,12 @@
 
 ## Open Sourcerer
 
-### Die Open Sourcerer-Erfolgsabzeichen sind derzeit noch nicht für öffentliche GitHub-Benutzer freigegeben.
+### Auch dieses Achievement befindet sich derzeit noch in der Testphase. Nach der offiziellen Veröffentlichung wird eine ausführliche Anleitung ergänzt.
 
 <hr>
 <br>
 
-# Abzeichen, die nicht mehr verdient werden können ❌
+# Nicht mehr erhältliche Badges ❌
 
 <br>
 
@@ -228,7 +225,7 @@
 
 ## Mars 2020 Contributor
 
-### Beigesteuerter Code für ein Repository, das in der Hubschraubermission Mars 2020 verwendet wurde
+### Dieses Badge wurde an Personen vergeben, die Code zu einem Repository beigetragen haben, das im Rahmen der Mars-2020-Helikoptermission verwendet wurde.
 
 <hr>
 
@@ -241,19 +238,19 @@
 
 ## Arctic Code Vault Contributor
 
-### Beigesteuerter Code zu einem Repository im GitHub Archive Program 2020
+### Dieses Badge wurde an Mitwirkende vergeben, deren Code in einem Repository des GitHub Archive Program 2020 enthalten war.
 
 <hr>
 
 <br>
 
-# Leistung Hautton 👋
+# Emoji-Hautton für Achievements 👋
 
 <br>
 
-#### Das Aussehen einiger Erfolge hängt von Ihrer Emoji-Hauttonpräferenz ab.
+#### Das Erscheinungsbild einiger Achievements richtet sich nach deiner ausgewählten Emoji-Hautton-Einstellung.
 
-#### Sie können Ihren bevorzugten Hautton ändern, indem Sie auf [Darstellungseinstellungen](https://github.com/settings/appearance) gehen.
+#### Deinen bevorzugten Emoji-Hautton kannst du jederzeit in den [Darstellungseinstellungen](https://github.com/settings/appearance) ändern.
 
 <hr>
 
@@ -273,31 +270,33 @@
 
 <br>
 
-# Highlights Badges ✨
+# Profil-Badges ✨
 
 <br>
 
-|                                                                                                                                                          Badge                                                                                                                                                           |            Name            |                                                         Wie man es bekommt                                                         |
+|                                                                                                                                                          Badge                                                                                                                                                           |            Name            |                                                         So erhältst du es                                                         |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------:|:----------------------------------------------------------------------------------------------------------------------------------:|
-|                       ![pro-black](https://user-images.githubusercontent.com/65187002/173065669-d1fdb5a7-8895-43cc-8dea-72a511a37e86.svg#gh-light-mode-only) ![pro-white](https://user-images.githubusercontent.com/65187002/173065531-57dbf8b1-7eb7-4d46-81bf-f2d18c7c9112.svg#gh-dark-mode-only)                       |            Pro             |          Verwende [GitHub Pro](https://docs.github.com/en/get-started/learning-about-github/githubs-products#github-pro)           |
-|   ![developer-program-member-dark](https://user-images.githubusercontent.com/65187002/173079579-3c393d22-7a13-4e7d-87b8-341fb613d52b.svg#gh-dark-mode-only)![developer-program-member-light](https://user-images.githubusercontent.com/65187002/173079614-33f43a97-1cc2-4228-85e3-ef43836e17c2.svg#gh-light-mode-only)   |  Developer Program Member  | Sei registriertes Mitglied des [GitHub Developer Program](https://docs.github.com/en/developers/overview/github-developer-program) |
-| ![security-bug-bounty-hunter-dark](https://user-images.githubusercontent.com/65187002/173081624-93e3cf1f-50b7-45a4-82b7-1954f66368b9.svg#gh-dark-mode-only)![security-bug-bounty-hunter-light](https://user-images.githubusercontent.com/65187002/173081657-e500d72c-9247-44c2-a3d3-2deff30e1ae7.svg#gh-light-mode-only) | Security Bug Bounty Hunter |                     Hilf bei der Jagd nach Sicherheitslücken bei [GitHub Security](https://bounty.github.com/)                     |
+|                       ![pro-black](https://user-images.githubusercontent.com/65187002/173065669-d1fdb5a7-8895-43cc-8dea-72a511a37e86.svg#gh-light-mode-only) ![pro-white](https://user-images.githubusercontent.com/65187002/173065531-57dbf8b1-7eb7-4d46-81bf-f2d18c7c9112.svg#gh-dark-mode-only)                       |            Pro             |          Nutze [GitHub Pro](https://docs.github.com/en/get-started/learning-about-github/githubs-products#github-pro)           |
+|   ![developer-program-member-dark](https://user-images.githubusercontent.com/65187002/173079579-3c393d22-7a13-4e7d-87b8-341fb613d52b.svg#gh-dark-mode-only)![developer-program-member-light](https://user-images.githubusercontent.com/65187002/173079614-33f43a97-1cc2-4228-85e3-ef43836e17c2.svg#gh-light-mode-only)   |  Developer Program Member  |  Werde Mitglied des [GitHub Developer Program](https://docs.github.com/en/developers/overview/github-developer-program) |
+| ![security-bug-bounty-hunter-dark](https://user-images.githubusercontent.com/65187002/173081624-93e3cf1f-50b7-45a4-82b7-1954f66368b9.svg#gh-dark-mode-only)![security-bug-bounty-hunter-light](https://user-images.githubusercontent.com/65187002/173081657-e500d72c-9247-44c2-a3d3-2deff30e1ae7.svg#gh-light-mode-only) | Security Bug Bounty Hunter |                     Melde Sicherheitslücken über das [GitHub Security](https://bounty.github.com/)                     |
 |       ![github-campus-expert-dark](https://user-images.githubusercontent.com/65187002/173082819-b3625c23-bfd6-4492-b828-56ed91c45f52.svg#gh-dark-mode-only)![github-campus-expert-light](https://user-images.githubusercontent.com/65187002/173082836-08be81fe-13b7-4acf-9096-e5241d76f237.svg#gh-light-mode-only)       |    GitHub Campus Expert    |                             Nimm am [GitHub Campus Program](https://education.github.com/experts) teil                             |
-|   ![security-advisory-credit-dark](https://user-images.githubusercontent.com/65187002/173084051-79a0a626-1c1a-4d60-afdf-50ad001d7b21.svg#gh-dark-mode-only)![security-advisory-credit-light](https://user-images.githubusercontent.com/65187002/173084071-5f321da2-b2a9-490b-a524-1b21fa384d7e.svg#gh-light-mode-only)   |  Security advisory credit  |            Lass deine Sicherheitsberatung in der [GitHub Advisory Database](https://github.com/advisories) akzeptieren             |
+|   ![security-advisory-credit-dark](https://user-images.githubusercontent.com/65187002/173084051-79a0a626-1c1a-4d60-afdf-50ad001d7b21.svg#gh-dark-mode-only)![security-advisory-credit-light](https://user-images.githubusercontent.com/65187002/173084071-5f321da2-b2a9-490b-a524-1b21fa384d7e.svg#gh-light-mode-only)   |  Security advisory credit  |            Reiche eine Sicherheitsmeldung ein, die in die [GitHub Advisory Database](https://github.com/advisories) aufgenommen wird             |
 
-# Fairness wahren und Regeln befolgen ist wichtig 🏁
-
-<br>
-
-#### Dieses Repository soll Ihnen nur beibringen, wie Sie GitHub-Erfolge erzielen. Bitte respektieren Sie die Regeln und Community-Richtlinien von GitHub. Versuchen Sie, in der GitHub-Community aktiv zu sein und vermeiden Sie es, an unserem Projekt nur teilzunehmen, um GitHub-Erfolge zu erzielen. Dies widerspricht unseren Wünschen und den Regeln von GitHub. Bitte befolgen Sie diese Regeln und bemühen Sie sich, fair zu GitHub und Projekten beizutragen, um gemeinsam eine bessere Community auf GitHub aufzubauen.
-
-#### Bitte nutzen Sie diesen Leitfaden, um zu lernen, wie Sie Erfolge erzielen, und respektieren Sie unsere Bedingungen, nachdem Sie gelernt haben, wie Sie GitHub-Erfolge erzielen. Versuchen Sie, an Projekten teilzunehmen und bemühen Sie sich, diese Erfolge fair zu verdienen, um eine gesündere und gerechtere Community auf <a href="https://docs.github.com/en/site-policy/github-terms/github-terms-of-service">GitHub</a> aufzubauen.
-
-# Mehr Informationen ℹ
+# Fair bleiben und die GitHub-Regeln respektieren 🏁
 
 <br>
 
-#### Weitere Informationen zu GitHub-Badges finden Sie unter [Verknüpfungen](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile).
+#### Dieses Repository soll dir zeigen, wie GitHub Achievements funktionieren und wie du sie erhalten kannst. Bitte halte dich dabei an die Community-Richtlinien und Nutzungsbedingungen von GitHub.
+
+#### Beteilige dich aktiv an Open-Source-Projekten und versuche nicht, ausschließlich für Achievements an diesem Repository mitzuwirken. Das entspricht weder dem Sinn dieses Projekts noch den Richtlinien von GitHub.
+
+#### Nutze diese Anleitung als Lernhilfe und verdiene deine Achievements auf faire Weise. So trägst du zu einer offenen, gesunden und nachhaltigen Open-Source-Community auf GitHub bei.
+
+# Weitere Informationen ℹ
+
+<br>
+
+#### Weitere Informationen zu GitHub Badges und Achievements findest du in der offiziellen GitHub-Dokumentation: [Verknüpfungen](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile).
 
 <!-- </div> -->
 <br>
