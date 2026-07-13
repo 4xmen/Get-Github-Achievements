@@ -29,27 +29,27 @@
 
 <br>
 
-# Hoe GitHub Prestaties Krijgen
+# GitHub Prestaties behalen
 
-## Je zult stap voor stap leren hoe je GitHub prestaties kunt krijgen in deze cursus.
+## In deze handleiding leer je stap voor stap hoe je GitHub Achievements kunt verdienen.
 
-### Opmerkingen:
+### Opmerkingen
 
-#### Opmerking 1: Als je problemen hebt met het ontvangen van prestaties, kan je de stapsgewijze training gebruiken in het gedeelte over het ontvangen van prestaties.
+#### Opmerking 1: Lukt het niet om een Achievement te krijgen? Raadpleeg dan de stapsgewijze handleiding bij het betreffende Achievement.
 
-#### Opmerking 2: Alle tutorials zijn met foto's en elke stap wordt volledig uitgelegd.
+#### Opmerking 2: Alle handleidingen bevatten afbeeldingen en leggen iedere stap uitgebreid uit.
 
-#### Opmerking 3: Als je een probleem of bug vindt, [rapporteer](https://github.com/4xmen/Get-Github-Achievements/issues/new) dit dan alsjeblieft aan ons om zo de cursus te verbeteren.
+#### Opmerking 3: Vind je een fout of bug? Meld deze dan via onze [issue tracker](https://github.com/4xmen/Get-Github-Achievements/issues/new) en help ons deze handleiding te verbeteren.
 
 <br>
 
-# Prestaties & Weergave 🏅
+# Prestaties & weergave 🏅
 
-#### Prestaties zijn pins die GitHub aan je GitHub account geeft als beloning voor bepaalde activiteiten en kunnen in je profiel gezien worden. Deze prestaties geven een goed effect aan je GitHub account en kunnen aangeven hoeveel activiteit je hebt en hoe actief je bent.
+#### GitHub Achievements zijn badges die GitHub toekent als beloning voor bepaalde activiteiten. Ze worden weergegeven op je GitHub-profiel en laten zien hoe actief je bent op GitHub.
 
-#### Je kunt de weergave van prestaties op je profiel uitschakelen door naar je [profielinstellingen](https://github.com/settings) te gaan.
+#### Wil je je Achievements niet op je profiel tonen? Dan kun je dit uitschakelen via je [profielinstellingen](https://github.com/settings).
 
-#### Hier laten we je stap voor stap zien hoe je GitHub Prestatie pins krijgt :)
+#### Hieronder laten we stap voor stap zien hoe je ieder GitHub Achievement kunt verdienen.
 
 <br>
 
@@ -64,11 +64,11 @@
 </div>
 <hr>
 
-## Hoe krijg ik Quickdraw?
+## Quickdraw Achievement behalen
 
-### Quickdraw is een van de makkelijkste prestaties om te behalen. Je kunt het ontvangen in slechts een paar stappen. Om deze prestatie te krijgen moet je (een issue / pull request binnen 5 minuten na het openen sluiten)
+### Quickdraw is een van de eenvoudigste Achievements. Je verdient dit Achievement door een Issue of Pull Request binnen vijf minuten na het aanmaken weer te sluiten.
 
-#### - Als je meer hulp nodig hebt, klik dan op de ‘Hoe Verkrijgen’-knop voor een stap-voor-stap uitleg over hoe je deze prestatie kunt behalen.
+#### - Heb je extra hulp nodig? Klik dan op de knop **'Hoe krijg je dit Achievement?'** voor een uitgebreide stap-voor-stap handleiding.
 
 <div align="center"><a href="assets/steps-nl/README.quickdraw-nl.md"><img src="assets/img/btn-nl.png" alt=""></a></div>
 <hr>
@@ -82,11 +82,11 @@
 </div>
 <hr>
 
-## Hoe Yolo Prestatie Behalen
+## Yolo Achievement behalen
 
-### Yolo is een van de mooiste prestaties van GitHub, die een heel mooi effect kan geven aan je GitHub-profiel. Om deze prestatie te krijgen, moet je een pull request zonder review mergen.
+### Yolo is een van de meest opvallende GitHub Achievements en geeft je GitHub-profiel een unieke uitstraling. Je verdient dit Achievement door een Pull Request zonder review te mergen.
 
-#### - Als je meer hulp nodig hebt, klik dan op de ‘Hoe Verkrijgen’-knop voor een stap-voor-stap uitleg over hoe je deze prestatie kunt behalen.
+#### - Heb je extra hulp nodig? Klik dan op de knop **'Hoe krijg je dit Achievement?'** voor een uitgebreide stap-voor-stap handleiding.
 
 <div align="center"><a href="assets/steps-nl/README.yolo-nl.md"><img src="assets/img/btn-nl.png" alt=""></a></div>
 <hr>
@@ -100,11 +100,11 @@
 </div>
 <hr>
 
-## Hoe Galaxy Brain Prestatie Behalen
+## Galaxy Brain Achievement behalen
 
-### Het verkrijgen van Galaxy Brain is moeilijker dan de vorige twee prestaties. En om het te krijgen, moet je de stappen doorlopen die andere GitHub gebruikers nodig hebben. Je moet : Een discussie beantwoord (twee keer een geaccepteerd antwoord gekregen)
+### Je verdient het Galaxy Brain Achievement wanneer twee van je antwoorden in GitHub Discussions als **geaccepteerd antwoord** zijn gemarkeerd.
 
-#### - Als je meer hulp nodig hebt, klik dan op de ‘Hoe Verkrijgen’-knop voor een stap-voor-stap uitleg over hoe je deze prestatie kunt behalen.
+#### - Heb je extra hulp nodig? Klik dan op de knop **'Hoe krijg je dit Achievement?'** voor een uitgebreide stap-voor-stap handleiding.
 
 <div align="center"><a href="assets/steps-nl/README.galaxy-brain-nl.md"><img src="assets/img/btn-nl.png" alt=""></a></div>
 <hr>
@@ -118,11 +118,11 @@
 </div>
 <hr>
 
-## Hoe Pull Haai Prestatie Behalen
+## Pull Shark Achievement behalen
 
-### Om een pull shark te krijgen moet je 2 samengevoegde pull requests maken, dan krijg je een pull shark badge.
+### Om het Pull Shark Achievement te verdienen, moeten twee van je Pull Requests succesvol worden gemergd. Daarna ontvang je de Pull Shark Badge.
 
-#### - Als je meer hulp nodig hebt, klik dan op de ‘Hoe Verkrijgen’-knop voor een stap-voor-stap uitleg over hoe je deze prestatie kunt behalen.
+#### - Heb je extra hulp nodig? Klik dan op de knop **'Hoe krijg je dit Achievement?'** voor een uitgebreide stap-voor-stap handleiding.
 
 <div align="center"><a href="assets/steps-nl/README.pull-shark-nl.md"><img src="assets/img/btn-nl.png" alt=""></a></div>
 <hr>
@@ -136,11 +136,11 @@
 </div>
 <hr>
 
-## Hoe Starstruck Prestatie Behalen
+## Starstruck Achievement behalen
 
-### Het is te eenvoudig om het Starstruck-prestatie te behalen & je hoeft maar een paar stappen te doorlopen om Starstruck te behalen. Je kunt deze prestatie behalen als een repository op je account 16 sterren heeft, zelfs als het is overgezet, ontvang je de badge.
+### Je verdient het Starstruck Achievement zodra een repository op jouw account minimaal **16 sterren** heeft ontvangen. Ook als de repository later wordt overgedragen, behoud je de badge.
 
-#### - Als je meer hulp nodig hebt, klik dan op de ‘Hoe Verkrijgen’-knop voor een stap-voor-stap uitleg over hoe je deze prestatie kunt behalen.
+#### - Heb je extra hulp nodig? Klik dan op de knop **'Hoe krijg je dit Achievement?'** voor een uitgebreide stap-voor-stap handleiding.
 
 <div align="center"><a href="assets/steps-nl/README.starstruck-nl.md"><img src="assets/img/btn-nl.png" alt=""></a></div>
 <hr>
@@ -154,11 +154,11 @@
 </div>
 <hr>
 
-## Hoe Pair Extraordinaire Prestatie Behalen
+## Pair Extraordinaire Achievement behalen
 
-### Je kunt de badge 'pair extraordinaire' verdienen door co-auteur te zijn van een pull request dat vervolgens wordt samengevoegd.
+### Je verdient de Pair Extraordinaire Badge door als co-auteur bij te dragen aan een Pull Request die vervolgens wordt gemergd.
 
-#### - Als je meer hulp nodig hebt, klik dan op de ‘Hoe Verkrijgen’-knop voor een stap-voor-stap uitleg over hoe je deze prestatie kunt behalen.
+#### - Heb je extra hulp nodig? Klik dan op de knop **'Hoe krijg je dit Achievement?'** voor een uitgebreide stap-voor-stap handleiding.
 
 <div align="center"><a href="assets/steps-nl/README.pair-extraordinaire-nl.md"><img src="assets/img/btn-nl.png" alt=""></a></div>
 <hr>
@@ -172,11 +172,11 @@
 </div>
 <hr>
 
-## Hoe Publieke Sponsor Prestatie Behalen
+## Public Sponsor Achievement behalen
 
-### U hoeft alleen maar een donatie te doen aan een open source-medewerker.
+### Je hoeft alleen een donatie te doen aan een open-sourcebijdrager om dit Achievement te verdienen.
 
-#### - Als je meer hulp nodig hebt, klik dan op de ‘Hoe Verkrijgen’-knop voor een stap-voor-stap uitleg over hoe je deze prestatie kunt behalen.
+#### - Heb je extra hulp nodig? Klik dan op de knop **'Hoe krijg je dit Achievement?'** voor een uitgebreide stap-voor-stap handleiding.
 
 <div align="center"><a href="assets/steps-nl/README.publicsponsor-nl.md"><img src="assets/img/btn-nl.png" alt=""></a></div>
 
@@ -184,7 +184,7 @@
 
 <br>
 
-# Onuitgebrachte prestaties ⏳
+# Nog niet uitgebrachte Prestaties ⏳
 
 <br>
 
@@ -195,9 +195,9 @@
 </div>
 <hr>
 
-## Hart op je mouw
+## Heart On Your Sleeve
 
-### De 'Hart op je mouw' prestatie badges zijn op dit moment nog niet vrijgegeven voor publieke GitHub gebruikers.
+### Het **Heart On Your Sleeve** Achievement is momenteel nog niet beschikbaar voor publieke GitHub-gebruikers.
 
 <hr>
 <br>
@@ -207,14 +207,14 @@
 </div>
 <hr>
 
-## Open Source
+## Open Sourcerer
 
-### De 'Open Sourcerer' prestatie badges zijn op dit moment nog niet vrijgegeven voor publieke GitHub gebruikers.
+### Ook het **Open Sourcerer** Achievement is momenteel nog niet beschikbaar voor publieke GitHub-gebruikers.
 
 <hr>
 <br>
 
-# Badges niet langer verdienbaar ❌
+# Badges die niet langer beschikbaar zijn ❌
 
 <br>
 
@@ -225,9 +225,9 @@
 </div>
 <hr>
 
-## Mars 2020 Bijdrager
+## Mars 2020 Contributor
 
-### Code bijgedragen aan een archief dat wordt gebruikt in de Mars 2020 Helikoptermissie
+### Toegekend aan ontwikkelaars die code hebben bijgedragen aan een repository dat werd gebruikt voor de Mars 2020 Helicopter Mission
 
 <hr>
 
@@ -238,21 +238,21 @@
 </div>
 <hr>
 
-## Arctic Code Vault Bijdrager
+## Arctic Code Vault Contributor
 
-### Code bijgedragen aan een repository in het 2020 GitHub Archiefprogramma
+### Toegekend aan ontwikkelaars die hebben bijgedragen aan een repository dat onderdeel was van het GitHub Archive Program 2020
 
 <hr>
 
 <br>
 
-# Huidskleur verbeteren 👋
+# Emoji-huidskleur voor Achievements 👋
 
 <br>
 
-#### Het uiterlijk van sommige prestaties hangt af van je voorkeur voor de huidskleur van de Emoji.
+#### Het uiterlijk van sommige Achievements is afhankelijk van de huidskleur die je voor emoji's hebt ingesteld.
 
-#### U kunt de huidskleur van uw voorkeur wijzigen door naar [uiterlijk instellingen] (https://github.com/settings/appearance) te gaan.
+#### Je kunt je voorkeurs-huidskleur wijzigen via de [weergave-instellingen](https://github.com/settings/appearance)
 
 <hr>
 
@@ -276,7 +276,7 @@
 
 <br>
 
-#### Je kunt meer informatie over GitHub Badges vinden onder deze [link](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile).
+#### Meer informatie over GitHub Badges en Achievements vind je in de officiële GitHub-documentatie: [link](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile).
 
 <!-- </div> -->
 <br>
