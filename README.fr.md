@@ -3,13 +3,32 @@
 ## Langue
 
 <div align="center">
-
-|                                                                                                                                        |                                                                                                                                         |                                                                                                                                                   |                                                                                                                                           |                                                                                                                                           |                                                                                                                                          |
-|:--------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------:|
-|  [![en](https://img.shields.io/badge/Lang-English-blue.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.md)   | [![fa](https://img.shields.io/badge/Lang-Persian-green.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.fa.md) |      [![ar](https://img.shields.io/badge/Lang-Arabic-black.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.ar.md)       | [![de](https://img.shields.io/badge/Lang-Deutsch-yellow.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.de.md)  |  [![fr](https://img.shields.io/badge/Lang-French-orange.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.fr.md)  | [![ru](https://img.shields.io/badge/Lang-Russian-orange.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.ru.md) |
-|  [![tr](https://img.shields.io/badge/Lang-Turkish-red.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.tr.md)   |   [![nl](https://img.shields.io/badge/Lang-Dutch-green.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.nl.md)   | [![cn](https://img.shields.io/badge/Lang-Chinese-blue?color=%23FF0000)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.chs.md) |   [![es](https://img.shields.io/badge/Lang-Spanish-green.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.es.md)   | [![id](https://img.shields.io/badge/Lang-Indonesian-purple.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.id.md) |  [![hin](https://img.shields.io/badge/Lang-Hindi-orange.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.hin.md)  |
-| [![ja](https://img.shields.io/badge/Lang-Japanese-white.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.ja.md) | [![am](https://img.shields.io/badge/Lang-Armenia-crimson.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.am.md) |     [![sw](https://img.shields.io/badge/Lang-Swahili-darkgreen.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.sw.md)     | [![pt](https://img.shields.io/badge/Lang-Portuguese-blue.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.pt.md) |  [![bn](https://img.shields.io/badge/Lang-Bengali-black.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.bn.md)  | [![vi](https://img.shields.io/badge/Lang-Vietnamese-red.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.vi.md) |
-
+    <table>
+    <tr>
+        <td align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/README.md"><img src="https://img.shields.io/badge/Lang-English-blue.svg" alt="en"></a></td>
+        <td align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/README.fa.md"><img src="https://img.shields.io/badge/Lang-Persian-green.svg" alt="fa"></a></td>
+        <td align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/README.ar.md"><img src="https://img.shields.io/badge/Lang-Arabic-black.svg" alt="ar"></a></td>
+        <td align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/README.de.md"><img src="https://img.shields.io/badge/Lang-Deutsch-yellow.svg" alt="de"></a></td>
+        <td align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/README.fr.md"><img src="https://img.shields.io/badge/Lang-French-orange.svg" alt="fr"></a></td>
+        <td align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/README.ru.md"><img src="https://img.shields.io/badge/Lang-Russian-orange.svg" alt="ru"></a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/README.tr.md"><img src="https://img.shields.io/badge/Lang-Turkish-red.svg" alt="tr"></a></td>
+        <td align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/README.nl.md"><img src="https://img.shields.io/badge/Lang-Dutch-green.svg" alt="nl"></a></td>
+        <td align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/README.chs.md"><img src="https://img.shields.io/badge/Lang-Chinese-blue?color=%23FF0000" alt="cn"></a></td>
+        <td align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/README.es.md"><img src="https://img.shields.io/badge/Lang-Spanish-green.svg" alt="es"></a></td>
+        <td align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/README.id.md"><img src="https://img.shields.io/badge/Lang-Indonesian-purple.svg" alt="id"></a></td>
+        <td align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/README.hin.md"><img src="https://img.shields.io/badge/Lang-Hindi-orange.svg" alt="hin"></a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/README.ja.md"><img src="https://img.shields.io/badge/Lang-Japanese-white.svg" alt="ja"></a></td>
+        <td align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/README.am.md"><img src="https://img.shields.io/badge/Lang-Armenia-crimson.svg" alt="am"></a></td>
+        <td align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/README.sw.md"><img src="https://img.shields.io/badge/Lang-Swahili-darkgreen.svg" alt="sw"></a></td>
+        <td align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/README.pt.md"><img src="https://img.shields.io/badge/Lang-Portuguese-blue.svg" alt="pt"></a></td>
+        <td align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/README.bn.md"><img src="https://img.shields.io/badge/Lang-Bengali-black.svg" alt="bn"></a></td>
+        <td align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/README.vi.md"><img src="https://img.shields.io/badge/Lang-Vietnamese-red.svg" alt="vi"></a></td>
+    </tr>
+    </table>
 </div>
 
 # Réalisations GitHub 🏆
