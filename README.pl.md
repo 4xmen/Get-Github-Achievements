@@ -4,12 +4,12 @@
 
 <div align="center">
 
-|                                                                                                                                         |                                                                                                                                         |                                                                                                                                                   |                                                                                                                                           |                                                                                                                                           |                                                                                                                                          |
-|:---------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------:|
+|                                                                                                                                        |                                                                                                                                         |                                                                                                                                                   |                                                                                                                                           |                                                                                                                                           |                                                                                                                                          |
+| :------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------: |
 |  [![en](https://img.shields.io/badge/Lang-English-blue.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.md)   | [![fa](https://img.shields.io/badge/Lang-Persian-green.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.fa.md) |      [![ar](https://img.shields.io/badge/Lang-Arabic-black.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.ar.md)       | [![de](https://img.shields.io/badge/Lang-Deutsch-yellow.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.de.md)  |  [![fr](https://img.shields.io/badge/Lang-French-orange.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.fr.md)  | [![ru](https://img.shields.io/badge/Lang-Russian-orange.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.ru.md) |
 |  [![tr](https://img.shields.io/badge/Lang-Turkish-red.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.tr.md)   |   [![nl](https://img.shields.io/badge/Lang-Dutch-green.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.nl.md)   | [![cn](https://img.shields.io/badge/Lang-Chinese-blue?color=%23FF0000)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.chs.md) |   [![es](https://img.shields.io/badge/Lang-Spanish-green.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.es.md)   | [![id](https://img.shields.io/badge/Lang-Indonesian-purple.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.id.md) |  [![hin](https://img.shields.io/badge/Lang-Hindi-orange.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.hin.md)  |
-| [![ja](https://img.shields.io/badge/Lang-Japanese-white.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.ja.md) | [![am](https://img.shields.io/badge/Lang-Armenia-crimson.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.am.md) |     [![sw](https://img.shields.io/badge/Lang-Swahili-darkgreen.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.sw.md)     | [![pt](https://img.shields.io/badge/Lang-Portuguese-blue.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.pt.md) |  [![bn](https://img.shields.io/badge/Lang-Bengali-black.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.bn.md)  | [![vi](https://img.shields.io/badge/Lang-Vietnamese-red.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.vi.md) |
-| [![pl](https://img.shields.io/badge/Lang-Polish-red.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.pl.md) |                                                                                                                                         |                                                                                                                                                   |                                                                                                                                           |                                                                                                                                           |                                                                                                                                          |
+| [![ja](https://img.shields.io/badge/Lang-Japanese-white.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.ja.md) | [![am](https://img.shields.io/badge/Lang-Armenia-crimson.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.am.md) |     [![sw](https://img.shields.io/badge/Lang-Swahili-darkgreen.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.sw.md)     | [![pt](https://img.shields.io/badge/Lang-Portuguese-blue.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.pt.md) |  [![bn](https://img.shields.io/badge/Lang-Bengali-black.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.bn.md)  |  [![vi](https://img.shields.io/badge/Lang-Vietnamese-red.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.vi.md)  |
+|   [![pl](https://img.shields.io/badge/Lang-Polish-red.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.pl.md)   |                                                                                                                                         |                                                                                                                                                   |                                                                                                                                           |                                                                                                                                           |                                                                                                                                          |
 
 </div>
 
@@ -59,7 +59,7 @@
 <br>
 
 <div align="center">
-<a href="assets/steps/README.quickdraw.pl.md">
+<a href="assets/steps-pl/README.quickdraw.pl.md">
 <img width="296" src="assets/badges/Quickdraw.png" alt="QuickDraw-Pin">
 </a>
 </div>
@@ -71,13 +71,13 @@
 
 #### - Jeśli potrzebujesz więcej wskazówek, kliknij przycisk „Jak zdobyć”, aby przejść do instrukcji krok po kroku.
 
-<div align="center"><a href="assets/steps/README.quickdraw.pl.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-pl/README.quickdraw.pl.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center">
-<a href="assets/steps/README.yolo.pl.md">
+<a href="assets/steps-pl/README.yolo.pl.md">
 <img width="296" src="assets/badges/Yolo.png" alt="Yolo-Pin">
 </a>
 </div>
@@ -89,13 +89,13 @@
 
 #### - Jeśli potrzebujesz więcej wskazówek, kliknij przycisk „Jak zdobyć”, aby przejść do instrukcji krok po kroku.
 
-<div align="center"><a href="assets/steps/README.yolo.pl.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-pl/README.yolo.pl.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center">
-<a href="assets/steps/README.pull-shark.pl.md">
+<a href="assets/steps-pl/README.pull-shark.pl.md">
 <img width="296" src="assets/badges/PullShark.png" alt="PullShark-Pin">
 </a>
 </div>
@@ -107,13 +107,13 @@
 
 #### - Jeśli potrzebujesz więcej wskazówek, kliknij przycisk „Jak zdobyć”, aby przejść do instrukcji krok po kroku.
 
-<div align="center"><a href="assets/steps/README.pull-shark.pl.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-pl/README.pull-shark.pl.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center">
-<a href="assets/steps/README.starstruck.pl.md">
+<a href="assets/steps-pl/README.starstruck.pl.md">
 <img width="296" src="assets/badges/Starstruck.png" alt="Starstruck-Pin">
 </a>
 </div>
@@ -125,13 +125,13 @@
 
 #### - Jeśli potrzebujesz więcej wskazówek, kliknij przycisk „Jak zdobyć”, aby przejść do instrukcji krok po kroku.
 
-<div align="center"><a href="assets/steps/README.starstruck.pl.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-pl/README.starstruck.pl.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center">
-<a href="assets/steps/README.pair-extraordinaire.pl.md">
+<a href="assets/steps-pl/README.pair-extraordinaire.pl.md">
 <img width="296" src="assets/badges/PairExtraordinaire.png" alt="PairExtraordinaire-Pin">
 </a>
 </div>
@@ -143,13 +143,13 @@
 
 #### - Jeśli potrzebujesz więcej wskazówek, kliknij przycisk „Jak zdobyć”, aby przejść do instrukcji krok po kroku.
 
-<div align="center"><a href="assets/steps/README.pair-extraordinaire.pl.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-pl/README.pair-extraordinaire.pl.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center">
-<a href="assets/steps/README.publicsponsor.pl.md">
+<a href="assets/steps-pl/README.publicsponsor.pl.md">
 <img width="296" src="assets/badges/PublicSponsor.png" alt="PublicSponsor-Pin">
 </a>
 </div>
@@ -161,7 +161,7 @@
 
 #### - Jeśli potrzebujesz więcej wskazówek, kliknij przycisk „Jak zdobyć”, aby przejść do instrukcji krok po kroku.
 
-<div align="center"><a href="assets/steps/README.publicsponsor.pl.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-pl/README.publicsponsor.pl.md"><img src="assets/img/btn.png" alt=""></a></div>
 
 <hr>
 
@@ -272,13 +272,13 @@
 
 <br>
 
-| Odznaka | Nazwa | Jak ją zdobyć |
-|:---:|:---:|:---:|
-| ![pro-black](https://user-images.githubusercontent.com/65187002/173065669-d1fdb5a7-8895-43cc-8dea-72a511a37e86.svg#gh-light-mode-only) ![pro-white](https://user-images.githubusercontent.com/65187002/173065531-57dbf8b1-7eb7-4d46-81bf-f2d18c7c9112.svg#gh-dark-mode-only) | Pro | Korzystaj z [GitHub Pro](https://docs.github.com/en/get-started/learning-about-github/githubs-products#github-pro) |
-| ![developer-program-member-dark](https://user-images.githubusercontent.com/65187002/173079579-3c393d22-7a13-4e7d-87b8-341fb613d52b.svg#gh-dark-mode-only)![developer-program-member-light](https://user-images.githubusercontent.com/65187002/173079614-33f43a97-1cc2-4228-85e3-ef43836e17c2.svg#gh-light-mode-only) | Developer Program Member | Dołącz do [GitHub Developer Program](https://docs.github.com/en/developers/overview/github-developer-program) |
-| ![security-bug-bounty-hunter-dark](https://user-images.githubusercontent.com/65187002/173081624-93e3cf1f-50b7-45a4-82b7-1954f66368b9.svg#gh-dark-mode-only)![security-bug-bounty-hunter-light](https://user-images.githubusercontent.com/65187002/173081657-e500d72c-9247-44c2-a3d3-2deff30e1ae7.svg#gh-light-mode-only) | Security Bug Bounty Hunter | Pomagaj wyszukiwać luki w zabezpieczeniach w ramach [GitHub Security](https://bounty.github.com/) |
-| ![github-campus-expert-dark](https://user-images.githubusercontent.com/65187002/173082819-b3625c23-bfd6-4492-b828-56ed91c45f52.svg#gh-dark-mode-only)![github-campus-expert-light](https://user-images.githubusercontent.com/65187002/173082836-08be81fe-13b7-4acf-9096-e5241d76f237.svg#gh-light-mode-only) | GitHub Campus Expert | Weź udział w [GitHub Campus Program](https://education.github.com/experts) |
-| ![security-advisory-credit-dark](https://user-images.githubusercontent.com/65187002/173084051-79a0a626-1c1a-4d60-afdf-50ad001d7b21.svg#gh-dark-mode-only)![security-advisory-credit-light](https://user-images.githubusercontent.com/65187002/173084071-5f321da2-b2a9-490b-a524-1b21fa384d7e.svg#gh-light-mode-only) | Security advisory credit | Zgłoszona przez Ciebie informacja o luce musi zostać zaakceptowana i dodana do [GitHub Advisory Database](https://github.com/advisories) |
+|                                                                                                                                                         Odznaka                                                                                                                                                          |           Nazwa            |                                                              Jak ją zdobyć                                                               |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------: |
+|                       ![pro-black](https://user-images.githubusercontent.com/65187002/173065669-d1fdb5a7-8895-43cc-8dea-72a511a37e86.svg#gh-light-mode-only) ![pro-white](https://user-images.githubusercontent.com/65187002/173065531-57dbf8b1-7eb7-4d46-81bf-f2d18c7c9112.svg#gh-dark-mode-only)                       |            Pro             |            Korzystaj z [GitHub Pro](https://docs.github.com/en/get-started/learning-about-github/githubs-products#github-pro)            |
+|   ![developer-program-member-dark](https://user-images.githubusercontent.com/65187002/173079579-3c393d22-7a13-4e7d-87b8-341fb613d52b.svg#gh-dark-mode-only)![developer-program-member-light](https://user-images.githubusercontent.com/65187002/173079614-33f43a97-1cc2-4228-85e3-ef43836e17c2.svg#gh-light-mode-only)   |  Developer Program Member  |              Dołącz do [GitHub Developer Program](https://docs.github.com/en/developers/overview/github-developer-program)               |
+| ![security-bug-bounty-hunter-dark](https://user-images.githubusercontent.com/65187002/173081624-93e3cf1f-50b7-45a4-82b7-1954f66368b9.svg#gh-dark-mode-only)![security-bug-bounty-hunter-light](https://user-images.githubusercontent.com/65187002/173081657-e500d72c-9247-44c2-a3d3-2deff30e1ae7.svg#gh-light-mode-only) | Security Bug Bounty Hunter |                    Pomagaj wyszukiwać luki w zabezpieczeniach w ramach [GitHub Security](https://bounty.github.com/)                     |
+|       ![github-campus-expert-dark](https://user-images.githubusercontent.com/65187002/173082819-b3625c23-bfd6-4492-b828-56ed91c45f52.svg#gh-dark-mode-only)![github-campus-expert-light](https://user-images.githubusercontent.com/65187002/173082836-08be81fe-13b7-4acf-9096-e5241d76f237.svg#gh-light-mode-only)       |    GitHub Campus Expert    |                                Weź udział w [GitHub Campus Program](https://education.github.com/experts)                                |
+|   ![security-advisory-credit-dark](https://user-images.githubusercontent.com/65187002/173084051-79a0a626-1c1a-4d60-afdf-50ad001d7b21.svg#gh-dark-mode-only)![security-advisory-credit-light](https://user-images.githubusercontent.com/65187002/173084071-5f321da2-b2a9-490b-a524-1b21fa384d7e.svg#gh-light-mode-only)   |  Security advisory credit  | Zgłoszona przez Ciebie informacja o luce musi zostać zaakceptowana i dodana do [GitHub Advisory Database](https://github.com/advisories) |
 
 # Uczciwa rywalizacja i przestrzeganie zasad 🏁
 
