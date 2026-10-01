@@ -22,13 +22,13 @@
 <img width="700" src="../img/pair-extraordinaire/pair-step2.png" alt="pair-extraordinaire-step2.png">
 </div>
 
-### 3. Não há necessidade de usar a caixa de filtro, basta clicar em “Novo branch” e criar um novo branch para o seu repositório.
+### 3. Não há necessidade de usar a caixa de filtro, basta clicar em “Nova branch” e criar uma branch nova para o seu repositório.
 
 <div align="center">
 <img width="700" src="../img/pair-extraordinaire/pair-step3.png" alt="pair-extraordinaire-step3.png">
 </div>
 
-### 4. Adicione um resumo na caixa de título e, em seguida, adicione uma descrição. Por fim, adicione um coautor usando o nome de usuário do GitHub (você só precisa enviar um arquivo para o seu repositório, não envie os arquivos).
+### 4. Adicione um resumo na caixa de título e, em seguida, adicione uma descrição. Por fim, adicione um co-autor  usando o nome de usuário do GitHub (você só precisa enviar um arquivo para o seu repositório, não faça push dos arquivos (não envie os arquivos para a branch).
 
 <div align="center">
 <img width="700" src="../img/pair-extraordinaire/pair-step4.png" alt="pair-extraordinaire-step4.png">
