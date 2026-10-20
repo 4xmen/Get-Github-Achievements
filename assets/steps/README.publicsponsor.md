@@ -1,8 +1,8 @@
 # Public Sponsor
 
-<div align="center"  >
+<div align="center">
 
-<img width="296" src="../badges/PublicSponsor.png" alt="QuickDraw-Pin">
+<img width="296" src="../badges/PublicSponsor.png" alt="PublicSponsor-Pin">
 </div>
 
 <hr>
@@ -32,7 +32,7 @@
 <img width="700" src="../img/public-sponsor/sponsor-step4.png" alt="public-sponsor-step4.png">
 </div>
 
-### 5. Done , Now you can see that Public Sponsor Achievement in your achievements list.
+### 5. Done , Now you can see your badge in your achievements list.
 
 <div align="center">
 <img width="300" src="../img/public-sponsor/sponsor-step5.png" alt="public-sponsor-step5.png">
