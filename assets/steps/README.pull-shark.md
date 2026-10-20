@@ -1,40 +1,40 @@
 # Pull Shark
 
-<div align="center"  >
+<div align="center">
 
-<img width="296" src="../badges/PullShark.png" alt="QuickDraw-Pin">
+<img width="296" src="../badges/PullShark.png" alt="PullShark-Pin">
 </div>
 
 <hr>
 
-## How to get Pull Shark GitHub achievement step by step :
+## How to get the Pull Shark GitHub achievement step by step
 
-### 1. You need to get fork from a repository ( you can fork any repository you want ).  
+### 1. Fork a repository of your choice.
 
 <div align="center">
 <img width="700" src="../img/pull-shark/pull-step1.png" alt="pull-shark-step1.png">
 </div>
 
-### 2. When your forked repository create , you need to do some changes on forked repository ( any changes like add new file or do some changes on codes ! ), After that , you need to go to pull request tab;
+### 2. Make a change in your fork, such as adding a file or updating existing code. Then open the Pull requests tab.
 
 <div align="center">
 <img width="700" src="../img/pull-shark/pull-step2.png" alt="pull-shark-step2.png">
 </div>
 
-### 3. Click on create pull request button ;
+### 3. Click the Create pull request button.
 
 <div align="center">
 <img width="700" src="../img/pull-shark/pull-step3.png" alt="pull-shark-step3.png">
 </div>
 
-### 4. Now you can see able to merge green text that means you can merge your pulled request , So click on Create Pull request button to create your pull request successfully . Then you have to wait for your request to be Merged by the creator of repository.
-#### - You need 2 merged pull request , to get the Pull Shark Achievement
+### 4. Submit your pull request and wait for the repository maintainer to merge it.
+#### - You need 2 merged pull requests to get the Pull Shark achievement.
 
 <div align="center">
 <img width="700" src="../img/pull-shark/pull-step4.png" alt="pull-shark-step4.png">
 </div>
 
-### 5. Done , Now you can see that Pull Shark Achievement in your achievements list.
+### 5. Once you meet the requirements, the Pull Shark achievement will appear in your achievements list.
 
 <div align="center">
 <img width="300" src="../img/pull-shark/pull-step5.png" alt="pull-shark-step5.png">
