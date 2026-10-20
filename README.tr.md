@@ -89,7 +89,7 @@
 
 #### - Daha fazla yardıma ihtiyacınız varsa, bu başarımı nasıl elde edeceğinizi adım adım öğrenmek için Nasıl Elde Edilir butonuna tıklayın.
 
-<div align="center"><a href="assets/steps-tr/README.quickdraw-tr.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-tr/README.quickdraw-tr.md"><img src="assets/img/btn-tr.png" alt=""></a></div>
 <hr>
 
 <br>
@@ -107,7 +107,7 @@
 
 #### - Daha fazla yardıma ihtiyacınız varsa, bu başarımı nasıl elde edeceğinizi adım adım öğrenmek için Nasıl Elde Edilir butonuna tıklayın.
 
-<div align="center"><a href="assets/steps-tr/README.yolo-tr.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-tr/README.yolo-tr.md"><img src="assets/img/btn-tr.png" alt=""></a></div>
 <hr>
 
 <br>
@@ -125,7 +125,7 @@
 
 #### - Daha fazla yardıma ihtiyacınız varsa, bu başarımı nasıl elde edeceğinizi adım adım öğrenmek için Nasıl Elde Edilir butonuna tıklayın.
 
-<div align="center"><a href="assets/steps-tr/README.galaxy-brain-tr.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-tr/README.galaxy-brain-tr.md"><img src="assets/img/btn-tr.png" alt=""></a></div>
 <hr>
 
 <br>
@@ -143,7 +143,7 @@
 
 #### - Daha fazla yardıma ihtiyacınız varsa, bu başarımı nasıl elde edeceğinizi adım adım öğrenmek için Nasıl Elde Edilir butonuna tıklayın.
 
-<div align="center"><a href="assets/steps-tr/README.pull-shark-tr.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-tr/README.pull-shark-tr.md"><img src="assets/img/btn-tr.png" alt=""></a></div>
 <hr>
 
 <br>
@@ -161,7 +161,7 @@
 
 #### - Daha fazla yardıma ihtiyacınız varsa, bu başarımı nasıl elde edeceğinizi adım adım öğrenmek için Nasıl Elde Edilir butonuna tıklayın.
 
-<div align="center"><a href="assets/steps-tr/README.starstruck-tr.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-tr/README.starstruck-tr.md"><img src="assets/img/btn-tr.png" alt=""></a></div>
 <hr>
 
 <br>
@@ -179,7 +179,7 @@
 
 #### - Daha fazla yardıma ihtiyacınız varsa, bu başarımı nasıl elde edeceğinizi adım adım öğrenmek için Nasıl Elde Edilir butonuna tıklayın.
 
-<div align="center"><a href="assets/steps-tr/README.pair-extraordinaire-tr.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-tr/README.pair-extraordinaire-tr.md"><img src="assets/img/btn-tr.png" alt=""></a></div>
 <hr>
 
 <br>
@@ -197,7 +197,7 @@
 
 #### - Daha fazla yardıma ihtiyacınız varsa, bu başarımı nasıl elde edeceğinizi adım adım öğrenmek için Nasıl Elde Edilir butonuna tıklayın.
 
-<div align="center"><a href="assets/steps-tr/README.publicsponsor-tr.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-tr/README.publicsponsor-tr.md"><img src="assets/img/btn-tr.png" alt=""></a></div>
 
 <hr>
 
