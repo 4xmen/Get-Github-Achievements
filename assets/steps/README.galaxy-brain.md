@@ -1,36 +1,39 @@
 # Galaxy Brain
 
-<div align="center"  >
+<div align="center">
 
-<img width="296" src="../badges/GalaxyBrain.png" alt="QuickDraw-Pin">
+<img width="296" src="../badges/GalaxyBrain.png" alt="GalaxyBrain-Pin">
 </div>
 
 <hr>
 
-## How to get Galaxy Brain GitHub achievement step by step :
+## How to get the Galaxy Brain GitHub achievement step by step
 
+### 1. Go to the GitHub Community at https://github.com/community/community and choose a feedback category.
 
-### 2. Now you need to find Unanswered Question's in any categories you want . and answer the questions.
+<div align="center">
+<img width="400" src="../img/galaxy-brain/galaxy-step1.png" alt="galaxy-brain-step1.png">
+</div>
+
+### 2. Find an unanswered question in any category you want and answer it.
 
 <div align="center">
 <img width="500" src="../img/galaxy-brain/galaxy-step2.png" alt="galaxy-brain-step2.png">
 </div>
 
-### 3. Write correct answer to question ( Your answer must be the best possible answer to be selected as the submitted answer by the question designer ).
+### 3. Write a helpful, correct answer. The question author must select your answer as the submitted answer.
 
 <div align="center">
 <img width="700" src="../img/galaxy-brain/galaxy-step3.png" alt="galaxy-brain-step3.png">
 </div>
 
-
-
-### 4. You need two submitted answers in any categories you want to get the Galaxy Brain achievement  
+### 4. You need two answers selected as submitted answers to earn the Galaxy Brain achievement.
 
 <div align="center">
 <img width="700" src="../img/galaxy-brain/galaxy-step4.png" alt="galaxy-brain-step4.png">
 </div>
 
-### 5. Done , Now you can see that Galaxy Brain Achievement in your achievements list.
+### 5. Once you meet the requirements, the Galaxy Brain achievement will appear in your achievements list.
 
 <div align="center">
 <img width="300" src="../img/galaxy-brain/galaxy-step5.png" alt="galaxy-brain-finish.png">
