@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="296" src="../badges/GalaxyBrain.png" alt="QuickDraw-Pin">
+<img width="296" src="../badges/GalaxyBrain.png" alt="GalaxyBrain-Pin">
 </div>
 
 <hr>
@@ -27,7 +27,7 @@
 <img width="700" src="../img/galaxy-brain/galaxy-step3.png" alt="galaxy-brain-step3.png">
 </div>
 
-### 4. Anda membutuhkan dua jawaban yang diajukan di kategori apa pun yang Anda inginkan untuk mendapatkan prestasi Galaxy Brain  
+### 4. Anda membutuhkan dua jawaban yang diajukan di kategori apa pun yang Anda inginkan untuk mendapatkan prestasi Galaxy Brain
 
 <div align="center">
 <img width="700" src="../img/galaxy-brain/galaxy-step4.png" alt="galaxy-brain-step4.png">
