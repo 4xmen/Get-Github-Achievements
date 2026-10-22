@@ -1,8 +1,8 @@
 # Public Sponsor
 
-<div align="center"  >
+<div align="center">
 
-<img width="296" src="../badges/PublicSponsor.png" alt="QuickDraw-Pin">
+<img width="296" src="../badges/PublicSponsor.png" alt="PublicSponsor-Pin">
 </div>
 
 <hr>

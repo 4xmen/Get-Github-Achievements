@@ -1,8 +1,8 @@
 # Yolo
 
-<div align="center"  >
+<div align="center">
 
-<img width="296" src="../badges/Yolo.png" alt="QuickDraw-Pin">
+<img width="296" src="../badges/Yolo.png" alt="Yolo-Pin">
 </div>
 
 <hr>
@@ -55,7 +55,7 @@
 ### 8. At last, Check that your Reviewer and Then click on Merge pull request.
 
 <div align="center">
-<img width="700" src="../img/yolo/yolo-step8.png" alt="yolo-step7.png">
+<img width="700" src="../img/yolo/yolo-step8.png" alt="yolo-step8.png">
 </div>
 
 
