@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Question about an achievement
+    url: https://github.com/4xmen/Get-Github-Achievements/discussions
+    about: Ask and answer questions in Discussions.

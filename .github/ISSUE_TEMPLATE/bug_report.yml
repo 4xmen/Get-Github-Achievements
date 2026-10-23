@@ -1,0 +1,30 @@
+name: Wrong or outdated info
+description: A mistake, a broken link or an outdated step in a guide or tutorial
+labels: [bug]
+assignees: [YasinDehfuli]
+body:
+  - type: input
+    id: file
+    attributes:
+      label: Which file?
+      description: For example `README.md`, `README.de.md` or `assets/steps/README.yolo.md`. A link is fine too.
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is wrong?
+      description: Add a screenshot if it helps.
+    validations:
+      required: true
+  - type: textarea
+    id: fix
+    attributes:
+      label: What should it say?
+      description: If you know the right text or step, write it here.
+  - type: checkboxes
+    id: help
+    attributes:
+      label: Can you fix it?
+      options:
+        - label: I'd like to open a Pull Request for this myself
