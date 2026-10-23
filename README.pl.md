@@ -1,16 +1,35 @@
-<!-- <div align="center"> -->
-
 ## Wersje językowe
 
 <div align="center">
-
-|                                                                                                                                        |                                                                                                                                         |                                                                                                                                                   |                                                                                                                                           |                                                                                                                                           |                                                                                                                                          |
-| :------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------: |
-|  [![en](https://img.shields.io/badge/Lang-English-blue.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.md)   | [![fa](https://img.shields.io/badge/Lang-Persian-green.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.fa.md) |      [![ar](https://img.shields.io/badge/Lang-Arabic-black.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.ar.md)       | [![de](https://img.shields.io/badge/Lang-Deutsch-yellow.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.de.md)  |  [![fr](https://img.shields.io/badge/Lang-French-orange.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.fr.md)  | [![ru](https://img.shields.io/badge/Lang-Russian-orange.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.ru.md) |
-|  [![tr](https://img.shields.io/badge/Lang-Turkish-red.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.tr.md)   |   [![nl](https://img.shields.io/badge/Lang-Dutch-green.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.nl.md)   | [![cn](https://img.shields.io/badge/Lang-Chinese-blue?color=%23FF0000)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.chs.md) |   [![es](https://img.shields.io/badge/Lang-Spanish-green.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.es.md)   | [![id](https://img.shields.io/badge/Lang-Indonesian-purple.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.id.md) |  [![hin](https://img.shields.io/badge/Lang-Hindi-orange.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.hin.md)  |
-| [![ja](https://img.shields.io/badge/Lang-Japanese-white.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.ja.md) | [![am](https://img.shields.io/badge/Lang-Armenia-crimson.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.am.md) |     [![sw](https://img.shields.io/badge/Lang-Swahili-darkgreen.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.sw.md)     | [![pt](https://img.shields.io/badge/Lang-Portuguese-blue.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.pt.md) |  [![bn](https://img.shields.io/badge/Lang-Bengali-black.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/master/README.bn.md)  |  [![vi](https://img.shields.io/badge/Lang-Vietnamese-red.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.vi.md)  |
-|   [![pl](https://img.shields.io/badge/Lang-Polish-red.svg)](https://github.com/4xmen/Get-Github-Achievements/blob/main/README.pl.md)   |                                                                                                                                         |                                                                                                                                                   |                                                                                                                                           |                                                                                                                                           |                                                                                                                                          |
-
+    <table>
+    <tr>
+        <td align="center"><a href="README.md"><img src="https://img.shields.io/badge/Lang-English-blue.svg" alt="en"></a></td>
+        <td align="center"><a href="README.fa.md"><img src="https://img.shields.io/badge/Lang-Persian-green.svg" alt="fa"></a></td>
+        <td align="center"><a href="README.ar.md"><img src="https://img.shields.io/badge/Lang-Arabic-black.svg" alt="ar"></a></td>
+        <td align="center"><a href="README.de.md"><img src="https://img.shields.io/badge/Lang-German-yellow.svg" alt="de"></a></td>
+        <td align="center"><a href="README.fr.md"><img src="https://img.shields.io/badge/Lang-French-orange.svg" alt="fr"></a></td>
+        <td align="center"><a href="README.ru.md"><img src="https://img.shields.io/badge/Lang-Russian-orange.svg" alt="ru"></a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="README.tr.md"><img src="https://img.shields.io/badge/Lang-Turkish-red.svg" alt="tr"></a></td>
+        <td align="center"><a href="README.nl.md"><img src="https://img.shields.io/badge/Lang-Dutch-green.svg" alt="nl"></a></td>
+        <td align="center"><a href="README.chs.md"><img src="https://img.shields.io/badge/Lang-Chinese-red.svg" alt="zh"></a></td>
+        <td align="center"><a href="README.es.md"><img src="https://img.shields.io/badge/Lang-Spanish-green.svg" alt="es"></a></td>
+        <td align="center"><a href="README.id.md"><img src="https://img.shields.io/badge/Lang-Indonesian-purple.svg" alt="id"></a></td>
+        <td align="center"><a href="README.hin.md"><img src="https://img.shields.io/badge/Lang-Hindi-orange.svg" alt="hi"></a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="README.ja.md"><img src="https://img.shields.io/badge/Lang-Japanese-white.svg" alt="ja"></a></td>
+        <td align="center"><a href="README.am.md"><img src="https://img.shields.io/badge/Lang-Armenian-crimson.svg" alt="hy"></a></td>
+        <td align="center"><a href="README.sw.md"><img src="https://img.shields.io/badge/Lang-Swahili-darkgreen.svg" alt="sw"></a></td>
+        <td align="center"><a href="README.pt.md"><img src="https://img.shields.io/badge/Lang-Portuguese-blue.svg" alt="pt"></a></td>
+        <td align="center"><a href="README.bn.md"><img src="https://img.shields.io/badge/Lang-Bengali-black.svg" alt="bn"></a></td>
+        <td align="center"><a href="README.vi.md"><img src="https://img.shields.io/badge/Lang-Vietnamese-red.svg" alt="vi"></a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="README.pl.md"><img src="https://img.shields.io/badge/Lang-Polish-red.svg" alt="pl"></a></td>
+    </tr>
+    </table>
 </div>
 
 # Osiągnięcia GitHub 🏆
@@ -71,7 +90,7 @@
 
 #### - Jeśli potrzebujesz więcej wskazówek, kliknij przycisk „Jak zdobyć”, aby przejść do instrukcji krok po kroku.
 
-<div align="center"><a href="assets/steps-pl/README.quickdraw.pl.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-pl/README.quickdraw.pl.md"><img src="assets/img/btn.png" alt="How to get"></a></div>
 <hr>
 
 <br>
@@ -89,7 +108,7 @@
 
 #### - Jeśli potrzebujesz więcej wskazówek, kliknij przycisk „Jak zdobyć”, aby przejść do instrukcji krok po kroku.
 
-<div align="center"><a href="assets/steps-pl/README.yolo.pl.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-pl/README.yolo.pl.md"><img src="assets/img/btn.png" alt="How to get"></a></div>
 <hr>
 
 <br>
@@ -107,7 +126,7 @@
 
 #### - Jeśli potrzebujesz więcej wskazówek, kliknij przycisk „Jak zdobyć”, aby przejść do instrukcji krok po kroku.
 
-<div align="center"><a href="assets/steps-pl/README.pull-shark.pl.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-pl/README.pull-shark.pl.md"><img src="assets/img/btn.png" alt="How to get"></a></div>
 <hr>
 
 <br>
@@ -125,7 +144,7 @@
 
 #### - Jeśli potrzebujesz więcej wskazówek, kliknij przycisk „Jak zdobyć”, aby przejść do instrukcji krok po kroku.
 
-<div align="center"><a href="assets/steps-pl/README.starstruck.pl.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-pl/README.starstruck.pl.md"><img src="assets/img/btn.png" alt="How to get"></a></div>
 <hr>
 
 <br>
@@ -143,7 +162,7 @@
 
 #### - Jeśli potrzebujesz więcej wskazówek, kliknij przycisk „Jak zdobyć”, aby przejść do instrukcji krok po kroku.
 
-<div align="center"><a href="assets/steps-pl/README.pair-extraordinaire.pl.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-pl/README.pair-extraordinaire.pl.md"><img src="assets/img/btn.png" alt="How to get"></a></div>
 <hr>
 
 <br>
@@ -161,7 +180,7 @@
 
 #### - Jeśli potrzebujesz więcej wskazówek, kliknij przycisk „Jak zdobyć”, aby przejść do instrukcji krok po kroku.
 
-<div align="center"><a href="assets/steps-pl/README.publicsponsor.pl.md"><img src="assets/img/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-pl/README.publicsponsor.pl.md"><img src="assets/img/btn.png" alt="How to get"></a></div>
 
 <hr>
 
@@ -172,9 +191,7 @@
 <br>
 
 <div align="center">
-<a href="">
 <img width="296" src="assets/badges/HeartOnYourSleeve.png" alt="HeartOnYourSleeve-Pin">
-</a>
 </div>
 <hr>
 
@@ -216,7 +233,7 @@
 
 <div align="center">
 <a href="https://archiveprogram.github.com/">
-<img width="296" src="assets/badges/Arctic-Code-Vault-Contributor.png" alt="Mars 2020 Contributor">
+<img width="296" src="assets/badges/Arctic-Code-Vault-Contributor.png" alt="Arctic Code Vault Contributor">
 </a>
 </div>
 <hr>
@@ -230,9 +247,7 @@
 <br>
 
 <div align="center">
-<a href="https://github.com/readme/featured/nasa-ingenuity-helicopter">
 <img width="296" src="assets/badges/GalaxyBrain.png" alt="GalaxyBrain-Pin">
-</a>
 </div>
 <hr>
 
@@ -282,7 +297,7 @@
 
 # Uczciwa rywalizacja i przestrzeganie zasad 🏁
 
-<be>
+<br>
 
 #### To repozytorium ma uczyć, jak zdobywać osiągnięcia GitHub. Przestrzegaj zasad i wytycznych społeczności GitHub. Bierz aktywny udział w życiu społeczności i nie angażuj się w ten projekt wyłącznie po to, by zdobyć osiągnięcia. Takie działanie jest sprzeczne z naszymi intencjami i zasadami GitHub. Wspieraj projekty w uczciwy sposób, aby wspólnie budować lepszą społeczność.
 
@@ -294,7 +309,4 @@
 
 #### Więcej informacji o odznakach GitHub znajdziesz [tutaj](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile).
 
-<!-- </div> -->
 <br>
-
-####
