@@ -2,18 +2,14 @@
 
 <div align="center"  >
 
-<img width="296" src="../badges/GalaxyBrain.png" alt="QuickDraw-Pin">
+<img width="296" src="../badges/GalaxyBrain.png" alt="GalaxyBrain-Pin">
 </div>
 
 <hr>
 
 ## 如何一步一步获得 Galaxy Brain GitHub 成就 :
 
-### 1. 你需要转到GitHub社区地址 (https://github.com/community/community) 并选择其中一个反馈类别
-
-<div align="center">
-<img width="400" src="../img/galaxy-brain/galaxy-step1.png" alt="galaxy-brain-step1.png">
-</div>
+### 1. 打开任意公开仓库的 Discussions 标签页，并选择 Q&A 类别（或其他可以标记答案的类别）。GitHub 官方 Community 论坛已关闭成就功能，因此在那里的回答不再计入。
 
 ### 2. 现在你需要在你想要的任何类别中找到未回答的问题并回答问题
 

@@ -2,18 +2,14 @@
 
 <div align="center"  >
 
-<img width="296" src="../badges/GalaxyBrain.png" alt="QuickDraw-Pin">
+<img width="296" src="../badges/GalaxyBrain.png" alt="GalaxyBrain-Pin">
 </div>
 
 <hr>
 
 ## ギャラクシーブレイン GitHub アチーブメントをステップバイステップで取得する方法 :
 
-### 1. GitHubのコミュニティアドレスにアクセスする必要があります。 (https://github.com/community/community) . そして、フィードバックのカテゴリーを選択してください。 .
-
-<div align="center">
-<img width="400" src="../img/galaxy-brain/galaxy-step1.png" alt="galaxy-brain-step1.png">
-</div>
+### 1. 任意の公開リポジトリの Discussions タブを開き、Q&A カテゴリ（または回答をマークできる他のカテゴリ）を選択してください。GitHub 公式の Community フォーラムでは実績が無効化されたため、そこでの回答はカウントされなくなりました。
 
 ### 2. 今、回答されていない質問を任意のカテゴリで見つける必要があります。そして、その質問に回答してください。
 

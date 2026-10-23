@@ -2,18 +2,14 @@
 
 <div align="center"  >
 
-<img width="296" src="../badges/GalaxyBrain.png" alt="QuickDraw-Pin">
+<img width="296" src="../badges/GalaxyBrain.png" alt="GalaxyBrain-Pin">
 </div>
 
 <hr>
 
 ## So erhalten Sie Schritt für Schritt den Galaxy Brain GitHub-Erfolg:
 
-### 1. Sie müssen zur GitHub-Community-Adresse (https://github.com/community/community) gehen. Und wählen Sie eine der Feedback-Kategorien aus.
-
-<div align="center">
-<img width="400" src="../img/galaxy-brain/galaxy-step1.png" alt="galaxy-brain-step1.png">
-</div>
+### 1. Öffnen Sie den Tab „Discussions“ eines beliebigen öffentlichen Repositorys und wählen Sie die Kategorie „Q&A“ (oder eine andere Kategorie, in der eine Antwort markiert werden kann). Antworten im offiziellen GitHub-Community-Forum zählen nicht mehr, da GitHub dort Achievements deaktiviert hat.
 
 ### 2. Jetzt müssen Sie unbeantwortete Fragen in den gewünschten Kategorien finden. und beantworte die Fragen.
 

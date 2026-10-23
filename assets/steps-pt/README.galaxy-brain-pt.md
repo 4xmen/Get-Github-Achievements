@@ -2,18 +2,14 @@
 
 <div align="center"  >
 
-<img width="296" src="../badges/GalaxyBrain.png" alt="QuickDraw-Pin">
+<img width="296" src="../badges/GalaxyBrain.png" alt="GalaxyBrain-Pin">
 </div>
 
 <hr>
 
 ## Como obter a conquista Galaxy Brain no GitHub passo a passo:
 
-### 1. Você deve acessar a comunidade GitHub (https://github.com/community/community). E selecione uma das categorias de comentários.
-
-<div align="center">
-<img width="400" src="../img/galaxy-brain/galaxy-step1.png" alt="galaxy-brain-step1.png">
-</div>
+### 1. Abra a aba Discussions de qualquer repositório público e escolha a categoria Q&A (ou qualquer outra categoria em que uma resposta possa ser marcada). Respostas no fórum oficial GitHub Community não contam mais, porque o GitHub desativou as conquistas lá.
 
 ### 2. Agora você deve encontrar as perguntas não respondidas nas categorias desejadas e respondê-las.
 

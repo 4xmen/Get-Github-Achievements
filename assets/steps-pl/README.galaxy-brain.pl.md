@@ -6,6 +6,8 @@
 
 ## Jak krok po kroku zdobyć osiągnięcie GitHub Galaxy Brain
 
+### 1. Otwórz zakładkę Discussions dowolnego publicznego repozytorium i wybierz kategorię Q&A (lub inną kategorię, w której można oznaczyć odpowiedź). Odpowiedzi na oficjalnym forum GitHub Community już się nie liczą, ponieważ GitHub wyłączył tam osiągnięcia.
+
 ### 2. Znajdź pytania bez odpowiedzi w wybranej kategorii i odpowiedz na nie.
 
 <div align="center"><img width="500" src="../img/galaxy-brain/galaxy-step2.png" alt="galaxy-brain-step2.png"></div>

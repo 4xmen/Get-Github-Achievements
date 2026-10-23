@@ -114,6 +114,24 @@
 <br>
 
 <div align="center"  >
+<a href="assets/steps/README.galaxy-brain.md">
+<img width="296" src="assets/badges/GalaxyBrain.png" alt="GalaxyBrain-Pin">
+</a>
+</div>
+<hr>
+
+## How to Get Galaxy Brain Achievement
+
+### Getting Galaxy Brain is harder than the previous two achievements because you need other GitHub users. To get it, answer questions in the Q&A category of a public repository's Discussions, and get two of your answers marked as the accepted answer.
+
+#### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
+
+<div align="center"><a href="assets/steps/README.galaxy-brain.md"><img src="assets/img/btn.png" alt="How to get"></a></div>
+<hr>
+
+<br>
+
+<div align="center"  >
 <a href="assets/steps/README.pull-shark.md">
 <img width="296" src="assets/badges/PullShark.png" alt="PullShark-Pin">
 </a>
@@ -245,17 +263,6 @@
 <hr>
 
 <br>
-
-<div align="center"  >
-<img width="296" src="assets/badges/GalaxyBrain.png" alt="GalaxyBrain-Pin">
-</div>
-<hr>
-
-## Galaxy Brain 2022
-
-### Answered a discussion (got an accepted answer two times), From 2020 to 2024.
-
-<hr>
 
 # Achievement Skin Tone 👋
 

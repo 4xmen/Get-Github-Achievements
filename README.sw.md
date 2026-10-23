@@ -116,6 +116,25 @@
 <br>
 
 <div align="center"  >
+<a href="assets/steps-sw/README.galaxy-brain-sw.md">
+<img width="296" src="assets/badges/GalaxyBrain.png" alt="GalaxyBrain-Pin">
+</a>
+</div>
+<hr>
+
+## Jinsi ya kupata fanikio la Galaxy Brain
+
+### Kupata Galaxy Brain ni vigumu zaidi kuliko mafanikio mawili yaliyotangulia, kwa sababu unawahitaji watumiaji wengine wa GitHub. Ili kulipata, jibu maswali katika kategoria ya Q&A ya Discussions ya hifadhi yoyote ya umma, na majibu yako mawili yawekwe alama kama jibu lililokubaliwa.
+
+#### - Ikiwa unahitaji usaidizi zaidi, bofya kitufe cha
+`Jinsi ya Kupata` ili kupata mafunzo ya hatua kwa hatua kuhusu jinsi ya kupata fanikio hili.
+
+<div align="center"><a href="assets/steps-sw/README.galaxy-brain-sw.md"><img src="assets/img/btn.png" alt="How to get"></a></div>
+<hr>
+
+<br>
+
+<div align="center"  >
 <a href="assets/steps-sw/README.pull-shark-sw.md">
 <img width="296" src="assets/badges/PullShark.png" alt="PullShark-Pin">
 </a>
@@ -251,17 +270,6 @@
 <hr>
 
 <br>
-
-<div align="center"  >
-<img width="296" src="assets/badges/GalaxyBrain.png" alt="GalaxyBrain-Pin">
-</div>
-<hr>
-
-## Galaxy Brain 2022
-
-### Jibu mjadala(Iwapo una majibu mawili yaliyokubaliwa), Kutoka 2020 mpaka 2024
-
-<hr>
 
 # Rangi ya Ngozi kwa Mafanikio 👋
 

@@ -114,7 +114,7 @@
 <br>
 
 <div align="center"  >
-<a href="assets/steps-hin/README.galaxy-brain-hin.md">
+<a href="assets/steps-bn/README.galaxy-brain-bn.md">
 <img width="296" src="assets/badges/GalaxyBrain.png" alt="GalaxyBrain-Pin">
 </a>
 </div>

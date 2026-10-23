@@ -2,18 +2,14 @@
 
 <div align="center"  >
 
-<img width="296" src="../badges/GalaxyBrain.png" alt="QuickDraw-Pin">
+<img width="296" src="../badges/GalaxyBrain.png" alt="GalaxyBrain-Pin">
 </div>
 
 <hr>
 
 ## Comment obtenir le succès Galaxy Brain GitHub étape par étape :
 
-### 1. Vous devez vous rendre à l'adresse de la communauté GitHub (https://github.com/community/community) . Et sélectionnez l'une des catégories de commentaires .
-
-<div align="center">
-<img width="400" src="../img/galaxy-brain/galaxy-step1.png" alt="galaxy-brain-step1.png">
-</div>
+### 1. Ouvrez l'onglet Discussions de n'importe quel dépôt public et choisissez la catégorie Q&A (ou toute autre catégorie où une réponse peut être marquée). Les réponses publiées sur le forum officiel GitHub Community ne comptent plus, car GitHub y a désactivé les succès.
 
 ### 2. Vous devez maintenant trouver les questions sans réponse dans toutes les catégories de votre choix. et répondre aux questions.
 
