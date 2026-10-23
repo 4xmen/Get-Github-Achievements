@@ -1,32 +1,33 @@
-<!-- <div align="center"> -->
-
 ## 语言
 
 <div align="center">
     <table>
     <tr>
-        <td align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/README.md"><img src="https://img.shields.io/badge/Lang-English-blue.svg" alt="en"></a></td>
-        <td align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/README.fa.md"><img src="https://img.shields.io/badge/Lang-Persian-green.svg" alt="fa"></a></td>
-        <td align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/README.ar.md"><img src="https://img.shields.io/badge/Lang-Arabic-black.svg" alt="ar"></a></td>
-        <td align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/README.de.md"><img src="https://img.shields.io/badge/Lang-Deutsch-yellow.svg" alt="de"></a></td>
-        <td align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/README.fr.md"><img src="https://img.shields.io/badge/Lang-French-orange.svg" alt="fr"></a></td>
-        <td align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/README.ru.md"><img src="https://img.shields.io/badge/Lang-Russian-orange.svg" alt="ru"></a></td>
+        <td align="center"><a href="README.md"><img src="https://img.shields.io/badge/Lang-English-blue.svg" alt="en"></a></td>
+        <td align="center"><a href="README.fa.md"><img src="https://img.shields.io/badge/Lang-Persian-green.svg" alt="fa"></a></td>
+        <td align="center"><a href="README.ar.md"><img src="https://img.shields.io/badge/Lang-Arabic-black.svg" alt="ar"></a></td>
+        <td align="center"><a href="README.de.md"><img src="https://img.shields.io/badge/Lang-German-yellow.svg" alt="de"></a></td>
+        <td align="center"><a href="README.fr.md"><img src="https://img.shields.io/badge/Lang-French-orange.svg" alt="fr"></a></td>
+        <td align="center"><a href="README.ru.md"><img src="https://img.shields.io/badge/Lang-Russian-orange.svg" alt="ru"></a></td>
     </tr>
     <tr>
-        <td align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/README.tr.md"><img src="https://img.shields.io/badge/Lang-Turkish-red.svg" alt="tr"></a></td>
-        <td align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/README.nl.md"><img src="https://img.shields.io/badge/Lang-Dutch-green.svg" alt="nl"></a></td>
-        <td align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/README.chs.md"><img src="https://img.shields.io/badge/Lang-Chinese-blue?color=%23FF0000" alt="cn"></a></td>
-        <td align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/README.es.md"><img src="https://img.shields.io/badge/Lang-Spanish-green.svg" alt="es"></a></td>
-        <td align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/README.id.md"><img src="https://img.shields.io/badge/Lang-Indonesian-purple.svg" alt="id"></a></td>
-        <td align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/README.hin.md"><img src="https://img.shields.io/badge/Lang-Hindi-orange.svg" alt="hin"></a></td>
+        <td align="center"><a href="README.tr.md"><img src="https://img.shields.io/badge/Lang-Turkish-red.svg" alt="tr"></a></td>
+        <td align="center"><a href="README.nl.md"><img src="https://img.shields.io/badge/Lang-Dutch-green.svg" alt="nl"></a></td>
+        <td align="center"><a href="README.chs.md"><img src="https://img.shields.io/badge/Lang-Chinese-red.svg" alt="zh"></a></td>
+        <td align="center"><a href="README.es.md"><img src="https://img.shields.io/badge/Lang-Spanish-green.svg" alt="es"></a></td>
+        <td align="center"><a href="README.id.md"><img src="https://img.shields.io/badge/Lang-Indonesian-purple.svg" alt="id"></a></td>
+        <td align="center"><a href="README.hin.md"><img src="https://img.shields.io/badge/Lang-Hindi-orange.svg" alt="hi"></a></td>
     </tr>
     <tr>
-        <td align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/README.ja.md"><img src="https://img.shields.io/badge/Lang-Japanese-white.svg" alt="ja"></a></td>
-        <td align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/README.am.md"><img src="https://img.shields.io/badge/Lang-Armenia-crimson.svg" alt="am"></a></td>
-        <td align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/README.sw.md"><img src="https://img.shields.io/badge/Lang-Swahili-darkgreen.svg" alt="sw"></a></td>
-        <td align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/README.pt.md"><img src="https://img.shields.io/badge/Lang-Portuguese-blue.svg" alt="pt"></a></td>
-        <td align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/README.bn.md"><img src="https://img.shields.io/badge/Lang-Bengali-black.svg" alt="bn"></a></td>
-        <td align="center"><a href="https://github.com/4xmen/Get-Github-Achievements/blob/main/README.vi.md"><img src="https://img.shields.io/badge/Lang-Vietnamese-red.svg" alt="vi"></a></td>
+        <td align="center"><a href="README.ja.md"><img src="https://img.shields.io/badge/Lang-Japanese-white.svg" alt="ja"></a></td>
+        <td align="center"><a href="README.am.md"><img src="https://img.shields.io/badge/Lang-Armenian-crimson.svg" alt="hy"></a></td>
+        <td align="center"><a href="README.sw.md"><img src="https://img.shields.io/badge/Lang-Swahili-darkgreen.svg" alt="sw"></a></td>
+        <td align="center"><a href="README.pt.md"><img src="https://img.shields.io/badge/Lang-Portuguese-blue.svg" alt="pt"></a></td>
+        <td align="center"><a href="README.bn.md"><img src="https://img.shields.io/badge/Lang-Bengali-black.svg" alt="bn"></a></td>
+        <td align="center"><a href="README.vi.md"><img src="https://img.shields.io/badge/Lang-Vietnamese-red.svg" alt="vi"></a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="README.pl.md"><img src="https://img.shields.io/badge/Lang-Polish-red.svg" alt="pl"></a></td>
     </tr>
     </table>
 </div>
@@ -91,7 +92,7 @@
 
 #### - 如果您需要更多帮助，可以点击"如何获得"按钮，获取有关如何获得该成就的逐步教程。请注意，这些信息是根据搜索结果提供的，并可能随时间变化而有所不同。建议在GitHub官方文档或相关社区中查找最新的信息和指南。
 
-<div align="center"><a href="assets/steps-chs/README.quickdraw.md"><img src="assets/img/btn-chs.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-chs/README.quickdraw.md"><img src="assets/img/btn-chs.png" alt="How to get"></a></div>
 <hr>
 
 <br>
@@ -111,7 +112,7 @@
 
 #### - 如果您需要更多帮助，可以点击"如何获得"按钮，获取有关如何获得该成就的逐步教程。请注意，这些信息是根据搜索结果提供的，并可能随时间变化而有所不同。建议在GitHub官方文档或相关社区中查找最新的信息和指南。
 
-<div align="center"><a href="assets/steps-chs/README.yolo.md"><img src="assets/img/btn-chs.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-chs/README.yolo.md"><img src="assets/img/btn-chs.png" alt="How to get"></a></div>
 <hr>
 
 <br>
@@ -135,7 +136,7 @@
 
 #### - 如果您需要更多帮助，可以点击"如何获得"按钮，获取有关如何获得该成就的逐步教程。请注意，这些信息是根据搜索结果提供的，并可能随时间变化而有所不同。建议在GitHub官方文档或相关社区中查找最新的信息和指南。
 
-<div align="center"><a href="assets/steps-chs/README.galaxy-brain.md"><img src="assets/img/btn-chs.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-chs/README.galaxy-brain.md"><img src="assets/img/btn-chs.png" alt="How to get"></a></div>
 <hr>
 
 <br>
@@ -157,7 +158,7 @@
 
 #### - 如果您需要更多帮助，可以点击"如何获得"按钮，获取有关如何获得该成就的逐步教程。请注意，这些信息是根据搜索结果提供的，并可能随时间变化而有所不同。建议在GitHub官方文档或相关社区中查找最新的信息和指南。
 
-<div align="center"><a href="assets/steps-chs/README.pull-shark.md"><img src="assets/img/btn-chs.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-chs/README.pull-shark.md"><img src="assets/img/btn-chs.png" alt="How to get"></a></div>
 <hr>
 
 <br>
@@ -181,7 +182,7 @@
 
 #### - 如果您需要更多帮助，可以点击"如何获得"按钮，获取有关如何获得该成就的逐步教程。请注意，这些信息是根据搜索结果提供的，并可能随时间变化而有所不同。建议在GitHub官方文档或相关社区中查找最新的信息和指南。
 
-<div align="center"><a href="assets/steps-chs/README.starstruck.md"><img src="assets/img/btn-chs.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-chs/README.starstruck.md"><img src="assets/img/btn-chs.png" alt="How to get"></a></div>
 <hr>
 
 <br>
@@ -203,7 +204,7 @@
 
 #### - 如果您需要更多帮助，可以点击"如何获得"按钮，获取有关如何获得该成就的逐步教程。请注意，这些信息是根据搜索结果提供的，并可能随时间变化而有所不同。建议在GitHub官方文档或相关社区中查找最新的信息和指南。
 
-<div align="center"><a href="assets/steps-chs/README.pair-extraordinaire.md"><img src="assets/img/btn-chs.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-chs/README.pair-extraordinaire.md"><img src="assets/img/btn-chs.png" alt="How to get"></a></div>
 <hr>
 
 <br>
@@ -221,7 +222,7 @@
 
 #### - 如果您需要更多帮助，可以点击"如何获得"按钮，获取有关如何获得该成就的逐步教程。请注意，这些信息是根据搜索结果提供的，并可能随时间变化而有所不同。建议在GitHub官方文档或相关社区中查找最新的信息和指南。
 
-<div align="center"><a href="assets/steps-chs/README.publicsponsor.md"><img src="assets/img/btn-chs.png" alt=""></a></div>
+<div align="center"><a href="assets/steps-chs/README.publicsponsor.md"><img src="assets/img/btn-chs.png" alt="How to get"></a></div>
 
 <hr>
 
@@ -232,9 +233,7 @@
 <br>
 
 <div align="center"  >
-<a href="">
 <img width="296" src="assets/badges/HeartOnYourSleeve.png" alt="HeartOnYourSleeve-Pin">
-</a>
 </div>
 <hr>
 
@@ -276,7 +275,7 @@
 
 <div align="center"  >
 <a href="https://archiveprogram.github.com/">
-<img width="296" src="assets/badges/Arctic-Code-Vault-Contributor.png" alt="Mars 2020 Contributor">
+<img width="296" src="assets/badges/Arctic-Code-Vault-Contributor.png" alt="Arctic Code Vault Contributor">
 </a>
 </div>
 <hr>
@@ -341,9 +340,4 @@
 
 #### 您可以在下面找到有关 GitHub 徽章的更多信息 [link](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile)
 
-<!-- </div> -->
 <br>
-
-####           
-
-
