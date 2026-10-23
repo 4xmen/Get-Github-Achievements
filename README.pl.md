@@ -114,6 +114,24 @@
 <br>
 
 <div align="center">
+<a href="assets/steps-pl/README.galaxy-brain.pl.md">
+<img width="296" src="assets/badges/GalaxyBrain.png" alt="GalaxyBrain-Pin">
+</a>
+</div>
+<hr>
+
+## Jak zdobyć osiągnięcie Galaxy Brain
+
+### Galaxy Brain jest trudniejsze do zdobycia niż dwa poprzednie osiągnięcia, bo potrzebujesz do tego innych użytkowników GitHub. Aby je zdobyć, odpowiadaj na pytania w kategorii Q&A w zakładce Discussions publicznego repozytorium. Dwie Twoje odpowiedzi muszą zostać oznaczone jako zaakceptowane.
+
+#### - Jeśli potrzebujesz więcej wskazówek, kliknij przycisk „Jak zdobyć”, aby przejść do instrukcji krok po kroku.
+
+<div align="center"><a href="assets/steps-pl/README.galaxy-brain.pl.md"><img src="assets/img/btn.png" alt="How to get"></a></div>
+<hr>
+
+<br>
+
+<div align="center">
 <a href="assets/steps-pl/README.pull-shark.pl.md">
 <img width="296" src="assets/badges/PullShark.png" alt="PullShark-Pin">
 </a>
@@ -245,17 +263,6 @@
 <hr>
 
 <br>
-
-<div align="center">
-<img width="296" src="assets/badges/GalaxyBrain.png" alt="GalaxyBrain-Pin">
-</div>
-<hr>
-
-## Galaxy Brain 2022
-
-### Udzielenie odpowiedzi w dyskusji, która dwukrotnie została zaakceptowana jako najlepsza odpowiedź. Osiągnięcie dotyczy lat 2020–2024.
-
-<hr>
 
 # Odcień skóry odznak 👋
 

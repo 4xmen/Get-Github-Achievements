@@ -4,18 +4,14 @@
 
 <div align="center"  >
 
-<img width="296" src="../badges/GalaxyBrain.png" alt="QuickDraw-Pin">
+<img width="296" src="../badges/GalaxyBrain.png" alt="GalaxyBrain-Pin">
 </div>
 
 <hr>
 
 ## نحوه دریافت پین Galaxy Brain , قدم به قدم  :
 
-### 1. در مرحله اول نیاز است به آدرس  (https://github.com/community/community) , رفته سپس یکی از دسته های دسته بندی هارا انتخاب کنید که میتوانید به سوالات در کاربران در آن دسته پاسخ دهید  .
-
-<div align="center">
-<img width="400" src="../img/galaxy-brain/galaxy-step1.png" alt="galaxy-brain-step1.png">
-</div>
+### 1. در مرحله اول به تب Discussions یکی از مخزن‌های عمومی (public repository) بروید و دسته‌بندی Q&A (یا هر دسته‌بندی دیگری که امکان انتخاب پاسخ در آن وجود دارد) را انتخاب کنید. پاسخ‌هایی که در انجمن رسمی GitHub Community داده می‌شوند دیگر حساب نمی‌شوند، چون گیت‌هاب دریافت پین را در آن‌جا غیرفعال کرده است.
 
 ### 2. حال نیاز است از دسته بندی انتخاب شده . به سوالات کاربران پاسخ دهید.
 

@@ -2,18 +2,14 @@
 
 <div align="center"  >
 
-<img width="296" src="../badges/GalaxyBrain.png" alt="QuickDraw-Pin">
+<img width="296" src="../badges/GalaxyBrain.png" alt="GalaxyBrain-Pin">
 </div>
 
 <hr>
 
 ## Ինչպես քայլ առ քայլ ստանալ Galaxy Brain-ը:
 
-### 1. Դուք պետք է գնաք GitHub համայնք (https://github.com/community/community) և պատասխանել հարցերին:
-
-<div align="center">
-<img width="400" src="../img/galaxy-brain/galaxy-step1.png" alt="galaxy-brain-step1.png">
-</div>
+### 1. Բացեք ցանկացած հանրային ռեպոզիտորիայի Discussions ներդիրը և ընտրեք Q&A կատեգորիան (կամ ցանկացած այլ կատեգորիա, որտեղ պատասխանը կարելի է նշել որպես ընդունված): GitHub-ի պաշտոնական Community ֆորումում տրված պատասխաններն այլևս չեն հաշվվում, քանի որ GitHub-ն այնտեղ անջատել է ձեռքբերումները:
 
 ### 2. Այժմ դուք պետք է անպատասխան հարցեր գտնեք ձեր ուզած կատեգորիաներում և պատասխանեք հարցերին:
 

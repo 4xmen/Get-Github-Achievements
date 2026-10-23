@@ -2,18 +2,14 @@
 
 <div align="center" >
 
-<img width="296" src="../badges/GalaxyBrain.png" alt="QuickDraw-Pin">
+<img width="296" src="../badges/GalaxyBrain.png" alt="GalaxyBrain-Pin">
 </div>
 
 <hr>
 
 ## Hoe krijg je Galaxy Brain GitHub prestatie stap voor stap :
 
-### 1. Je moet naar de GitHub community pagina gaan (https://github.com/community/community) en een van de feedbackcategorieën selecteren.
-
-<div align="center">
-<img width="400" src="../img/galaxy-brain/galaxy-step1.png" alt="galaxy-brain-step1.png">
-</div>
+### 1. Open het tabblad Discussions van een willekeurige openbare repository en kies de categorie Q&A (of een andere categorie waarin een antwoord gemarkeerd kan worden). Antwoorden op het officiële GitHub Community-forum tellen niet meer mee, omdat GitHub daar prestaties heeft uitgeschakeld.
 
 ### 2. Nu moet je onbeantwoorde vragen vinden in de categorieën die je wilt en de vragen beantwoorden.
 

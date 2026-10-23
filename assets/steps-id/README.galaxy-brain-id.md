@@ -9,11 +9,7 @@
 
 ## Cara Mendapatkan Prestasi Galaxy Brain GitHub langkah demi langkah:
 
-### 1. Anda perlu pergi ke alamat komunitas GitHub (https://github.com/community/community). Dan pilih salah satu kategori umpan balik.
-
-<div align="center">
-<img width="400" src="../img/galaxy-brain/galaxy-step1.png" alt="galaxy-brain-step1.png">
-</div>
+### 1. Buka tab Discussions di repositori publik mana pun dan pilih kategori Q&A (atau kategori lain yang memungkinkan jawaban ditandai). Jawaban di forum resmi GitHub Community tidak lagi dihitung, karena GitHub telah menonaktifkan prestasi di sana.
 
 ### 2. Sekarang Anda perlu mencari Pertanyaan yang Belum Dijawab di kategori apa pun yang Anda inginkan. dan jawablah pertanyaan tersebut.
 

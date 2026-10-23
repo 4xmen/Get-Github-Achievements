@@ -2,13 +2,14 @@
 
 <div align="center"  >
 
-<img width="296" src="../badges/GalaxyBrain.png" alt="QuickDraw-Pin">
+<img width="296" src="../badges/GalaxyBrain.png" alt="GalaxyBrain-Pin">
 </div>
 
 <hr>
 
 ## Jinsi ya kupata mafanikio ya Galaxy Brain kwenye GitHub hatua kwa hatua :
 
+### 1. Fungua kichupo cha Discussions cha hifadhi (repository) yoyote ya umma na uchague kategoria ya Q&A (au kategoria nyingine yoyote ambapo jibu linaweza kuwekwa alama). Majibu kwenye jukwaa rasmi la GitHub Community hayahesabiwi tena, kwa sababu GitHub imezima mafanikio huko.
 
 ### 2. Sasa unahitaji kutafuta maswali yasiyojibiwa katika kategoria zozote unazotaka. na kujibu maswali.
 

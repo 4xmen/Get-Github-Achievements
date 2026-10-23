@@ -2,18 +2,14 @@
 
 <div align="center"  >
 
-<img width="296" src="../badges/GalaxyBrain.png" alt="QuickDraw-Pin">
+<img width="296" src="../badges/GalaxyBrain.png" alt="GalaxyBrain-Pin">
 </div>
 
 <hr>
 
 ## Как шаг за шагом получить достижение Galaxy Brain GitHub:
 
-### 1. Вам нужно перейти на адрес сообщества GitHub (https://github.com/community/community) . И выберите одну из категорий отзывов .
-
-<div align="center">
-<img width="400" src="../img/galaxy-brain/galaxy-step1.png" alt="galaxy-brain-step1.png">
-</div>
+### 1. Откройте вкладку Discussions любого публичного репозитория и выберите категорию Q&A (или любую другую категорию, в которой можно отметить ответ). Ответы на официальном форуме GitHub Community больше не засчитываются, так как GitHub отключил там достижения.
 
 ### 2. Теперь вам нужно найти вопросы без ответа в любых категориях, которые вы хотите. и ответьте на вопросы.
 

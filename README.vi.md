@@ -114,6 +114,24 @@
 <br>
 
 <div align="center"  >
+<a href="assets/steps-vi/README.galaxy-brain-vi.md">
+<img width="296" src="assets/badges/GalaxyBrain.png" alt="GalaxyBrain-Pin">
+</a>
+</div>
+<hr>
+
+## Cách lấy thành tựu Galaxy Brain
+
+### Galaxy Brain khó lấy hơn hai thành tựu trước vì bạn cần đến những người dùng GitHub khác. Để có được thành tựu này, hãy trả lời câu hỏi trong danh mục Q&A ở tab Discussions của một repository công khai và có 2 câu trả lời được chấp nhận.
+
+#### - Nếu bạn cần thêm trợ giúp, hãy nhấp vào nút How to Get để xem hướng dẫn từng bước.
+
+<div align="center"><a href="assets/steps-vi/README.galaxy-brain-vi.md"><img src="assets/img/btn.png" alt="How to get"></a></div>
+<hr>
+
+<br>
+
+<div align="center"  >
 <a href="assets/steps-vi/README.pull-shark-vi.md">
 <img width="296" src="assets/badges/PullShark.png" alt="PullShark-Pin">
 </a>
@@ -245,17 +263,6 @@
 <hr>
 
 <br>
-
-<div align="center"  >
-<img width="296" src="assets/badges/GalaxyBrain.png" alt="GalaxyBrain-Pin">
-</div>
-<hr>
-
-## Galaxy Brain 2022
-
-### Đã trả lời một cuộc thảo luận (có câu trả lời được chấp nhận hai lần), từ 2020 tới 2024
-
-<hr>
 
 # Màu da cho Thành tựu 👋
 

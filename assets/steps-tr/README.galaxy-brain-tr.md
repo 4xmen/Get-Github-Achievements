@@ -2,18 +2,14 @@
 
 <div align="center"  >
 
-<img width="296" src="../badges/GalaxyBrain.png" alt="QuickDraw-Pin">
+<img width="296" src="../badges/GalaxyBrain.png" alt="GalaxyBrain-Pin">
 </div>
 
 <hr>
 
 ## Galaxy Brain GitHub başarısı adım adım nasıl elde edilir :
 
-### 1. GitHub topluluk adresine gitmeniz gerekiyor (https://github.com/community/community) . Ve geri bildirim kategorilerinden birini seçin .
-
-<div align="center">
-<img width="400" src="../img/galaxy-brain/galaxy-step1.png" alt="galaxy-brain-step1.png">
-</div>
+### 1. Herhangi bir herkese açık deponun Discussions sekmesini açın ve Q&A kategorisini (veya bir cevabın işaretlenebildiği başka bir kategoriyi) seçin. GitHub'ın kendi Community forumundaki cevaplar artık sayılmıyor, çünkü GitHub orada başarımları devre dışı bıraktı.
 
 ### 2. Şimdi istediğiniz herhangi bir kategoride Cevaplanmamış Soruları bulmanız gerekiyor. ve soruları cevaplayın.
 

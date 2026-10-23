@@ -2,18 +2,14 @@
 
 <div align="center"  >
 
-<img width="296" src="../badges/GalaxyBrain.png" alt="QuickDraw-Pin">
+<img width="296" src="../badges/GalaxyBrain.png" alt="GalaxyBrain-Pin">
 </div>
 
 <hr>
 
 ## كيفية الحصول على إنجاز العقل الكوني على GitHub خطوة بخطوة:
 
-### 1. يجب أن تنتقل إلى عنوان المجتمع على GitHub (https://github.com/community/community). ثم اختيار إحدى فئات التعليقات.
-
-<div align="center">
-<img width="400" src="../img/galaxy-brain/galaxy-step1.png" alt="galaxy-brain-step1.png">
-</div>
+### 1. افتح تبويب Discussions في أي مستودع عام واختر فئة Q&A (أو أي فئة أخرى يمكن فيها تحديد إجابة). لم تعد الإجابات في منتدى GitHub Community الرسمي تُحتسب، لأن GitHub عطّل الإنجازات هناك.
 
 ### 2. الآن يجب عليك البحث عن الأسئلة التي لم يتم الرد عليها في أي فئة تختارها والرد على هذه الأسئلة.
 

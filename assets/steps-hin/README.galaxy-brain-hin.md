@@ -2,18 +2,14 @@
 
 <div align="center">
 
-<img width="296" src="../badges/GalaxyBrain.png" alt="QuickDraw-Pin">
+<img width="296" src="../badges/GalaxyBrain.png" alt="GalaxyBrain-Pin">
 </div>
 
 <hr>
 
 ## गैलेक्सी ब्रेन GitHub उपलब्धि प्राप्त करने का कदम-से-कदम तरीका:
 
-### 1. आपको GitHub समुदाय पते पर जाना है (https://github.com/community/community)। और एक प्रतिक्रिया श्रेणी का चयन करें।
-
-<div align="center">
-<img width="400" src="../img/galaxy-brain/galaxy-step1.png" alt="galaxy-brain-step1.png">
-</div>
+### 1. किसी भी सार्वजनिक (public) रिपॉजिटरी के Discussions टैब पर जाएँ और Q&A श्रेणी (या कोई भी अन्य श्रेणी जिसमें उत्तर को चिह्नित किया जा सकता है) चुनें। GitHub के अपने Community फ़ोरम में दिए गए उत्तर अब नहीं गिने जाते, क्योंकि GitHub ने वहाँ उपलब्धियाँ बंद कर दी हैं।
 
 ### 2. अब आपको जितनी भी श्रेणियों में चाहें, वहां अनुत्तरित प्रश्नों को ढूंढना है। और प्रश्नों का उत्तर देना है।
 

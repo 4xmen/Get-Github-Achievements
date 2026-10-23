@@ -113,6 +113,24 @@
 <br>
 
 <div align="center"  >
+<a href="assets/steps-de/README.galaxy-brain-de.md">
+<img width="296" src="assets/badges/GalaxyBrain.png" alt="GalaxyBrain-Pin">
+</a>
+</div>
+<hr>
+
+## So erhältst du das Galaxy Brain Achievement
+
+### Dieses Achievement erhältst du, wenn zwei deiner Antworten in GitHub Discussions als **akzeptierte Antwort** markiert wurden.
+
+#### - Wenn du weitere Hilfe benötigst, klicke auf **„So erhältst du es“**, um zur ausführlichen Schritt-für-Schritt-Anleitung zu gelangen.
+
+<div align="center"><a href="assets/steps-de/README.galaxy-brain-de.md"><img src="assets/img/btn-de.png" alt="How to get"></a></div>
+<hr>
+
+<br>
+
+<div align="center"  >
 <a href="assets/steps-de/README.pull-shark-de.md">
 <img width="296" src="assets/badges/PullShark.png" alt="PullShark-Pin">
 </a>
@@ -126,23 +144,6 @@
 #### - Wenn du weitere Hilfe benötigst, klicke auf **„So erhältst du es“**, um zur ausführlichen Schritt-für-Schritt-Anleitung zu gelangen.
 
 <div align="center"><a href="assets/steps-de/README.pull-shark-de.md"><img src="assets/img/btn-de.png" alt="How to get"></a></div>
-<hr>
-
-<br>
-
-<div align="center"  >
-<a href="assets/steps-de/README.galaxy-brain-de.md">
-<img width="296" src="assets/badges/GalaxyBrain.png" alt="GalaxyBrain-Pin">
-</a>
-</div>
-<hr>
-
-## Galaxy Brain (2022)
-
-### Dieses Achievement erhältst du, wenn zwei deiner Antworten in GitHub Discussions als **akzeptierte Antwort** markiert wurden. Es war von 2020 bis 2024 verfügbar.
-
-#### - Wenn du weitere Hilfe benötigst, klicke auf **„So erhältst du es“**, um zur ausführlichen Schritt-für-Schritt-Anleitung zu gelangen.
-<div align="center"><a href="assets/steps-de/README.galaxy-brain-de.md"><img src="assets/img/btn-de.png" alt="How to get"></a></div>
 <hr>
 
 <br>
