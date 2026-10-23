@@ -1,0 +1,30 @@
+name: Idea or new language
+description: Suggest a new language, a new achievement or an improvement to the guide
+labels: [enhancement]
+assignees: [YasinDehfuli]
+body:
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What kind of idea?
+      options:
+        - New language
+        - New or changed achievement
+        - Improvement to the guide
+        - Change to the check, workflows or templates
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: Describe your idea
+      description: For a new language, write the language and its two-letter code, e.g. Italian (`it`).
+    validations:
+      required: true
+  - type: checkboxes
+    id: help
+    attributes:
+      label: Can you do it?
+      options:
+        - label: I'd like to open a Pull Request for this myself

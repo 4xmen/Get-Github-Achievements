@@ -78,7 +78,7 @@
 <br>
 
 <div align="center"  >
-<a href="assets/steps-hin/README.quickdraw-hin.md">
+<a href="assets/steps-bn/README.quickdraw-bn.md">
 <img width="296" src="assets/badges/Quickdraw.png" alt="QuickDraw-Pin">
 </a>
 </div>
@@ -96,7 +96,7 @@
 <br>
 
 <div align="center"  >
-<a href="assets/steps-hin/README.yolo-hin.md">
+<a href="assets/steps-bn/README.yolo-bn.md">
 <img width="296" src="assets/badges/Yolo.png" alt="Yolo-Pin">
 </a>
 </div>
@@ -132,7 +132,7 @@
 <br>
 
 <div align="center"  >
-<a href="assets/steps-hin/README.pull-shark-hin.md">
+<a href="assets/steps-bn/README.pull-shark-bn.md">
 <img width="296" src="assets/badges/PullShark.png" alt="PullShark-Pin">
 </a>
 </div>
@@ -150,7 +150,7 @@
 <br>
 
 <div align="center"  >
-<a href="assets/steps-hin/README.starstruck-hin.md">
+<a href="assets/steps-bn/README.starstruck-bn.md">
 <img width="296" src="assets/badges/Starstruck.png" alt="Starstruck-Pin">
 </a>
 </div>
@@ -168,7 +168,7 @@
 <br>
 
 <div align="center"  >
-<a href="assets/steps-hin/README.pair-extraordinaire-hin.md">
+<a href="assets/steps-bn/README.pair-extraordinaire-bn.md">
 <img width="296" src="assets/badges/PairExtraordinaire.png" alt="PairExtraordinaire-Pin">
 </a>
 </div>
@@ -186,7 +186,7 @@
 <br>
 
 <div align="center"  >
-<a href="assets/steps-hin/README.publicsponsor-hin.md">
+<a href="assets/steps-bn/README.publicsponsor-bn.md">
 <img width="296" src="assets/badges/PublicSponsor.png" alt="PublicSponsor-Pin">
 </a>
 </div>
