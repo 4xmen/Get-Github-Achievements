@@ -51,23 +51,23 @@
 
 # Cómo obtener logros de GitHub
 
-## En este curso se le enseñará paso a paso cómo obtener logros de GitHub.
+## En esta guía aprenderás paso a paso cómo conseguir los logros de GitHub.
 
 ### Notas:
 
-#### Nota 1: Si tienes algún problema para recibir logros, puedes utilizar las instrucciones paso a paso en la sección de cómo obtenerlos.
+#### Nota 1: Si tienes algún problema para recibir un logro, puedes usar las instrucciones paso a paso de la sección de cómo conseguirlo.
 
 #### Nota 2: Todos los tutoriales tienen fotos y cada paso está completamente explicado.
 
-#### Nota 3: Si encuentra algún problema o error, [infórmenos](https://github.com/4xmen/Get-Github-Achievements/issues/new). Y ayúdanos a mejorar el curso.
+#### Nota 3: Si encuentras algún problema o error, [infórmanos](https://github.com/4xmen/Get-Github-Achievements/issues/new) y ayúdanos a mejorar el curso.
 
 <br>
 
 # Logros y exhibición 🏅
 
-#### Los logros son pines que GitHub otorga a tu cuenta de GitHub como recompensa por ciertas actividades y se pueden ver en tu perfil. Estos logros le dan un buen efecto a su cuenta de GitHub y pueden indicar la cantidad de su actividad y cómo está activo.
+#### Los logros son insignias que GitHub otorga a tu cuenta como recompensa por ciertas actividades y se muestran en tu perfil. Le dan un toque distintivo a la cuenta y reflejan cuánta actividad tienes y qué tan activo eres.
 
-#### Puede optar por no mostrar logros en su perfil yendo a su [configuración de perfil](https://github.com/settings).
+#### Puedes ocultar los logros de tu perfil desde tu [configuración de perfil](https://github.com/settings).
 
 #### Aquí te mostramos cómo obtener los logros de GitHub paso a paso :)
 
@@ -86,11 +86,11 @@
 
 ## Cómo conseguir el logro Quickdraw
 
-### Quickdraw es uno de los logros más fáciles de conseguir. Sólo requiere unos pocos pasos. Para obtener este logro debes (cerrar un issue o Pull Request dentro de los 5 minutos posteriores a su apertura).
+### Quickdraw es uno de los logros más fáciles de conseguir: solo requiere unos pocos pasos. Para conseguirlo, debes cerrar un issue o un pull request dentro de los 5 minutos posteriores a su apertura.
 
 #### - Si necesitas más ayuda, haz clic en el botón `Cómo Obtener?` para obtener un tutorial paso a paso sobre cómo conseguir este logro.
 
-<div align="center"><a href="assets/steps-es/README.quickdraw-es.md"><img src="assets/img/btn-es.png" alt="How to get"></a></div>
+<div align="center"><a href="assets/steps-es/README.quickdraw-es.md"><img src="assets/img/btn-es.png" alt="Cómo obtenerlo"></a></div>
 <hr>
 
 <br>
@@ -104,11 +104,11 @@
 
 ## Cómo conseguir el logro Yolo
 
-### Yolo es uno de los logros más bellos de Github, que puede darle un efecto muy hermoso a tu perfil de Github. Para obtener este logro, debes fusionar una solicitud de extracción sin revisión.
+### YOLO es uno de los logros más llamativos de GitHub y da un toque especial al perfil. Para conseguirlo, debes fusionar un pull request sin revisión.
 
 #### - Si necesitas más ayuda, haz clic en el botón `Cómo Obtener?` para obtener un tutorial paso a paso sobre cómo conseguir este logro.
 
-<div align="center"><a href="assets/steps-es/README.yolo-es.md"><img src="assets/img/btn-es.png" alt="How to get"></a></div>
+<div align="center"><a href="assets/steps-es/README.yolo-es.md"><img src="assets/img/btn-es.png" alt="Cómo obtenerlo"></a></div>
 <hr>
 
 <br>
@@ -122,11 +122,11 @@
 
 ## Cómo conseguir el logro Galaxy Brain
 
-### Obtener Galaxy Brain es más difícil que los dos logros anteriores. Y para recibirlo, debe seguir los pasos que necesitan otros usuarios de GitHub. Necesitas: Responder una discusión (obtener una respuesta aceptada dos veces)
+### Conseguir Galaxy Brain es más difícil que los dos logros anteriores, porque depende de otras personas: debes responder en las discusiones (categoría Q&A) y lograr que **dos** de tus respuestas sean marcadas como aceptadas.
 
 #### - Si necesitas más ayuda, haz clic en el botón `Cómo Obtener?` para obtener un tutorial paso a paso sobre cómo conseguir este logro.
 
-<div align="center"><a href="assets/steps-es/README.galaxy-brain-es.md"><img src="assets/img/btn-es.png" alt="How to get"></a></div>
+<div align="center"><a href="assets/steps-es/README.galaxy-brain-es.md"><img src="assets/img/btn-es.png" alt="Cómo obtenerlo"></a></div>
 <hr>
 
 <br>
@@ -140,11 +140,11 @@
 
 ## Cómo conseguir el logro Pull Shark
 
-### Para obtener Pull Shark, debes realizar 2 solicitudes de extracción fusionadas y obtendrás la insignia de un Pull Shark.
+### Para conseguir Pull Shark necesitas **2 pull requests fusionados** (nivel bronce). Con **16** subes a plata y con **128**, a oro.
 
 #### - Si necesitas más ayuda, haz clic en el botón `Cómo Obtener?` para obtener un tutorial paso a paso sobre cómo conseguir este logro.
 
-<div align="center"><a href="assets/steps-es/README.pull-shark-es.md"><img src="assets/img/btn-es.png" alt="How to get"></a></div>
+<div align="center"><a href="assets/steps-es/README.pull-shark-es.md"><img src="assets/img/btn-es.png" alt="Cómo obtenerlo"></a></div>
 <hr>
 
 <br>
@@ -158,11 +158,11 @@
 
 ## Cómo conseguir el logro Starstruck
 
-### Es demasiado simple obtener el logro Starstruck y tienes unos pocos pasos para obtener Starstruck. Puede obtener este logro cuando un repositorio en su cuenta alcance las 16 estrellas, incluso si fue transferido, recibirá la insignia.
+### Conseguir Starstruck es muy simple: obtienes la insignia cuando un repositorio de tu cuenta alcanza las **16 estrellas**. También cuenta si el repositorio fue transferido a tu cuenta.
 
 #### - Si necesitas más ayuda, haz clic en el botón `Cómo Obtener?` para obtener un tutorial paso a paso sobre cómo conseguir este logro.
 
-<div align="center"><a href="assets/steps-es/README.starstruck-es.md"><img src="assets/img/btn-es.png" alt="How to get"></a></div>
+<div align="center"><a href="assets/steps-es/README.starstruck-es.md"><img src="assets/img/btn-es.png" alt="Cómo obtenerlo"></a></div>
 <hr>
 
 <br>
@@ -176,11 +176,11 @@
 
 ## Cómo conseguir el logro Pair Extraordinaire
 
-### Puedes obtener el logro Pair Extraordinaire si eres co-autor de una solicitud de extracción que luego se fusiona.
+### Obtienes Pair Extraordinaire si figuras como **coautor** en un pull request que luego se fusiona. La insignia se otorga a las dos cuentas: la autora y la coautora.
 
 #### - Si necesitas más ayuda, haz clic en el botón `Cómo Obtener?` para obtener un tutorial paso a paso sobre cómo conseguir este logro.
 
-<div align="center"><a href="assets/steps-es/README.pair-extraordinaire-es.md"><img src="assets/img/btn-es.png" alt="How to get"></a></div>
+<div align="center"><a href="assets/steps-es/README.pair-extraordinaire-es.md"><img src="assets/img/btn-es.png" alt="Cómo obtenerlo"></a></div>
 <hr>
 
 <br>
@@ -192,19 +192,19 @@
 </div>
 <hr>
 
-## Cómo conseguir logros de Public Sponsor 
+## Cómo conseguir el logro Public Sponsor
 
-### Solo necesitas hacer una donación a algún colaborador de código abierto.
+### Solo necesitas patrocinar a alguna persona u organización de código abierto. Hace falta una tarjeta y un monto mensual; la insignia aparece tras el primer pago.
 
 #### - Si necesitas más ayuda, haz clic en el botón `Cómo Obtener?` para obtener un tutorial paso a paso sobre cómo conseguir este logro.
 
-<div align="center"><a href="assets/steps-es/README.publicsponsor-es.md"><img src="assets/img/btn-es.png" alt="How to get"></a></div>
+<div align="center"><a href="assets/steps-es/README.publicsponsor-es.md"><img src="assets/img/btn-es.png" alt="Cómo obtenerlo"></a></div>
 
 <hr>
 
 <br>
 
-# Logros inéditos ⏳
+# Logros aún no disponibles ⏳
 
 <br>
 
@@ -215,7 +215,7 @@
 
 ## Heart On Your Sleeve
 
-### El logro 'Heart On Your Sleeve' aún no está disponibles para los usuarios públicos de GitHub en este momento.
+### El logro 'Heart On Your Sleeve' todavía no está disponible para el público general de GitHub.
 
 <hr>
 <br>
@@ -227,7 +227,7 @@
 
 ## Open Sourcerer
 
-### EL logro 'Open Sourcerer' aún no está disponibles para los usuarios públicos de GitHub en este momento.
+### El logro 'Open Sourcerer' todavía no está disponible para el público general de GitHub.
 
 <hr>
 <br>
@@ -245,7 +245,7 @@
 
 ## Mars 2020 Contributor
 
-### Código contribuido a un repositorio utilizado en la misión de helicóptero Mars 2020
+### Código contribuido a un repositorio usado en la misión Mars 2020 (helicóptero Ingenuity)
 
 <hr>
 
@@ -258,7 +258,7 @@
 
 ## Arctic Code Vault Contributor
 
-### Código contribuido a un repositorio en el Programa de Archivo GitHub 2020
+### Código contribuido a un repositorio dentro del GitHub Archive Program (2020)
 
 <hr>
 
@@ -310,10 +310,10 @@
 
 #### Por favor usa esta guía para aprender cómo obtener logros y respeta nuestros términos después de aprender cómo obtener logros de GitHub. Trata de participar en proyectos y esfuérzate por ganar estos logros de manera justa para construir una comunidad más saludable y equitativa en <a href="https://docs.github.com/en/site-policy/github-terms/github-terms-of-service">GitHub</a>.
 
-# Más información ℹ
+# Más información
 
 <br>
 
-#### Puede encontrar más información sobre las insignias de GitHub en este [enlace](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile).
+#### Puedes encontrar más información sobre las insignias de GitHub en este [enlace](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile).
 
 <br>
